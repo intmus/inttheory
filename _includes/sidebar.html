@@ -5,7 +5,7 @@
   </div>
 
   <nav class="sidebar-nav">
-    <div class="sidebar-nav-item{% if page.url == '/' %} active{% endif %}"><a href="https://intmus.github.io/">IntMus:</a> <a class="active-page"href="{{ '/' | absolute_url }}">Theory</a> | <a href="https://intmus.github.io/intas19-20/">Aural Skills</a></div>
+    <div class="sidebar-nav-item{% if page.url == '/' %} active{% endif %}"><a href="https://intmus.github.io/">IntMus:</a> <a class="active-page"href="{{ '/' | absolute_url }}">Theory</a></div>
     <a class="sidebar-nav-item{% if page.url == '/toc.html' %} active{% endif %}" href="{{ site.baseurl }}/toc.html">Table of Contents</a>
 
     {% for chapter in site.collections %}
