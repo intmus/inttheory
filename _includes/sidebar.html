@@ -1,0 +1,36 @@
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
+<div class="sidebar" id="sidebar">
+  <div class="sidebar-item">
+    <p>{{ site.title }}<br>{{ site.description }}</p>
+  </div>
+
+  <nav class="sidebar-nav">
+    <div class="sidebar-nav-item{% if page.url == '/' %} active{% endif %}"><a href="https://intmus.github.io/">IntMus:</a> <a class="active-page"href="{{ '/' | absolute_url }}">Theory</a> | <a href="https://intmus.github.io/intas19-20/">Aural Skills</a></div>
+    <a class="sidebar-nav-item{% if page.url == '/toc.html' %} active{% endif %}" href="{{ site.baseurl }}/toc.html">Table of Contents</a>
+
+    {% for chapter in site.collections %}
+    {% if chapter.label != 'posts' and chapter.label != 'assignments' and chapter.label != 'final-project' %}
+    <div class="sidebar-nav-item chapter{% if page.collection == chapter.label %} active active-chapter{% endif %}" onclick="toggleChapter(this);">{{ chapter.name }}
+      <ul class="chapter-contents">
+        {% for lesson in chapter.docs %}
+        <li><a class="{% if page.url == lesson.url %}active-page{% endif %}" href="{{ lesson.url | relative_url }}">{{ lesson.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+    {% endif %}
+    {% endfor %}
+
+    <a class="sidebar-nav-item{% if page.url == '/forum/index.html' %} active{% endif %}" href="{{ site.baseurl }}/forum/index.html">Forum &amp; Assignments </a>    
+    <a class="sidebar-nav-item{% if page.url == '/about.html' %} active{% endif %}" href="{{ site.baseurl }}/about.html">About</a>
+    <a class="sidebar-nav-item{% if page.url == '/search/' %} active{% endif %}" href="{{ site.baseurl }}/search/index.html">Search</a>
+    <a class="sidebar-nav-item{% if page.url == '/abc-tutorial.html' %} active{% endif %}" href="{{ site.baseurl }}/abc-tutorial.html">ABC Tutorial</a>
+    <a class="sidebar-nav-item{% if page.url == '/abc-playground.html' %} active{% endif %}" href="{{ site.baseurl }}/abc-playground.html">ABC Playground</a>
+    <a class="sidebar-nav-item" href="{{ site.github-repo }}">GitHub project</a>
+  </nav>
+
+  <div class="sidebar-item">
+    <p>
+      <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" >CC BY-NC-SA</a> {{ site.published }}. 
+    </p>
+  </div>
+</div>

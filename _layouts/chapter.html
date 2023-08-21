@@ -1,0 +1,45 @@
+---
+layout: default
+---
+{% assign chap_info = site.collections | where: "label", page.collection | first%}
+{% for links in chap_info.docs %}
+{% if links.title == page.title %}
+{% unless forloop.first %}
+  {% assign prevurl = prev.url %}
+  {% assign prevtitle = prev.title %}
+{% endunless %}
+{% unless forloop.last %}
+  {% assign next = chap_info.docs[forloop.index] %}
+  {% assign nexturl = next.url %}
+  {% assign nexttitle = next.title %}
+{% endunless %}
+{% endif %}
+{% assign prev = links %}
+{% endfor %}
+<div id="chapter-nav">
+  <p><a href="{{ site.baseurl }}/toc.html#{{ chap_info.label }}">Chapter {{ chap_info.name }}</a><br>
+  {% if prevurl %}<a href="{{ prevurl | prepend: site.baseurl }}" class="prev"> ❮ {{ prevtitle }}</a> |<br>{% endif %}
+  {% if nexturl %}<a href="{{ nexturl | prepend: site.baseurl }}" class="nxt">{{nexttitle }} ❯</a>{% endif %}</p>
+</div>
+
+<div class="page">
+
+  <h1 class="page-title">{{ page.title }}</h1>
+  {{ content }}
+
+  {% if page.comments == true %}
+  <p class="forum-help">For information about getting started and our community guidelines, please check the forum <a href="{{ '/forum/help.html' | relative_url }}">help page</a>.</p>
+  <div id="disqus_thread"></div>
+  {% include disqus.html %}
+  {% endif %}
+
+  <div id="chapter-buttons">
+    {% if prevurl %}<div class="topic-nav prev">
+        <a href="{{ prevurl | prepend: site.baseurl }}"> ❮ Previous</a>
+    </div>{% endif %}
+    {% if nexturl %}<div class="topic-nav next">
+        <a href="{{ nexturl | prepend: site.baseurl }}" >Next ❯</a>
+    </div>{% endif %}
+  </div>
+
+</div>

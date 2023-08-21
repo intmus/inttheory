@@ -1,0 +1,12 @@
+<input type="checkbox" id="chat-trigger" class="chat-trigger" >
+<div id="chat-box" class="">
+    
+    <label for="chat-trigger" id="chat-button">
+        <img src="{{ '/assets/chat-alt-double-outline.svg' | relative_url }}" title="chat widget" alt="chat bubble icon">
+    </label>
+
+    <div id="chat-drop">
+        {% include discord.html %}
+    </div>
+
+</div>

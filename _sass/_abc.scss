@@ -1,0 +1,26 @@
+/* add styles for abcjs editor components */
+.abcjs-inline-midi {
+    height: 30px;
+}
+.embed {
+    width: 100%;
+    margin: 1rem auto 1rem;
+    border-bottom: solid 1px #eee;
+    padding: 6px;
+}
+.abc-rendered {
+    width: 100%;
+    height: auto;
+    overflow-x: scroll;
+}
+.abc-text {
+    margin-top: 5px;
+    width: 100%;
+    background-color:#e6e6e6;
+}
+.abc-rendered svg {
+    max-width: 100%;
+}
+.abc-warnings {
+    color: red;
+}

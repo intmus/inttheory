@@ -1,0 +1,29 @@
+<div class="embed">
+		<div id="notation{{ include.number }}" class="abc-rendered"></div>
+		<div id="play{{ include.number }}"></div>
+		<div id="warnings{{ include.number }}" class="abc-warnings"></div>
+<textarea name="abc" id="abc-text{{ include.number }}" class="abc-text" rows="14">
+</textarea>
+<button type="button" onclick="resetAbc{{ include.number }}();">Reset</button>
+</div>
+
+<script type="text/javascript">
+// set soundfonts location
+window.ABCJS.midi.soundfontUrl = "{{ site.baseurl }}/assets/soundfont/";
+var start{{ include.number }} = `{{ include.abc | strip }}`;
+function resetAbc{{ include.number }}() {
+    document.getElementById("abc-text{{ include.number }}").value = start{{ include.number }};
+    initEditor{{ include.number }}();
+}
+document.getElementById("abc-text{{ include.number }}").value = start{{ include.number }};
+
+function initEditor{{ include.number }}() {
+    new ABCJS.Editor("abc-text{{ include.number }}", { paper_id: "notation{{ include.number }}",
+        generate_midi: true,
+        midi_id:"play{{ include.number }}",
+        generate_warnings: true,
+        warnings_id:"warnings{{ include.number }}"
+    });
+}
+window.addEventListener("load", initEditor{{ include.number }}, false);
+</script>

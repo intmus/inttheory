@@ -1,0 +1,167 @@
+/* apply theme following lanyon method */
+.sidebar {
+  background-color: $theme-color;
+}
+.container a,
+.sidebar-toggle,
+.related-posts li a:hover {
+  color: $theme-color;
+}
+/* fix theme background color bug */
+.sidebar-toggle:active,
+#sidebar-checkbox:checked ~ .sidebar-toggle {
+  background-color: #0d0d0d;
+}
+/* index page link buttons */
+.index-buttons {
+    padding-left: 0; 
+    text-align: center;
+    li {
+        list-style: none;
+        display: inline-block;
+        border: solid 1px $theme-color;
+        border-radius: 5px;
+        padding: 2px 5px;
+        margin: 4px 2px 2px 2px;
+    }
+}
+/* add chapter styles for sidebar */
+.chapter {
+    cursor: pointer;
+}
+.chapter-contents {
+    display: none;
+    margin-top: 10px;
+}
+.active-chapter {
+    .chapter-contents {
+        display: block;
+    }
+}
+.sidebar {
+    color: $sidenav-text-color;
+    a {
+        color: $sidenav-link-color;
+    }
+}
+.sidebar-nav {
+    border-bottom: 1px solid $sidenav-active-bg;
+}
+.sidebar-nav-item {
+    border-top: 1px solid $sidenav-active-bg;
+}
+.sidebar-nav-item.active,
+a.sidebar-nav-item:hover,
+a.sidebar-nav-item:focus {
+    background-color: $sidenav-active-bg;
+}
+.active-page {
+    text-decoration: underline;
+}
+/* chapter navigation */
+#chapter-nav {
+    color: #c0c0c0;
+    font-size: 16px;
+    text-align: right;
+    line-height: 1.25;
+    a { color: #c0c0c0;
+    }
+
+}
+#chapter-buttons {
+    display: block;
+    margin: 2rem auto 0;
+    .topic-nav {
+        display: inline-block;
+        width: 49%;
+        border: solid 1px $theme-color;
+        border-radius: 5px;
+        padding: 2px 5px;
+        font-size: 16px;
+        text-align: center;
+        a { 
+            display: inline-block;
+            width: 100%;
+        }
+    }
+    .prev { float: left; }
+    .next { float: right; }
+}
+#chapter-buttons:after {
+    content: "";
+    display: table;
+    clear: both;    
+}
+/* forum */
+.forum-help {
+    font-size: 14px;
+    color: #7a7a7a;
+    text-align: center;
+    border: solid 1px #cccccc;
+    border-radius: 5px;
+}
+/* assignments */ 
+.assignments { 
+    border: solid 1px $theme-color; 
+    border-radius: 5px;
+    padding: 2px 15px;
+    margin-bottom: 15px; 
+    h2 { 
+        cursor: pointer;
+        text-decoration: underline;
+    }
+    ul { display: none; }
+}
+
+/* chat dropdown */
+#chat-button {
+    display: block;
+    color: #505050;
+    //background-color: #fff;
+    border: none;
+    cursor: pointer;
+    margin: 1px;
+    padding-left: 5px;
+    img {
+        height: 1.5rem;
+        margin: 0;
+    }
+}
+#chat-box {
+    position: absolute;
+    top:  1rem;
+    left: 3.5rem;
+    display: block;
+}
+@media (min-width: 30.1em) {
+    #chat-box {
+        position: fixed;
+    }
+}
+@media print {
+    #chat-box {
+        display: none;
+    }
+}
+/* hide checkbox */
+#chat-trigger {
+    display: none;
+}
+/* use css to hide or show menu via checkbox */
+#chat-drop {
+    display: none;
+}
+
+#chat-trigger:checked ~ #chat-box { 
+    border: 1px solid grey;
+    border-radius: 5px;
+    background-color: #fff;
+}
+#chat-trigger:checked ~ #chat-box > #chat-drop {
+    //transition: all 0.5s ease-in;
+    display: block;
+    padding: .25rem;
+    //border: 1px solid grey;
+    //border-radius: 5px;
+    //background-color: #fff;
+}

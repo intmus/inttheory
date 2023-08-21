@@ -1,0 +1,145 @@
+---
+title: ABC Playground
+abc: true
+---
+<!DOCTYPE html>
+<html lang="en-us">
+
+  {% include head.html %}
+
+  <body>
+      <style>
+          #playground {
+              width: 90%;
+              margin: auto;
+          }
+          #quickref {
+            display: none;
+            border: solid 1px #eee;
+            border-radius: 5px;
+            padding: 5px;
+            width: 90%;
+            margin: auto;
+          }
+      </style>
+<div id="no-print">
+    {% include sidebar.html %}
+
+    <div class="wrap">
+      <div class="masthead">
+        <div class="container">
+          <h3 class="masthead-title">
+            <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
+            <small>{{ site.tagline }}</small>
+          </h3>
+        </div>
+      </div>
+    </div>
+
+<div id="playground">
+		<div id="notation" class="abc-rendered"></div>
+    <div id="play"></div>
+		<div id="warnings" class="abc-warnings"></div>
+<textarea name="abc" id="abc-text" class="abc-text" rows="20">
+</textarea>
+<button type="button" onclick="resetAbc();">Reset</button>
+<button type="button" onclick="printAbc();">Print</button>
+<button type="button" id="midi-download"></button>
+<button type="button" id="ref" onclick="showRef();">Quick Ref</button>
+<br>
+<div id="quickref">
+    <p>Common header elements:</p>
+    <ul>
+      <li><code class="highlighter-rouge">X:</code> index number, required in some software [e.g. <code class="highlighter-rouge">X:1</code>]</li>
+      <li><code class="highlighter-rouge">T:</code> title [e.g <code class="highlighter-rouge">T: Happy Birthday</code>]</li>
+      <li><code class="highlighter-rouge">M:</code> meter, required [e.g. <code class="highlighter-rouge">M:C</code>, <code class="highlighter-rouge">M:4/4</code>, <code class="highlighter-rouge">M:3/4</code>]</li>
+      <li><code class="highlighter-rouge">L:</code> default note length [e.g. <code class="highlighter-rouge">L:1/2</code>, <code class="highlighter-rouge">L:1/4</code>, <code class="highlighter-rouge">L:1/8</code>]</li>
+      <li><code class="highlighter-rouge">Q:</code> tempo [e.g. <code class="highlighter-rouge">Q:120</code>, <code class="highlighter-rouge">Q:1/8=120</code>, <code class="highlighter-rouge">Q:1/4=60</code>]</li>
+      <li><code class="highlighter-rouge">K:</code> key signature, required [e.g. <code class="highlighter-rouge">K:G</code>, <code class="highlighter-rouge">K:Gm</code>]</li>
+      <li><code class="highlighter-rouge">V:</code> voice, can set the clef [e.g. <code class="highlighter-rouge">V:1 name=Violin</code>, <code class="highlighter-rouge">V:2 name=Cello clef=bass</code>]</li>
+    </ul>
+    <p>Common notation elements:</p>
+    <ul>
+      <li>bottom octave <code class="highlighter-rouge">CDEFGAB</code>, top octave <code class="highlighter-rouge">cdefgab</code> [e.g. <code class="highlighter-rouge">C</code> = middle C]</li>
+      <li><code class="highlighter-rouge">z</code> rest</li>
+      <li><code class="highlighter-rouge">,</code> down an octave, <code class="highlighter-rouge">'</code> up an octave [e.g. <code class="highlighter-rouge">C,</code> or <code class="highlighter-rouge">c'</code>]</li>
+      <li><code class="highlighter-rouge">^</code> sharps, <code class="highlighter-rouge">_</code> flats [e.g. <code class="highlighter-rouge">^c</code> or <code class="highlighter-rouge">_c</code>]</li>
+      <li>make note longer by multiplying number, or shorter by a <code class="highlighter-rouge">/</code> dividing number [e.g. <code class="highlighter-rouge">a2</code> or <code class="highlighter-rouge">a/2</code>]</li>
+      <li>notes separated by spaces will not have beams, those together will [e.g. <code class="highlighter-rouge">a b c</code> versus <code class="highlighter-rouge">abc</code>]</li>
+      <li><code class="highlighter-rouge">|</code> barline, <code class="highlighter-rouge">|]</code> double bar, <code class="highlighter-rouge">|:</code> repeats <code class="highlighter-rouge">:|</code></li>
+    </ul>
+</div>
+<p>For help, check the <a href="{{ site.baseurl }}/abc-tutorial.html">ABC Tutorial</a>.</p>
+</div>
+
+</div>
+
+<div id="print-abc"></div>
+
+<script type="text/javascript">
+// set soundfonts location
+window.ABCJS.midi.soundfontUrl = "{{ site.baseurl }}/assets/soundfont/";
+var start = `X:1
+T:ABC Playground
+M:4/4
+L:1/4
+Q: 1/4=90
+K:G
+|G||`;
+function showRef() {
+    document.getElementById("quickref").style.display = (document.getElementById("quickref").style.display === "block") ? "none" : "block";
+}
+function resetAbc() {
+    document.getElementById("abc-text").value = start;
+    initEditor();
+}
+function printAbc() {
+     var currentAbc = document.getElementById('abc-text').value;
+     new ABCJS.renderAbc("print-abc", currentAbc);
+     document.getElementById("no-print").style.display = "none";
+     window.print();
+     document.getElementById("no-print").style.display = "block";
+     document.getElementById("print-abc").innerHTML = '';
+}
+document.getElementById("abc-text").value = start;
+
+function initEditor() {
+    new ABCJS.Editor("abc-text", { paper_id: "notation",
+        generate_midi: true,
+        midi_id:"play",
+        midi_download_id: "midi-download",
+        generate_warnings: true,
+        warnings_id:"warnings",
+        midi_options: {
+          generateDownload: true
+        }
+    });
+}
+
+window.addEventListener("load", initEditor, false);
+</script>
+
+    <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+
+    <script>
+      function toggleChapter(e) {
+        e.firstElementChild.style.display = (e.firstElementChild.style.display === "block") ? "none" : "block";
+      }
+      (function(document) {
+        var toggle = document.querySelector('.sidebar-toggle');
+        var sidebar = document.querySelector('#sidebar');
+        var checkbox = document.querySelector('#sidebar-checkbox');
+
+        document.addEventListener('click', function(e) {
+          var target = e.target;
+
+          if(!checkbox.checked ||
+             sidebar.contains(target) ||
+             (target === checkbox || target === toggle)) return;
+
+          checkbox.checked = false;
+        }, false);
+      })(document);
+    </script>
+  </body>
+</html>
