@@ -14,7 +14,29 @@ If we accept that music is "organized sound", then the methods used to organize 
 
 When we build a tonality around a tonic pitch, every pitch in the tonality can be considered to have a set distance, or *interval*, between it and the tonic. It is these intervallic relationships that differentiate one pitch collection from another, and we can categorize each pitch collection by studying their commonalities and differences. 
 
-In Unit 1, we discussed moveable-do solfege as a way for us to look at the relationships between a group of pitches that are organized around a central pitch. In doing so, we created a *scale*, even though we did not define it as such. Whenever you group any number of pitches, you create a *collection*. However, when you order a pitch collection by the frequency of each pitch--or more simply stated, arrange the pitches from low to high--you create a scale. So a scale is *a collection of pitches that are organized in an ascending or descending form*, and consequently create a fixed intervallic pattern. A scale can encompass any tuning system or style of composition.
+### Solfege for relativity
+
+As we begin our study of measuring the distances between pitches, we *could* begin by counting the smallest possible distance between two pitches and then using that as a unit to measure. (And we will do that in the next unit.)
+
+But most people learn music in terms of the system that we perform the music; not as some esoteric counting and numbering system. You already do this instinctively when you listen to music. If you have participated in any amount of music performance, you can likely tell the difference between a major and minor scale, simply by hearing them. You don't need to know the exact pitches, nor do you need to know the name of the primary pitch of the key. Instead, you intuit the relationships in pitch collection by hearing *the relative distance between pitches*. We will discuss our system for labeling intervals in the next unit, but to do so, we need a system that demonstrates the distances between pitches *in relation to* a tonal center, without having to refer to the letter system and a key name. 
+
+There are multiple methods that define music in relative terms, but for this textbook, we will use *moveable-"do" solfege*, a system that evolved from some of the earliest methods of notation. In this system, we assign the *tonic* of the key (or in simpler terms, the first note of the key), to `do`, and then we assign each note above that pitch a similar Latin name based on its distance from `do`. For those of you familiar with the musical *The Sound of Music*, you probably already know the basic seven solfege. "Do (doe), a deer, a female deer...and so on.
+
+We will discuss this system in detail in the unit on scales, but until then, it will be helpful for you to refer to the following chart when necessary.
+
+Scale degree | Solfege syllable | Raised | Lowered
+ --- | --- | --- | ---
+ ^1 | do | di | N/A
+ ^2 | re | ri | ra
+ ^3 | mi | N/A | me
+ ^4 | fa | fi | N/A
+ ^5 | sol | si | se
+ ^6 | la | li | le
+ ^7 | ti | N/A | te
+
+### Creating a scale
+
+Moveable-do solfege allows us to look at the relationships between a group of pitches that are organized around a central pitch. As a byproduct of examining these relative distances, we create a *scale*. A group of any number of pitches is called a *collection*, but an ordered pitch collection by the frequency of each pitch--or more simply stated, arrange the pitches from low to high--you is a special subset of a collection called a scale. So a scale is *a collection of pitches that are organized in an ascending or descending form*, and consequently create a fixed intervallic pattern. A scale can encompass any tuning system or style of composition.
 
 Certain scales are at the core of all common practice harmony, and as a music student, you are likely already familiar with these: *major, minor, modal, pentatonic, and chromatic*. Below, we discuss the diatonic scales (i.e. major and minor) and Topic 2b details the others. We will explore even more types of scales in Unit 22.
 
