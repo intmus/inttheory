@@ -6,8 +6,7 @@ abc: true
 
 ## Class Discussion 2022
 
-"What is music?" Test
-Test
+"What is music?"
 
 The best broad definition for music that doesn't exclude other world music is "Organized sound".
 
