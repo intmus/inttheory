@@ -205,10 +205,6 @@ w:sol fa me do te fa fa me do te do{% endcapture %}
 
 ### Conclusions
 
-The pentatonic scale is a nearly universal sonority as demonstrated by Bobby McFerrin in the following clip.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ne6tB2KiZuk" frameborder="0" allowfullscreen></iframe>
-
 Neither the major nor minor form of the pentatonic scale relates strongly to the harmonic functions that we will study in this course, but their prominence in world and folk musics makes them an important part of our musical heritage. This alone justifies familiarity with these colors.
 
 Major and minor pentatonic scales have a simple relationship to their major and minor counterparts. The major pentatonic scale uses the first, second, third, fifth, and sixth scale degrees of the major scale. The minor pentatonic scale uses the first, third, fourth, fifth, and seventh scale degrees of the minor scale. 

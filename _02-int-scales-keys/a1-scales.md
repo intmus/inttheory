@@ -10,15 +10,21 @@ There are many ways to start an argument with someone, but one of the easiest is
 
 ## Defining *tonal* music
 
-If we accept that music is "organized sound", then the methods used to organize it will define all aspects of its composition. For this course, the majority of music that we'll study will be *tonal* music, meaning music that is organized around a central pitch called the *tonic*.
+If we accept that music is "organized sound", then the methods used to organize sound will define all aspects of its composition. For this course, the majority of music that we'll study will be *tonal* music, meaning music that is organized around a central pitch called the *tonic*.
 
 When we build a tonality around a tonic pitch, every pitch in the tonality can be considered to have a set distance, or *interval*, between it and the tonic. It is these intervallic relationships that differentiate one pitch collection from another, and we can categorize each pitch collection by studying their commonalities and differences. 
 
+### Intuiting tonality
+
+As we begin our study of measuring the distances between pitches, we *could* begin by counting the smallest possible distance between two pitches and then using that as a unit to measure. (And we will do exactly this later in this unit.)
+
+But most people first learn music as part of performing; not as some esoteric counting and numbering system. You already do this instinctively when you listen to music. If you have participated in any amount of musical performance, you can likely tell the difference between a major and minor tonalities--even if you don't know the names--simply by hearing the piece. People will often reduce these concepts to a relatable emotion such as "happy" versus "sad", but these tonalities encompass a wide variety of musical styles and responses. You don't need to know the exact pitches, nor do you need to know the name of the primary pitch of the key. Instead, you intuit the relationships in pitch collection by hearing *the relative distance between pitches*. We will discuss our system for labeling intervals in the next unit, but to do so, we need a system that demonstrates the distances between pitches *in relation to* a tonal center, without having to refer to the letter system and a key name. 
+
+This clip of Bobby McFerrin working with a crowd of scientists demonstrates our ability to intuit musical scales beautifully. Notice that he never needs words to explain the relationships, but instead builds a relationships to the first pitch in the spontaneous composition.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ne6tB2KiZuk" frameborder="0" allowfullscreen></iframe>
+
 ### Solfege for relativity
-
-As we begin our study of measuring the distances between pitches, we *could* begin by counting the smallest possible distance between two pitches and then using that as a unit to measure. (And we will do that in the next unit.)
-
-But most people learn music in terms of the system that we perform the music; not as some esoteric counting and numbering system. You already do this instinctively when you listen to music. If you have participated in any amount of music performance, you can likely tell the difference between a major and minor scale, simply by hearing them. You don't need to know the exact pitches, nor do you need to know the name of the primary pitch of the key. Instead, you intuit the relationships in pitch collection by hearing *the relative distance between pitches*. We will discuss our system for labeling intervals in the next unit, but to do so, we need a system that demonstrates the distances between pitches *in relation to* a tonal center, without having to refer to the letter system and a key name. 
 
 There are multiple methods that define music in relative terms, but for this textbook, we will use *moveable-"do" solfege*, a system that evolved from some of the earliest methods of notation. In this system, we assign the *tonic* of the key (or in simpler terms, the first note of the key), to `do`, and then we assign each note above that pitch a similar Latin name based on its distance from `do`. For those of you familiar with the musical *The Sound of Music*, you probably already know the basic seven solfege. "Do (doe), a deer, a female deer...and so on.
 
