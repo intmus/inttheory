@@ -6,7 +6,7 @@ abc: true
 
 ### Tonal centers and modes
 
-We consider a key to be defined by its tonic, so if two scales share a tonic, they are considered to be the same key but different *modes* of each other. For example, G major and G minor are the same key, but different modes. This is confusing for many students, because they have always associated their concept of a key with its key signature. It may seem like unnecessary jargon, but this differentiation will help in later units when we begin studying how harmonic functions can be used interchangeably between modes.
+We consider a diatonic key to be defined by its tonic, so if two scales share a tonic, they are considered to be the same key but different *modes* of each other. For example, G major and G minor are the same key, but different modes. This is confusing for many students, because they have always associated their concept of a key with its key signature. It may seem like unnecessary jargon, but this differentiation will help in later units when we begin studying how harmonic functions can be used interchangeably between modes.
 
 ## Modes
 
@@ -14,7 +14,7 @@ The logical conclusion of defining a key by its tonic is that there are *many* p
 
 For example, each mode could be "ranked" on a scale from the darkest to lightest, so on your first listen, take note of which sound dark and light to you. (Remember that describing a scale as light or dark is a subjective concept, so you should view your ranking with a healthy bit of skepticism.) Once you have them grouped into dark and light modes, see if you can figure out what each group has in common. Does there seem to be a pattern of notes that pushes a mode toward the extremes of your rankings?
 
-Because we have yet to discuss tonality as an overarching concept, you do not need to worry too much about the difference between modal and diatonic (i.e. major and minor) music yet. So as you listen to the modes below, simply compare the intervallic patterns and solfege to that of the major and minor scales in the previous topic. We will discuss their usage more as we begin to explore musical function and harmony in later chapters.
+Because we have yet to discuss tonality as an overarching concept, you do not need to worry too much about the difference between modal and diatonic (i.e. major and minor) music yet. As you listen to the modes below, simply compare the intervallic patterns and solfege to that of the major and minor scales in the previous topic. We will discuss their usage more as we begin to explore musical function and harmony in later chapters.
 
 ### Goals for this topic:
 
@@ -110,7 +110,7 @@ d B G| =F E c/2>c/2| B G A| G2|]{% endcapture %}
 
 ### Conclusion
 
-When first studying the modes, most students consider modes a simple extension of their major scale--i.e. "Phrygian mode is a major scale starting on the third scale degree"--even though, as mentioned above, the primary six modes (Ionian through Aeolian) predate the major scale. Relating the modes to the major scale is a good way to memorize their construction, because major scales are widely taught as the foundation of Western music. Eventually, you should strive to be able to recall each mode as its own entity, so that you can begin hearing the intricacies of how the mode functions musically, rather than hearing it as a derivation of the major scale. 
+When first studying the modes, most students consider modes a simple extension of their major scale--i.e. "Phrygian mode is a major scale starting on the third scale degree"--even though, as mentioned above, the primary six modes (Ionian through Aeolian) predate the major scale. Relating the modes to the relative major scale is a good start to memorizing their construction, but it limits your ability to quickly create the mode. Eventually, you should strive to be able to recall each mode as its own entity, so that you can begin hearing the intricacies of how the mode functions musically, rather than hearing it as a derivation of the major scale. 
 
 Modes from C Ionian | ^1 | ^2 | ^3 | ^4 | ^5 | ^6 | ^7
  --- | --- | --- | --- | --- | --- | --- | ---
@@ -149,7 +149,7 @@ Modes as related to Ionian (major) scale degrees | ^1 | ^2 | ^3 | ^4 | ^5 | ^6 |
  Locrian | ^1 | ^b2 | ^b3 | ^4 | ^b5 | ^b6 | ^b7
  Lydian Dominant | ^1 | ^2 | ^3 | ^#4 | ^5 | ^6 | ^b7
 
-Yet understanding construction does nothing to further your understanding of their function. Western music education often associates modes with early music, but as mentioned above, modal music is widely used in most genres of modern music, not to mention the prevalence in musical styles from around the world. Using modes allows composers to create a range of colors, through a variety of techniques. For example, one popular theory ranks the modes from "light" to "dark" based on the number of raised or lowered pitches in the mode. If you apply this logic to the previous table, you can see that Lydian and Ionian would be the "brightest" modes because they have the most raised pitches, whereas Phrygian and Locrian would be the darkest modes because they have the most lowered pitches respectively.
+Understanding construction does nothing to further your understanding of their function. Western music education often associates modes with early music, but as mentioned above, modal music is widely used in most genres of modern music, not to mention the prevalence in musical styles from around the world. Using modes allows composers to create a range of colors, through a variety of techniques. For example, one popular theory ranks the modes from "light" to "dark" based on the number of raised or lowered pitches in the mode. If you apply this logic to the previous table, you can see that Lydian and Ionian would be the "brightest" modes because they have the most raised pitches, whereas Phrygian and Locrian would be the darkest modes because they have the most lowered pitches respectively.
 
 Our "non-mode"--the Lydian Dominant scale--shares the altered pitches from both the Lydian and Mixolydian modes, so it cannot be derived in the same manner as the other modes. It is, however, useful in improvising over dominant seventh chords and has the unusual characteristic of acting as a hybrid of the whole tone and octatonic scales, two non-diatonic scales that we will discuss in Unit 22. After you read more about those two scales at a later date, return to the Lydian Dominant scale to see if you can determine *why* we consider it a hybrid of a whole tone and octatonic collections.
 
