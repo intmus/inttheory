@@ -40,14 +40,14 @@ V:1 name=Harmonic
 [AA]| [_BA]| [ce]| [_e_B]| [D_A]| [^dF]| [CB]| [^f^F]||
 w: P1(d) m2 M3(d) P4 d5 A6 M7(d) P8
 V:2 name=Melodic
-B/2_B/2| B/2A/2| c/2^e/2| e/2_B/2| _D/2_A/2| F/2_d/2| ^C/2B/2| f/2^F/2||
+_B/2B/2| B/2A/2| c/2^e/2| e/2_B/2| _D/2_A/2| F/2_d/2| ^C/2B/2| f/2^F/2||
 w:A1 _ M2(d) _ A3 _ A4 _ P5 _ m6 _ m7 _ d8 
 V:3 name=Simple
 [CC]| [_B^A]| [^c_e]| [_eB]| D/2^A/2| d/2F/2| [C__B]| [^fF]||
 w: P1(d) d2 d3 d4 A5 _ M6(d) _ d7 A8
 V:4 name=Compound clef=bass
 [D,_D]| [^B,A,,]| [C,_E]| [_E_B,,]| _A,/2_D,,/2| F,,/2_D/2| ^B,/2C,,/2| [FF,,]||
-w:d8 A9 m10(d) P11 P12 _ m13 _ A14 _ P15(d)||
+w:d8 A9 m10 P11 P12 _ m13 _ A14 _ P15(d)||
 V:5 name=Inversions
 [Aa]| [_B,A]| [cE]| [_E_B]| [d_A]| [^df]| [Bc]| [^f^f]||
 w: P8 M7 m6(d) P5 A4 d3 m2 P1{% endcapture %}
