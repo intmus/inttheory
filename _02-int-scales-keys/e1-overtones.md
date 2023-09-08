@@ -12,6 +12,12 @@ The overtone series can help you to understand:
 - how we determine if an interval is in tune.
 - why we use a harmonic system based on perfect intervals and thirds.
 
+## Bernstein on the importance of the overtone series
+
+Let's start by watching this video of Leonard Bernstein discussing an entertaining supposition as to how the overtone series helps to explain harmony's evolution throughout the ages. Keep in mind that each evolutionary step he discusses adds another partial from the overtone series.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Gt2zubHcER4" frameborder="0" allowfullscreen></iframe>
+
 ## The Structure of the Overtone Series
 
 The overtone series is a series of intervals, or a *harmonic series*, above a given pitch. We call the lowest pitch the *fundamental*, and every tone above it is considered an *overtone*. In the example below, `C2` is the fundamental, `C3` is the first overtone, `G3` is the second overtone, and so on.
@@ -31,15 +37,9 @@ V:2 clef=bass
 C,,C,G,C x x x x x x x x|]{% endcapture %}
 {% include abc-example.html number="1" abc=ex1 %}
 
-## Bernstein on the importance of the overtone series
-
-Next, please watch this video of Leonard Bernstein discussing an entertaining supposition as to how the overtone series helps to explain harmony's evolution throughout the ages. Keep in mind that each evolutionary step he discusses adds another partial from the overtone series.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Gt2zubHcER4" frameborder="0" allowfullscreen></iframe>
-
 ### The Physics of Music
 
-The division of the octave into twelve parts is our brains' interpretations of a simple mathematical phenomenon. When the frequency of a sound wave doubles, our brains hear those two frequencies as sharing some fundamental commonality, so it interprets those two pitches as the "same" but separated by an octave. Therefore, octaves always have a 2:1 ratio. A110, A220, A440, and A880 are all `A` separated by octaves. The next two "simplest" ratios are a 3:2 ratio and a 4:3 ratio, which create a perfect 5th and a perfect 4th respectively. 
+The division of the octave into twelve parts is our brains' interpretations of a simple mathematical phenomenon, and this starts with the overtone series present in *every* sound. When a sound is created, any wavelength that can "line up" with the lowest pitch will create a frequency with greatly increased resonance. For example, the frequency of A2 is 110 Hertz (Hz), which means that it vibrates 110 times per second. If you double that frequency, you create a sound wavelength that will align with our original wavelenth every two times, creating our first overtone above the fundamental at the ratio of 2:1. If you triple the original frequency, you would get the next overtone at 330 Hz, and so on. 330 Hz is the pitch E3, a perfect 12th above our original pitch. It is this naturally occurring resonance above every pitch that creates the need for an octave to be divided into twelve. If you try to divde the octave any other way, you won't create the naturally occurring resonances present in all sounds.
 
 The influence of these ratios is among the most important concepts for understanding the way in which humans process sound. This concept not only explains why humans which intervals find certain intervals consonant or dissonant--simpler ratios are heard as consonant whereas complex ratios are heard as dissonant--but these importance of simpler ratios is easily observed in the circle of fifths. If you begin on any pitch-class and begin moving by ascending perfect 5ths (or 4ths), you will find yourself back at the beginning after cycling through all twelve pitch-classes. We call this the circle of fifths.
 
