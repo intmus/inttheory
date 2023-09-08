@@ -127,6 +127,10 @@ The overtone series is notable because:
 - The overtone series provides a good foundation for voicing chords.
   - Idealized voicing for chords often mimic the overtone series by placing each voice along the overtone series of the lowest voice.
 
+  This video from the Score Circuit does a great job of making an entertaining summary of these concepts:
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/NFo2AXf78xk?si=6AxzTHeb9iyKlElR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### Remembering the overtone series
 
 There are many ways to remember the overtone series.
