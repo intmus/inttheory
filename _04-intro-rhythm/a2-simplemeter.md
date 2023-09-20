@@ -5,11 +5,11 @@ title: Discussion 4a - Simple Meters
 
 ## Class Discussion 
 
-"What is meter?"
+### "What is meter?"
 
 - How we organize strong and weak pulses. Relating beats to the word pulse allows non-musicians to understand a beat.
 
-Hierarchy of rhythm:
+### Hierarchy of rhythm:
 
 - Measure
 
@@ -19,7 +19,7 @@ Hierarchy of rhythm:
 
 - Subdivision - a subdivision is half of the division.
 
-Labeling Meters
+### Labeling Meters
 
 - Duple, triple, and quadruple
 
