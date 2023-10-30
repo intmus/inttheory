@@ -42,11 +42,11 @@ w:tenor bass{% endcapture %}
 
 ### Conclusions 
 
-To this point, everything that we have discussed has been based on a two-voice model, but to move into full diatonic harmony, we need to add inner voices and fully flesh out the harmonies. When doing this, there are certain rules that create better voice-leading and voicings when followed, but as with all stylistic guidelines, please note that these rules are generally strong suggestions rather than hard and fast rules. Good composers bend or break these rules if it better serves their ideas.
+To this point, everything that we have discussed has been based on a two-voice model, but to move into full diatonic harmony, we need to add inner voices and fully support the harmonies. When doing this, there are certain rules that create better voice-leading and voicings when followed, but as with all stylistic guidelines, please note that these rules are generally strong suggestions rather than hard and fast rules. Good composers bend or break these rules if it better serves their ideas.
 
 #### Doubling
 
-When voicing triads in four-part harmony, at least one note must be doubled.
+When voicing triads **in four-part harmony**, at least one note must be doubled.
 
 1. Doubling the root is usually the ideal choice on root position chords and is almost always a reasonable option, regardless of inversion.
 2. Doubling the fifth is generally the second best option for triads, and it is often the best option for second inversion triads.
@@ -70,7 +70,7 @@ Spacing is relatively straightfoward, but it can be difficult to create consiste
   - When the tenor and soprano are within an octave of each other, we call this a *closed voicing*.
   - When the tenor and soprano are more than an octave apart, we call this an *open voicing*.
 
-In general, a good voicing will mimic the overtone series on which our harmony is created. This details of this concept are discussed in Unit 11, but a general rule of good voicing is to use wider intervals between lower voices and narrower intervals between high voices.
+In general, a good voicing will mimic the overtone series on which our harmony is created. This details of this concept are discussed in Unit 11, but a helpful guideline is to use wider intervals between lower voices and narrower intervals between high voices.
 
 #### Range
 
@@ -78,7 +78,7 @@ The ranges for each voice in the examples are conservative, but will serve us we
 
 #### Voice-crossing
 
-There was no easy way to notate this in the examples, but you should avoid crossing your voices unless absolutely necessary. It is almost never absolutely necessary and often creates voice-leading and range issues. As you grow in your part-writing, you may find an occasional reason to cross voices, but do not unnecessarily complicate your first attempts.
+There was no easy way to notate this in the examples, but you should avoid crossing your voices unless used to create a desired texture. It is almost never necessary and often creates voice-leading and range issues. As you grow in your part-writing, you may find an occasional reason to cross voices, but do not unnecessarily complicate your first attempts.
 
 Egon explained this best in one of the greatest 80's movies, so bonus points for anyone that understands this reference.
 ![Never cross the streams](https://64.media.tumblr.com/4ac0c9272c14cddd23e64831c6f7ae1e/tumblr_n2snvjtemt1r9a32bo1_400.gifv)
