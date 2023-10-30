@@ -4,11 +4,11 @@ title: 9b Lesson - Non-chord Tones, Part 2
 abc: true
 ---
 
-*NOTE: The full descriptions below of each type of non-chord tone are from the online textbook, [Open Music Theory](http://www.openmusictheory.com), although each has been edited to suit this textbook's terminology and purpose. If you have not had a chance to check out Open Music Theory in the Further Reading sections from the previous units, please take the time to do so. It is an excellent resource!*
+*NOTE: The full descriptions below each type of non-chord tone are from the online textbook, [Open Music Theory](http://www.openmusictheory.com), although each has been edited to suit this textbook's terminology and purpose. If you have not had a chance to check out Open Music Theory in the Further Reading sections from the previous units, please take the time to do so. It is an excellent resource!*
 
 ## Non-chord tone recap
 
-Understanding non-chord tones is critical for increasing the accuracy and speed of your tonal analysis. When looking at pieces of music, specifically those that have complicated textures, you will often face difficult decisions about which tones are functional to the harmonic progression and which tones are embellishing those functional tones. If you know the shapes that chord tones and their embellishments form, you can separate chord tones from embellishments by simply looking for common patterns.
+Understanding non-chord tones is critical for increasing the accuracy and speed of your tonal analysis. When analyzing music, specifically those that have complicated textures, you will often face difficult decisions about which tones are functional to the harmonic progression and which tones are embellishing those functional tones. If you know the shapes that chord tones and their embellishments form, you can separate chord tones from embellishments by simply looking for common patterns.
 
 **We will use the same simple progression that we used in the previous topic as a template for demonstrating non-chord tones. You can review the analysis here.**
 
@@ -59,7 +59,7 @@ w:F:I ii6 V7 I IV6 ii6/5 V I{% endcapture %}
 
 #### Conclusions
 
-Like neighbor tones, a *neighbor group*, also known as a *double neighbor tone*, begins and ends on the *same* chord tone. Between those two instances of the chord tone are two embellishing tones--one a step above and the other a step below the stable tone being embellished. Though individually we may consider each of the two embellishing tones to be incomplete neighbor tones, the two tones of the neighbor group balance each other and create a contiguous whole, with the overall stability of a complete neighbor. A neighbor group is typically unaccented and off-chord, although it could be both accented and on-chord. It may occur within a single chord or across two chords, and either the upper or lower neighbor can be chromatically altered to strengthen the resolution.
+A *neighbor group* (NG), also known as a *double neighbor tone* (DNT), are a pair of NCTs that are approached by step, leap by 3rd in the opposite direction, and then resolve by step in the opposite direction to the original chord tone. More simply, NGs enclose a chord tone using both the upper and lower neighbor tones. Like neighbor tones, NGs begin and end on the *same* chord tone. Though individually we may consider each of the two embellishing tones to be incomplete neighbor tones, the two tones of the neighbor group balance each other and create a contiguous whole, with the overall stability of a complete neighbor. A neighbor group is typically unaccented and off-chord, although it could be both accented and on-chord. It may occur within a single chord or across two chords, and either the upper or lower neighbor can be chromatically altered to strengthen the resolution.
 
 ![][doubleNeighbor]
 
@@ -139,7 +139,7 @@ w:F:I ii6 V7 I IV6 ii6/5 V I{% endcapture %}
 
 #### Conclusions
 
-An anticipation is a non-chord tone that occurs immediately *before a change of harmony and is left by static motion*. Or more simply stated, an anticipation is a chord tone that arrives a bit too early. It is most often approached by stepwise motion, but you will occasionally find examples that leap to the anticipation. 
+An *anticipation* is a non-chord tone that occurs immediately *before a change of harmony and resolves by static motion to a chord tone of the second chord*. Or more simply stated, an anticipation is a chord tone that arrives a bit early. It is most often approached by stepwise motion, but you will occasionally find examples that leap to the anticipation. 
 
 This NCT must be a chord tone taken from the chord to which it resolves, meaning that it must be a chord tone from the new harmony. The static motion between the NCT and its resolution means that you may consider this related to both suspensions and retardations, although unlike suspensions and retardations, this is *always* an unaccented, off-chord NCT with static motion occurring *after* the NCT rather than before. It is typically found at the ends of phrases and larger formal units.
 
@@ -153,7 +153,7 @@ Some theorists classify syncopated rhythmic figures as separate from anticipatio
 
 ### Pedals (PED)
 
-*Pedals*, often referred to as *pedal tones* or *pedal points*, most often occur in the bass voice but can occur in any voice. They can be difficult to spot if the texture is broken into arpeggiated chords, so it may be necessary to reduce a complicated texture down to block chords to more easily find the pedals.
+*Pedals*, often referred to as *pedal tones* or *pedal points*, most often occur in the bass voice **but can occur in any voice**. They can be difficult to spot if the texture is broken into arpeggiated chords, so it may be necessary to reduce a complicated texture down to block chords to more easily find the pedals.
 
 {% capture ex8 %}X:8
 T:With added pedals

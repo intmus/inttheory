@@ -103,7 +103,7 @@ When we analyze non-chord tones, we *label* all pitches that do not belong to th
 
 ![][passing]
 
-A passing tone is a melodic embellishment that occurs between two stable tones, creating stepwise motion. *It is approached by stepwise motion and left by stepwise motion in the same direction.* A passing tone can be either accented or unaccented as well as on-chord or off-chord.
+A passing tone is a melodic embellishment that occurs between two stable tones, creating stepwise motion. *It is approached by stepwise motion and resolves by stepwise motion in the same direction.* A passing tone can be either accented or unaccented as well as on-chord or off-chord.
 
 The typical figure is *chord tone – passing tone – chord tone*, filling in a third (see example), but multiple adjacent passing tones can also be used to fill in the space between two chord tones, and these would be labeled by their number as appropriate--*double passing tone (dpt), triple passing tone (tpt), or quadruple passing tone (qpt)*. The only time you can have a *diatonic* double passing tone is between the chordal fifth and root of a triad (e.g. sol-(la-ti)-do within a I chord) as shown in in the pick-up measure. A double passing tone can fill in a third if there are chromatic tones, and all triple and quadruple passing tones require chromatic pitches.
 
@@ -111,13 +111,13 @@ The typical figure is *chord tone – passing tone – chord tone*, filling in a
 
 ![][neighbor]
 
-Like the passing tone, a neighbor tone is a melodic embellishment that occurs between two stable tones; however, a neighbor tone occurs between two instances of the same stable tone. *It is approached by stepwise motion and left by stepwise motion in the opposite direction.* Also like the passing tone, movement from the stable tone to the neighbor tone and back will always be by step. A neighbor tone can be either accented or unaccented, but unaccented is more common. It can also be either on-chord or off-chord.
+Like the passing tone, a neighbor tone is a melodic embellishment that occurs between two stable tones; however, a neighbor tone occurs between two instances of the same stable tone. *It is approached by stepwise motion and resolves by stepwise motion in the opposite direction.* Also like the passing tone, movement from the stable tone to the neighbor tone and back will always be by step. A neighbor tone can be either accented or unaccented, but unaccented is more common. It can also be either on-chord or off-chord.
 
 #### Suspension (sus)
 
 ![][suspension]
 
-A suspension is formed of three critical parts: the *preparation* (accented or unaccented), the *suspension* itself (accented), and the *resolution* (unaccented). The preparation is a chord tone (consonance). The suspension is *the same note* as the preparation and *will always be on-chord*, **which means that all suspensions require two chords**, because the preparation will be on a different chord than the NCT itself. The suspension then resolves downward by step to the resolution, which occurs over the same harmony as the suspension. 
+A suspension is a non-chord tone that is *approached by static motion and resolves downward by step*. It has three critical parts: the *preparation* (accented or unaccented), the *suspension* itself (accented), and the *resolution* (unaccented). The preparation is a chord tone (consonance). The suspension is *the same note* as the preparation and *will always be on-chord*, **which means that all suspensions require two chords**, because the preparation will be on a different chord than the NCT itself. The suspension then resolves downward by step to the resolution, which occurs over the same harmony as the suspension. 
 
 Of note, it is a common misconception among students that a suspension is only present if you see a *tied* note. This is not true; the tone can be re-articulated. It only needs to follow the pattern of 
 - chord tone on the first chord-> non-chord tone approached by static motion on a second chord -> resolution within the second chord
@@ -153,7 +153,7 @@ w:F:I ii6 V7 I IV6 ii6/5 V I{% endcapture %}
 
 ### Conclusion (RET)
 
-A retardation is essentially an upward-resolving suspension. It is almost always reserved for the final chord of a large formal division (or a movement), and it frequently appears simultaneously with a suspension (as seen in the picture below--the retardation is the upper-most voice). Like suspensions, retardations must be accented and on-chord, yet unlike suspensions, it is not necessary to label the intervals against the bass, although you may do so if you wish.
+A retardation is a non-chord tone that is *approached by static motion and resolves upward by step*--essentially an upward-resolving suspension. It is almost always reserved for the final chord of a large formal division (or a movement), and it frequently appears simultaneously with a suspension (as seen in the picture below--the retardation is the upper-most voice). Like suspensions, retardations must be accented and on-chord, yet unlike suspensions, it is not necessary to label the intervals against the bass, although you may do so if you wish.
 
 ![][retardation]
 
