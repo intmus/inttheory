@@ -105,6 +105,7 @@ T:Passing 6/4 chords
 M:4/4
 L:1/4
 K:C
+Q:1/4=80
 V:1
 [cE][B][A][G]| [G4]|]
 V:2 clef=bass
@@ -129,6 +130,7 @@ T:V6/4 and viio6
 M:3/4
 L:1/4
 K:C
+Q:1/4=80
 V:1
 [e][d][c]|| [e][d][c]|]
 V:2 clef=bass
@@ -138,19 +140,37 @@ w:C:I V6/4 I6 I viio6 I6{% endcapture %}
 
 ## Pedal
 
-Like the cadential 6/4 and passing 6/4 chords, the pedal 6/4 is defined by the motion that it creates within a voice--most often the bass line. A pedal 6/4 occurs when a voice remains static across multiple chords by employing a second inversion chord. *Note that this is different from a non-chord tone pedal*, because a pedal 6/4 chord uses only chord tones to create the static pedal; it does not use non-chord tones to create the pedal. Harmonize the following two examples of common pedal 6/4 chords.
+Like the cadential 6/4 and passing 6/4 chords, the pedal 6/4 is defined by the motion that it creates within a voice--most often the bass line. A pedal 6/4 occurs when a voice remains static across multiple chords by employing a second inversion chord. *Note that this is different from a non-chord tone pedal*, because a pedal 6/4 chord uses only chord tones to create the static pedal; it does not use non-chord tones to create the pedal. Harmonize the following two examples of common pedal 6/4 chords.  
 
 {% capture ex4 %}X:4
 T:Pedal 6/4 chords
 M:3/4
 L:1/4
 K:C
+Q:1/4=80
 V:1
 [cE]xx[][]|| [dG]xx[][]|]
 V:2 clef=bass
 [C,G,] [C,] [C,]|| [G,,B,] [G,,] [G,,]|]
-w:C:I IV6/4 I V ii6/4 V{% endcapture %}
+w:C:I IV6/4 I V I6/4 V{% endcapture %}
 {% include abc-example.html number="4" abc=ex4 %}
+
+### Conclusions
+
+We can use the pedal chords to demonstrate how second inversion weakens a chord enough to change its primary function. In the following completed example, pause the playback after the third chord. Does it have the stability that we would normally associate with a tonic chord following a dominant function? Absolutely not. It has an unfinished pull that makes its resolution to the following V chord inevitable. This instability is the reason that second iversion chords require particular attention and usage.
+
+{% capture ex6 %}X:6
+T:Pedal 6/4 chord progression
+M:4/4
+L:1/4
+K:C
+Q:1/4=80
+V:1
+[cE][BD][c2E]|[B2F][c2E]|]
+V:2 clef=bass
+[C,G,] [G,,G,] [G,,2G,]| [G,,2G,][C,2G,]|]
+w:C:I V I6/4 V7 I{% endcapture %}
+{% include abc-example.html number="6" abc=ex6 %}
 
 ## Arpeggiated
 
