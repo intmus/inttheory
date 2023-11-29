@@ -159,7 +159,7 @@ w:C:I IV6/4 I V I6/4 V{% endcapture %}
 
 We can use the pedal chords to demonstrate how second inversion weakens a chord enough to change its primary function. In the following completed example, pause the playback after the third chord. Does it have the stability that we would normally associate with a tonic chord following a dominant function? Absolutely not. It has an unfinished pull that makes its resolution to the following V chord inevitable. This instability is the reason that second iversion chords require particular attention and usage.
 
-{% capture ex6 %}X:6
+{% capture ex9 %}X:9
 T:Pedal 6/4 chord progression
 M:4/4
 L:1/4
@@ -170,7 +170,7 @@ V:1
 V:2 clef=bass
 [C,G,] [G,,G,] [G,,2G,]| [G,,2G,][C,2G,]|]
 w:C:I V I6/4 V7 I{% endcapture %}
-{% include abc-example.html number="6" abc=ex6 %}
+{% include abc-example.html number="9" abc=ex9 %}
 
 ## Arpeggiated
 
