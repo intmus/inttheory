@@ -53,7 +53,7 @@ It is easy to transpose in the wrong direction when having to constantly flip ba
 
 One of the most confusing elements of understanding transposing instruments is the use of key names to describe the instruments. If an instrument is "in B-flat" as described above, that implies that the instrument reads parts that are written a M2 away from concert pitch. Unfortunately, this creates the possibility of confusing statements such as, "For a trumpet in B-flat, the key of A-flat is actually B-flat." This ambiguity should be clarified by differentiating between the instrument's transposition and the key signature in which the piece is composed: "For a trumpet [that sounds] in B-flat, the [concert key signature] of A-flat [major] is [written] as B-flat [major]." The language we use in this instance is clunky at best, inadequate at worst. It falls upon the musician to make sure that they are communicating clearly when it comes to transposing instruments. 
 
-### Non-transposing instruments (in C)
+## Non-transposing instruments (in C)
 
 Non-transposing instruments are the easiest to understand, because they read and sound at the pitch written. This group includes:
 - voice
@@ -71,7 +71,7 @@ Non-transposing instruments are the easiest to understand, because they read and
     - See the section below on the history of brass instruments for details.
 - harp
 
-### Octave transposing instruments
+## Octave transposing instruments
 
 Some instruments read in concert pitch, but sound in a different octave. This is done to limit the number of ledger lines necessary to write their parts. This group includes:
 - piccolo (sounds up an octave from written)
@@ -80,7 +80,7 @@ Some instruments read in concert pitch, but sound in a different octave. This is
 - guitar (sounds down an octave from written)
 - double bass (sounds down an octave from written)
 
-### Instruments written in B-flat
+## Instruments written in B-flat
 
 You can find the concert pitch for all B-flat instruments by transposing *down* a M2 from the the written pitch. **This does not necessarily give you the correct octave**--just the correct pitch--so you must then consider the distance and direction based on the specific instrument. 
 
@@ -98,7 +98,7 @@ Conveniently, no B-flat instruments sound higher than their written pitch, so fo
 
 When reading a concert pitch line, transpose *up* a M2 to write for a B-flat instrument. Do not forget the additional octave for bass clarinet and tenor saxophone.
 
-### Instruments written in E-flat
+## Instruments written in E-flat
 
 You can find the concert pitch for all E-flat instruments by transposing *up* a m3 or *down* a M6 from than the written pitch. **This does not necessarily give you the correct octave**--just the correct pitch--so you must then consider the distance and direction based on the specific instrument. 
 
@@ -112,7 +112,7 @@ When reading an E-flat clarinet part, transpose a m3 *up* to find concert pitch.
 
 When reading a concert pitch line, transpose *down* a m3 to write for E-flat clarinet. When reading a concert pitch line, transpose *up* a M6 to write for alto or baritone saxophone. Do not forget to add an additional octave for baritone saxophone.
 
-### Instruments written in F
+## Instruments written in F
 
 You can find the concert pitch for all F instruments by transposing *down* a P5 from the written pitch. Conveniently, this will give you the correct pitch *and* octave for both of these instruments. 
 
@@ -126,7 +126,7 @@ When reading an an English horn or French horn part, transpose *down* a P5 to fi
 
 When reading a concert pitch line, transpose *up* a P5 to write for either English horn or French horn.
 
-### Other transposing instruments
+## Other transposing instruments
 
 Almost all instruments fall into the above categories, but there are two outliers.
 
