@@ -157,7 +157,7 @@ w:C:I IV6/4 I V I6/4 V{% endcapture %}
 
 ### Conclusions
 
-We can use the pedal chords to demonstrate how second inversion weakens a chord enough to change its primary function. In the following completed example, pause the playback after the third chord. Does it have the stability that we would normally associate with a tonic chord following a dominant function? Absolutely not. It has an unfinished pull that makes its resolution to the following V chord inevitable. This instability is the reason that second iversion chords require particular attention and usage.
+We can use pedal chords to demonstrate how second inversion weakens a chord enough to change its primary function. In the following completed example, pause the playback after the third chord. Does it have the stability that we would normally associate with a tonic chord following a dominant function? Absolutely not. It has an unfinished pull that makes its resolution to the following V chord inevitable. This instability is the reason that second iversion chords require careful implementation.
 
 {% capture ex9 %}X:9
 T:Pedal 6/4 chord progression
