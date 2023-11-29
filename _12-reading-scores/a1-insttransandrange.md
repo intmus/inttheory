@@ -6,27 +6,13 @@ abc: true
 
 Now that we have a functional understanding of diatonic harmony, we can begin analyzing scores that use instruments other than voice or piano, but to so, you will need to understand how to read music composed for transposing instruments. 
 
-# Terminology
-
-For various practical and historical reasons, *transposing instruments* produce a different sounding pitch than the one written on the page. For example, when a B-flat clarinet sees a written 'C', that pitch will sound as a 'B-flat'. 
-
-Musicians use the following terms to discuss transposing instruments.
-- *sounding pitch* - The pitch that an instrument produces, regardless of its standard transposition.
-- *written pitch* - The pitch as written on the music.
-- *concert pitch* - The pitch at which the note name matches the standard frequencies for that pitch. (i.e. C = C, A = A, etc.)
-    - In practical usage, concert pitch is almost always interchangeable with sounding pitch.
-
-Transposing instruments are not conceptually difficult to understand--these instruments sound at a different pitch than written--but in practice, it often confuses students because instrument transposition is the process by which we *compensate* for an instrument's sounding pitch. If we write for a B-flat instrument, it sounds a whole-step *lower*, so we must write the part a whole-step *higher* to get the performer to sound the correct pitch. Conversely, when reading a B-flat transposed part, we must read it a whole-step lower for concert pitch, because it is written a whole-step higher than sounding. 
-
-It is easy to transpose in the wrong direction when having to constantly flip back and forth between concert pitch and the transpositions, so it is important to have a complete understanding of transposition for each instrument. Luckily, they can be grouped into relatively few categories.
-
 # Ranges
 
-First, it is helpful to discuss the standard ranges of the instruments while looking at the transpositions. If you can remember that a tenor saxophone has a range similar to a tenor voice, this makes it considerably easier to remember the direction and distance required for its transposition.
+Before we begin looking at transpostion as it pertains to reading scores, it is helpful to discuss the standard ranges of the instruments while looking at the transpositions. If you can remember that a tenor saxophone has a range similar to a tenor voice, this makes it considerably easier to remember the direction and distance required for its transposition.
 
-Instrument and voice ranges are self-explanatory, but there are a variety of caveats that affect the extremes for almost every instrument. Brass players and vocalists, for example, have a *wide* variation of how high or low an individual can comfortably perform depending on the experience of the performer. Some instruments can be physically altered such as the bassoon, double bass, and piano to add more range. Because of this variation as well as the constantly evolving standards of instrument construction and performance standards, you should always research an instrument before you choose to compose for it. While the internet is full of great resources--such as the link below--the best research for understanding an instrument is to discuss the instrument with expert performers. Even with good references such as the one below, it is not able to show the nuances of each instrument. (For example, this sheet does not show the common range extension techniques and tools such as the low C extension for double bass, the use of piccolo trumpet, or altissimo for woodwinds.)
+Instrument and voice ranges are self-explanatory, but there are a variety of caveats that affect the extremes for almost every instrument. Brass players and vocalists, for example, have a *wide* variation of how high or low an individual can comfortably perform depending on the experience of the performer. Some instruments can be physically altered such as the bassoon, double bass, and piano to add more range. Because of this variation as well as the constantly evolving standards of instrument construction and performance standards, you should always research an instrument before you choose to compose for it. While the internet is full of great resources--such as the link below--the best research for understanding an instrument is to discuss the instrument with professional performers. Even with good references such as the one below, it is not able to show the nuances of each instrument. For example, this sheet does not show the common range extension techniques and tools such as the low C extension for double bass, the use of piccolo trumpet, or altissimo for woodwinds. If you have the opportunity to take a course in instrumentation and orchestration, I encourage you to do so; it will be a wonderful opportunity to explore these concepts further!
 
-# Range and transposition handout
+## Range and transposition handout
 
 For our part-writing, we will use the basic ranges from this helpful resource compiled by Dr. BJ Brooks. 
 
@@ -40,7 +26,7 @@ You may print this page for easy reference.
 
 # Clefs
 
-While not directly related to transpositions, some instruments commonly read alternate clefs to lessen the number of ledger lines necessary. These include:
+Another key aspect to reading musical scores is fully understanding the usage of clefs. Some instruments commonly read alternate clefs to lessen the number of ledger lines necessary. These include:
 - viola (default is alto clef, can switch to treble if necessary)
 - cello (default is bass clef, often switches to tenor (or even treble!)when necessary)
 - bassoon (default is bass clef, often switches to tenor when necessary)
@@ -49,9 +35,21 @@ While not directly related to transpositions, some instruments commonly read alt
 
 # Transposition
 
-### Terminology confusion
+## Terminology
 
-Before going further, please make sure that you understand the above definitions and usage for the terms *sounding* pitch, *concert* pitch, and *written* pitch.
+For various practical and historical reasons, *transposing instruments* produce a different sounding pitch than the one written on the page. For example, when a B-flat clarinet sees a written 'C', that pitch will sound as a 'B-flat'. 
+
+Musicians use the following terms to discuss transposing instruments.
+- *sounding pitch* - The pitch that an instrument produces, regardless of its standard transposition.
+- *concert pitch* - The pitch at which the note name matches the standard frequencies for that pitch. (i.e. C = C, A = A, etc.)
+    - In practical usage, concert pitch is almost always interchangeable with sounding pitch.
+- *written pitch* - The pitch as written on the music as seen by the performer.
+
+Transposing instruments are not conceptually difficult to understand--these instruments sound at a different pitch than written--but in practice, it often confuses students because instrument transposition is the process by which we *compensate* for an instrument's sounding pitch. For example, B-flat instruments sound a whole-step *lower* than concert pitch, so we must write their parts a whole-step *higher* than concert pitch to get the performer to create the intended pitch. Conversely, when translating a B-flat instrument part to concert pitch, you must transpose down a whole step to find the pitch actually being produced by the instrument. 
+
+It is easy to transpose in the wrong direction when having to constantly flip back and forth between concert pitch and the transpositions, so it is important to have a complete understanding of transposition for each instrument. Luckily, they can be grouped into relatively few categories.
+
+### Terminology confusion
 
 One of the most confusing elements of understanding transposing instruments is the use of key names to describe the instruments. If an instrument is "in B-flat" as described above, that implies that the instrument reads parts that are written a M2 away from concert pitch. Unfortunately, this creates the possibility of confusing statements such as, "For a trumpet in B-flat, the key of A-flat is actually B-flat." This ambiguity should be clarified by differentiating between the instrument's transposition and the key signature in which the piece is composed: "For a trumpet [that sounds] in B-flat, the [concert key signature] of A-flat [major] is [written] as B-flat [major]." The language we use in this instance is clunky at best, inadequate at worst. It falls upon the musician to make sure that they are communicating clearly when it comes to transposing instruments. 
 
@@ -73,7 +71,7 @@ Non-transposing instruments are the easiest to understand, because they read and
     - See the section below on the history of brass instruments for details.
 - harp
 
-### Octave displacing instruments
+### Octave transposing instruments
 
 Some instruments read in concert pitch, but sound in a different octave. This is done to limit the number of ledger lines necessary to write their parts. This group includes:
 - piccolo (sounds up an octave from written)
