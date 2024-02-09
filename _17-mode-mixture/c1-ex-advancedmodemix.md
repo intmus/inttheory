@@ -10,7 +10,7 @@ Please watch this wonderfully-made video on modal interchange -- another name fo
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1dRA28cdt5c?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-This video does a great job of explaining the concept of mode mixture, but as he mentioned near the end of the video, he is only "scratching the surface". Having watched the video, you probably feel that you understand the extended *concept* of mode mixture, but if you were asked to compose a progression and melody using this advanced language of mode mixture, do you feel that you would be able to implement it? Where would you start? Why did he choose these particular chords? How did he know where they would sound convincing? In short, this video explains the questions of "what is it?", but it does not approach the questions of "why it works" or "how it works".
+This video does a great job of explaining the concept of mode mixture, but as he mentioned near the end of the video, he is only "scratching the surface". Having watched the video, you probably feel that you understand the extended *concept* of mode mixture, but if you were asked to compose a progression and melody using this advanced language of mode mixture, do you feel that you would be able to implement it? Where would you start? Why did he choose these particular chords? How did he know where they would sound convincing? In short, this video explains the question of "what is this?", but it does not approach the questions of "why this works?" or "how can I use this?".
 
 To begin exploring this, use the score below to try voicing one of the progressions taken from the video. Take risks, and break the "rules" as you try this. You must use the chord progression below, but you may alter the bass and soprano lines if you would like. You may also add as many or as few of the pitches as you need. Are you able to make this progression sound as pleasing as it does in the video? If not, what are the factors making this difficult? From a technical viewpoint, is it lack of knowledge or is it the medium (MIDI keyboard)? From a musical viewpoint, what aspects make the biggest improvement when you alter them?
 
@@ -62,7 +62,7 @@ Even seemingly inexplicable choices can be explained, such as the ii<sup>&oslash
 1. The ii<sup>&oslash;7</sup> is inserted into the position where we would normally expect a dominant function.
 2. If you compare the pitches within ii<sup>&oslash;7</sup> to the pitches of vii<sup>o7</sup>, you will realize that three of the pitches are the same (D, F, and A-flat) and the remaining pitch only changes by a half-step (B to C). In this progression, the C works best when it acts as an anticipation of the tonic chord, and this strengthens the voice-leading resolutions of ii<sup>&oslash;7</sup>. Therefore, the ii<sup>&oslash;7</sup> can be viewed as a dominant function chord.
 
-With this in mind, look at the following reduction of an excerpt from Mahler's Symphony No. 2. How would you explain each of these borrowed chords? How do they function? Is this similar to the progression from above?
+With this in mind, let's return one more time to the reduction of the excerpt from Mahler's Symphony No. 2. Does this provide further context as to why we can consider the bII as a dominant function?
 
 {% capture ex2 %}X:2
 T:Mahler Symphony No. 2, Mvt. I
@@ -81,23 +81,11 @@ V:2 clef=bass
 
 ### Conclusions
 
-Each Beat 4 of the first four measures of this passage has a colorful chord that contrasts the stateliness of the C major triad of the first three beats. In measure 1, the B-natural against the B-flat is not a typo; this dissonance is intentional. If you listen to the right-hand of this reduction alone, you will hear a clear descending melody in which the borrowed B-flat begins the `te` - `le` - `sol` melodic tendency that we associate with melodic minor.
+In this case, the bII is acting as a functional substitution for a dominant function (or possibly a plagal cadential function). It shares many common tones with a vii<sup>o7</sup> chord, and these tendency tones follow the voice-leading resolutions that you would expect of a vii<sup>o7</sup>. When it is used to resolve to a I chord, the voice-leading issues are difficult to overcome, so you must be thoughtful in your approach and resolution. 
 
-{% capture ex5 %}X:5
-T:Mahler Symphony No. 2, Mvt. I
-T:Simplified reduction - right hand only
-M:4/4
-L:1/4
-Q:1/4=60
-K:C
-V:1
-[G3EC] _B/2>_A/2| [G3EC] _G/2>F/2| [G3EC] _E/2>_D/2|
-[G3EC] _B,/2>_A,/2| [G2EC] z2| [G2EC] z2| [Eceg] [_E3c_eg]|]{% endcapture %}
-{% include abc-example.html number="5" abc=ex5 %}
+Please note: While the Neapolitan is a commonly used chord, it is far more common to use it as a predominant function rather than as a functional substitution for dominant. Remember that if you ignore the standard tonic/dominant relationship too often, the listener will begin to lose the sense of diatonic progression. This can be good or bad depending on your desired outcome.
 
-Underneath that B-flat, however, is B diminished triad, and when the B-flat moves downward to the A-flat, we hear a a clear borrowed vii<sup>o7</sup>, which makes the B-flat an appogiatura. This figure is repeated down an octave in measure 4.
-
-Measures 2 and 3 follow the same pattern of placing a non-chord tone on beat 4, followed by descending stepwise motion into a chord tone. In this case though, the resulting chord is a D-flat major triad. While we could consider this further mode mixture as a borrowed II chord from the Phrygian mode, it will be easier to wait until the next Unit to discuss Neapolitan chords.
+As always, if you study a chord's voice-leading, you can use this to deduce its function.
 
 ## Chromatic non-chord tones versus mode mixture
 

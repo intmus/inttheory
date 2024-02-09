@@ -78,7 +78,7 @@ You may use a Neapolitan chord as a pre-dominant function in any progression in 
 
 ## Neapolitan chords as dominant chords
 
-In the modal interchange video from Unit 17b, you may have noticed that one of the progressions used a bII chord. In the same unit, we then looked at a similar usage of the bII in the excerpt from Mahler Symphony No. 2. Let's look at this again to refresh the details of your final analysis. How is the Neapolitan chord different from the above examples? What is its function here? If it is not a pre-dominant as above, then what chord from this new function shares the most commonalities with it?
+In the orchestral reduction below, how is the Neapolitan chord different from the above examples? What is its function here? If it is not a pre-dominant as above, then what chord from this new function shares the most commonalities with it?
 
 {% capture ex4 %}X:4
 T:Mahler Symphony No. 2, Mvt. I
@@ -97,8 +97,20 @@ V:2 clef=bass
 
 ### Conclusions
 
-As we discussed in 17b, in this case, the bII is acting as a functional substitution for a dominant function (or possibly a plagal cadential function). It shares many common tones with a vii<sup>o7</sup> chord, and these tendency tones follow the voice-leading resolutions that you would expect of a vii<sup>o7</sup>. When it is used to resolve to a I chord, the voice-leading issues are difficult to overcome, so you must be thoughtful in your approach and resolution. 
+Each Beat 4 of the first four measures of this passage has a colorful chord that contrasts the stateliness of the C major triad of the first three beats. In measure 1, the B-natural against the B-flat is not a typo; this dissonance is intentional. If you listen to the right-hand of this reduction alone, you will hear a clear descending melody in which the borrowed B-flat begins the `te` - `le` - `sol` melodic tendency that we associate with melodic minor.
 
-Please note: While the Neapolitan is a commonly used chord, it is far more common to use it as a predominant function rather than as a functional substitution for dominant. Remember that if you ignore the standard tonic/dominant relationship too often, the listener will begin to lose the sense of diatonic progression. This can be good or bad depending on your desired outcome.
+{% capture ex5 %}X:5
+T:Mahler Symphony No. 2, Mvt. I
+T:Simplified reduction - right hand only
+M:4/4
+L:1/4
+Q:1/4=60
+K:C
+V:1
+[G3EC] _B/2>_A/2| [G3EC] _G/2>F/2| [G3EC] _E/2>_D/2|
+[G3EC] _B,/2>_A,/2| [G2EC] z2| [G2EC] z2| [Eceg] [_E3c_eg]|]{% endcapture %}
+{% include abc-example.html number="5" abc=ex5 %}
 
-As always, if you study a chord's voice-leading, you can use this to deduce its function.
+Underneath that B-flat, however, is B diminished triad, and when the B-flat moves downward to the A-flat, we hear a a clear borrowed vii<sup>o7</sup>, which makes the B-flat an appogiatura. This figure is repeated down an octave in measure 4.
+
+Measures 2 and 3 follow the same pattern of placing a non-chord tone on beat 4, followed by descending stepwise motion into a chord tone. In this case though, the resulting chord is a D-flat major triad--our bII (Neapolitan) chord.
