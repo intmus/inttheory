@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 18a Discussion - Tonal Sequences
+title: 18a Discussion - Melodic Sequences
 abc: true
 ---
 
@@ -15,10 +15,6 @@ abc: true
 - Even though some of the notes in a sequence are chromatic, if each iteration of the sequence starts on a diatonic note in the key it is a diatonic sequence and not a chromatic sequence.
 
 - When labeling chromatic sequences you must include the interval’s quality and size. 
-
-**Harmonic Sequences**
-
-- When dealing with sequences, especially when two voices or more voices are acting as melodic sequences at one time, a harmonic sequence might form. A harmonic sequence is when the roots of the chords in a progression are moving like a sequence. We only ever look at the roots of the chords in a harmonic sequence: the bass notes are usually something different than the root of the chord ( inverted).	
 
 **Labeling Sequences**
 
@@ -42,20 +38,3 @@ You still need to label the roman numerals correctly and every iteration must be
 Some sequences will have qualities of diatonic and chromatic sequences. Ex. 5's inner intervals are fixed, the same as in a chromatic sequence, but the interval of transposition is a "diatonic third," descending in thirds down the C major scale.
 
 **How to label sequences:** put a bracket over the top of the areas you want to ID as a sequence, then draw arrows pointing from the one on the left to the one on the right. Over the top of the arrow, indicate whether it's ascending/descending with an up or down arrow, and also include a number (and quality, if the sequence is chromatic) to ID the interval of transposition.
-
-***Harmonic sequences***
-
-**A two voice sequence**
-- Is this example functional? Can you harmonize the example (come up with a progression for it)? Can we have a cadence as we normally would?
-- Sequences don't have to follow functional tonal harmony rules, which is why it's okay for us to have a V6/4 as our penultimate chord in this example. It's like how passing chords don't have to follow circle-of-fifths progression rules, except it's all the time
-- Adding the alto voice
-  - This also ends up being a sequence! From the second measure, the pattern is down a third + up a second, or an overall transposition interval of a second
-
-
-**Common sequences**
-- Parallel 6 chords
-  - Made entirely of first inversion chords. Goal is a smooth + strong bassline
-  - Always descending
-- Pachelbel's sequence
-  - Suuuuuuuper prevalent, you hear it everywhere
-  - This is the reason we have iii -> IV in our chord progression chart! This progression works in Pachelbel's Canon in D and is used widely even today
