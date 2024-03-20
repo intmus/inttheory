@@ -18,7 +18,7 @@ V:2 clef=bass
 w:C:I vi ii V I{% endcapture %}
 {% include abc-example.html number="1" abc=ex1 %}
 
-Most students when presented with these questions determine that the strength of the progression comes from four things:
+When presented with these questions, most musicians consider the strength of the progression stemming from four things:
 - The overall smoothness of the voice-leading in the upper voices 
 - The "pull" from certain tendency tones toward another
 - The strong, repetitive pattern of the bass voice
