@@ -4,7 +4,7 @@ title: 23a Lesson - Pitch-class integer notation
 abc: true
 ---
 
-Look at the following example. In both cases, the starting interval contains enharmonically equivalent pitches of a tri-tone. In the first measure it is notated as an A4, but in the second measure, it is notated as a d5. What harmony do you think is implied in these two measures? How does the choice of using D-flat or C-sharp change the resolution in a tonal context?
+Examine the following musical reduction. In both cases, the starting interval contains enharmonically equivalent pitches of a tri-tone. In the first measure it is notated as an A4, but in the second measure, it is notated as a d5. What harmony do you think is implied in these two measures? How does the choice of using D-flat or C-sharp change the resolution in a tonal context?
 
 {% capture ex1 %}X:1
 T:The importance of pitch notation in tonal harmony
@@ -40,7 +40,7 @@ w:2 1 0 e t 9 7 6 5 4 0 0 e t e 7 8 9 8 7{% endcapture %}
 
 ### Conclusion
 
-As you can see, pitch-class integer notation assigns a unique integer to all enharmonically equivalent pitches. This particular example is labeled in *fixed zero*, meaning that C=0, and every pitch is counted as half-steps from that point. This system is wonderful for showing intervals quickly, because each number is actually counting the number of half-steps away from zero. For fixed zero, D is two half steps away from zero, A is nine half steps away, and so on. Therefore, when you look at the numbers, you know that if the difference between two numbers is small, it is a small interval. Large distances equate to large intervals.
+As you can see, pitch-class integer notation assigns a unique integer to all enharmonically equivalent pitches. This particular example is labeled in *fixed zero*, meaning that C=0, and every pitch is counted as half-steps from that point. This system is wonderful for showing intervals quickly, because each number is actually counting the number of half-steps away from zero. For fixed zero, D is two half steps away from zero, A is nine half steps away, and so on. Therefore, when you look at the numbers, you know that if the difference between two numbers is small, it is a small interval. Large numbers equate to large intervals. An intuitive approach to digitizing musical expression.
 
 Look at the following chart for the pitch class of every pitch in fixed-zero pc integer notation. Note that this chart does not include double-sharps or double-flats, but *any pitch* can be included along with its enharmonic equivalents.
 
@@ -79,7 +79,7 @@ w:0 1 3 4 6 7 9 t 0{% endcapture %}
 
 You can see that using movable-zero pc integer notation allows you to set 0 to the most important pitch for a given set of pitches, and then base every number around that pitch. In the first example, the D major scale labels D as the central pitch and then counts the half-steps away from that D. The second line assigns E as 0 to show the intervallic structure of the E dorian mode, and the last line assigns F as 0 to show the intervallic structure of an F HW octatonic scale. 
 
-This does make it easy to see the intervals within each scale, but to be honest, standard interval labels (e.g. M2 and m3) do a similar job while also implying context. Movable-zero notation is actually best used for looking for patterns within subsets of pitches. Look at the next example which uses the exact same three scales, but instead of having only one zero, it assigns 0 to multiple pitches within the same scale. What patterns do you see emerge? Can you think of other ways to potentially use this?
+This makes it easy to intuit the intervals within each scale, but this adds little to the system that you have already learned. Standard interval labels (e.g. M2 and m3) perform a similar function while also implying a potential tonal context. Movable-zero notation is actually best used for looking for patterns within *subsets* of pitches. Look at the next example which uses the exact same three scales, but instead of having only one zero, it assigns 0 to multiple pitches within the same scale. What patterns do you see emerge? Can you think of other ways to potentially use this?
 
 {% capture ex4 %}X:4
 T:Scales labeled using multiple zeros in pc integer notation
@@ -95,7 +95,11 @@ F _G ^G A| B c d _e| f|]
 w:0 1 3 4 0 1 3 4 0{% endcapture %}
 {% include abc-example.html number="4" abc=ex4 %}
 
+### Conclusion
+
 By using movable zero to highlight certain collections of pitch classes, you can show intervallic patterns within these collections. For a major scale, there are two (0245) collections separated by a whole step. For a Dorian mode, there are two (0235) collections separated by a whole step. And for a HW octatonic scale, there are two (0134) collections separated by a whole step. What scale would two (0235) collections separated by a half-step create?
+
+## Combining pitch classes
 
 Any time we have a collections of pitch classes, this is called a *pitch-class set* (abbrev: pcs). A pitch-class set can be any number of pitches, and we call the number of pitches within a pcs its *cardinality*. Each cardinality has a special name shown in the chart below.
 

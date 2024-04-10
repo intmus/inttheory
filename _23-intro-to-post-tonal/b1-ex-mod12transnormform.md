@@ -4,7 +4,7 @@ title: 23b Lesson - Labeling Pitch-class Sets and Basic Manipulation
 abc: true
 ---
 
-For the rest of our introduction to post-tonal analysis, we will employ *integer notation* for *pitch classes*. Allen Forte first formalized this system in his seminal work, *The Structure of Atonal Music*, creating a broad analytical framework to compensate for the inadequacy of tonal analytical methods to address music that does not follow the structure and rules of diatonicism. His *set theory* is a specialized form of analysis that looks for intervallic patterns equally across all twelve chromatic pitches, rather than focusing on the relationship between a central pitch (i.e. tonic) and others. 
+For the rest of our introduction to post-tonal analysis, we will employ *integer notation* for *pitch classes*. Allen Forte first formalized this system in his seminal work, *The Structure of Atonal Music*, creating a broad analytical framework to compensate for the inadequacy of tonal analytical methods to address music that does not follow the structure and rules of traditional tonal harmony. His *set theory* is a specialized form of analysis that looks for intervallic patterns equally across all twelve chromatic pitches, rather than focusing on the relationship between a central pitch (i.e. tonic) and others. 
 
 ## Scratching the surface
 
