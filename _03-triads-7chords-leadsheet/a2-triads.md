@@ -5,7 +5,7 @@ title: Discussion 3a - Triads
 
 ## Class Discussion
 
-"What is a triad?"
+*"What is a triad?"*
 
 - In tonal harmony, a triad is a chord with three notes made up of two thirds stacked on top of eachother.
 
