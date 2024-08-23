@@ -20,6 +20,10 @@ abc: true
 
 - Western music is based around the dominant-tonic relationship, which uses tendency tones like Ti and Fa to center around a tonic.
 
+"Pitch vs. Note"
+
+- A pitch is the physical frequency that we hear, a note is what we choose to name it.
+
 “What's the difference between C# and Db?”
 
 - It depends on the scale you are using and the context of the harmony.
@@ -36,9 +40,11 @@ International Standards Organization (ISO)
 
 - Hertz is vibrations per second. The standard for A4 is 440 hertz, or 440 vibrations per second accourding to the ISO.
 
-“How does the ISO system work?”
+“How does the ISO system work for note names?”
 
-- The numbers change when you reach C.
+- Middle C is "C4", just like the explosive! The lowest C on a piano is C1. The highest C on a piano is C8.
+
+- Moving up the keyboard, the number increases each octave when you reach a C. So, a note's number is equal to the nearest C below it.
 
 - B4 and Cb5 might be enharmonically equivalent, but are labeled with different numbers in the ISO system.
 
