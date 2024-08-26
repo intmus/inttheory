@@ -8,7 +8,7 @@ abc: true
 
 "What is music?"
 
-The best broad definition for music that doesn't exclude other world music is "Organized sound".
+**"Organized sound"** is the definition that will be used in this class. It's broad enough to include any genre around the world while still making a distinction against natural, uninfluenced sounds.
 
 "How would you teach a beginner music student what an interval is?"
 
