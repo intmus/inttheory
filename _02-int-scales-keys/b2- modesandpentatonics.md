@@ -6,7 +6,7 @@ abc: true
 
 ## Class Discussion
 
-Order the modes from lightest to darkest.
+# Order the modes from lightest to darkest.
 
 - Lydian, sharp ^4
 
@@ -16,15 +16,23 @@ Order the modes from lightest to darkest.
 
 - Dorian, flat ^3 and flat ^7
 
-- Aeolian, flat ^3, flat^6, flat ^7
+- Aeolian, flat ^3, flat ^6, flat ^7
 
 - Phrygian, flat ^2, flat ^3, flat ^6, and flat ^7
 
 - Locrian, flat ^2, flat ^3, flat ^5, flat ^6, and flat ^7
 
-"Why do the modes sound generally darker as we add more flats (or take away sharps)?"
+"Why do the modes sound darker as we add more flats (or take away sharps)?"
+
+- We associate upward resolution with brightness.
 
 - Partially from societal bias, partially from inherant consonance and dissonance built in our brains for survival purposes.
+
+"Why is Locrian so unused?"
+
+- Locrian is the only mode which doesn't contain a perfect fifth from ^1 to ^5, making the tonic chord extremely dissonant and feel unresolved.
+
+- Also, the lowered ^5 prevents the mode from having a standard V to I resolution that we are accustomed to hearing.
 
 "How do most people think about modes?"
 
@@ -32,7 +40,7 @@ Order the modes from lightest to darkest.
 
 "How do you label intervals?"
 
-- It's important to remember that a dyad (two notes played together) is different than an interval (the spae between two pitches).
+- It's important to remember that a dyad (two pitches played together) is different than an interval (the spae between two pitches).
 
 - Intervals are labeled with a quality first (merfect, major, minor, diminished, and augmented), and a size next (unison, second, third, fourth, etc.).
 
@@ -41,24 +49,7 @@ Order the modes from lightest to darkest.
 - Simple intervals are intervals within the octave, compound intervals are inervals are that stretch further than an octave.
 
 
-
 ## Class discussion 2021
-
-### Modes of Happy Birthday From Lightest to Darkest
-
-Lydian, sharp ^4
-
-Ionian, no changes from the major scale
-
-Mixolydian, flat ^7
-
-Dorian, flat ^3 and flat ^7
-
-Aeolian, flat ^3, flat^6, flat ^7
-
-Phrygian, flat ^2, flat ^3, flat ^6, and flat ^7
-
-Locrian, flat ^2, flat ^3, flat ^5, flat ^6, and flat ^7
 
 **Pentatonic Scales Tricks**
 
