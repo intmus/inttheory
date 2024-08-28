@@ -12,21 +12,11 @@ abc: true
 
 "How would you teach a beginner music student what an interval is?"
 
-- It's hard to teach intervals without an understanding scales, and its hard to teach scales without and understanding of intervals.
-
-- We start with relating to sounds first.
+- It is easiest to teach a student what a scale sounds like first, then base intervals off of that.
 
 "How can we define whole steps and half steps without scales?"
 
-- Looking at the keyboard, a half step is the closest possible next note.
-
-Defining a scale
-
-- There is a difference between a pitch collection and a scale. A pitch collection is just a collection of pitches. In order to make a pitch collection into a scale, it must be arranged in order decending or ascending.
-
-- A scale must have one of each of the seven note names.
-
-When writing out numbered scale degrees, (^1 ^2 ^3 ^4 ^5 ^6 ^7) the arrow goes above the number.
+- Looking at the keyboard, a half step is the closest possible next key. A whole step is two keys away.
 
 "Why do we use melodic minor?"
 
@@ -34,7 +24,7 @@ When writing out numbered scale degrees, (^1 ^2 ^3 ^4 ^5 ^6 ^7) the arrow goes a
 
 "What is the difference between parallel and relative minor?"
 
-- Parallel scales have the same tonic, relative scales have the same notes or, pitch collection.
+- Parallel scales have the same tonic, relative scales share the same collection of pitches.
 
 - Only the natural minor scale has a true relative major scale.
 
@@ -44,15 +34,20 @@ When writing out numbered scale degrees, (^1 ^2 ^3 ^4 ^5 ^6 ^7) the arrow goes a
 
 "Why does melodic minor sound more correct than harmonic minor?"
 
-- Because Ti wants to resolve up to the tonic. When Ti is followed by Le, like in the harmonic minor version of Happy Birthday, there is a melodic augmented second.
+- Because La and Ti want to resolve up to the tonic. When Ti is followed by Le, like in the harmonic minor version of Happy Birthday, there is an augmented second in the melody.
+
 
 ## Class discussion 2021
 
 ### Definition of a Scale
 
-- A scale is an arrangememnt of pitches using intervals of a second in ascending form. 
+- A pitch collection is any group of notes in any order.
 
-- A collection is a group of notes in any order you want. 
+- A scale is a group of notes arranged in an ascending or descending order.
+
+- A scale must contain each of the seven note name (A,B,C,D,E,F,G).
+
+- Scale degrees are written as numbers with a caret symbol (^) above them.
 
 ### Diatonic Classifications
 
