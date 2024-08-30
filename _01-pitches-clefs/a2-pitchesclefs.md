@@ -4,97 +4,41 @@ title: Discussion 1a - Pitches and Clefs
 abc: true
 ---
 
+
+### *"The point of these first four weeks is to learn how to communicate the fundamentals that we already know to those who are not aquainted with them. We take for granted that we have been learning this for years. Sometimes, we will have to describe music to those who have no background. We have to make it understandable, as well as to do our best to keep it interesting."*
+
+
 ## Class Discussion
+
+"How would you define rhythm?"
+
+- The pattern of sound and silence measured over the course of time
 
 “What instruments use alto clef?” 
 
-- Alto voice for older music, Viola, Cello
+- Viola, Cello, Trombone, and old Alto choral parts
 
 “What instruments use tenor clef?” 
 
-- Bass, Trombone, Cello, Euphonium, old Tenor voice parts, etc
+- Cello, Bass, French Horn, Trombone, Euphonium, Tuba, and old Tenor choral parts
 
-“Why do we have these four clefs?”
+“How can we remember where middle C is on each clef”
 
-- Because of the ranges of different instruments
+- Treble clef: one ledger line below the staff
+- Alto and Tenor clef: between the curls on the clef symbol
+- Bass clef: one ledger line above the staff (opposite of Treble clef)
 
-“Where is middle C on each clef”
-
-- Treble clef, or G clef - swirls around the G line (second line)
-- Alto and Tenor, or C clefs - the middle of the clef, where the clef points to (third line)
-- Bass clef or F clef - the starting dot rests on the F line, and the two dots are on either side of the F line (fourth line)
-
-"What strategies can we use to simplify Alto and Tenor Clef?"
+"What strategies can we use to understand Alto and Tenor Clef?"
 
 - Alto is just below treble clef and just above the bass clef. If you think of treble and bass clef together, alto clef is the notes in the middle that bridge the gap between treble and bass clef
 - Treble clef is visually a seventh higher from alto clef, not a second away
-- Think of the lines of the alto clef as a F major 9 chord, through the lens of your instrument
+- Think of the lines of the alto clef as an F major 9 chord (F,A,C,E,G)
 - Everything that is usually on a space is on a line. Create a visual transposition. Think of Alto clef as being a second away, then think down an octave
 - Using reference intervals to connect two clefs
 - Relating the strings of an instrument to the visual difference between clefs
 - Knowing where middle C is
 - Sean’s way - Because the alto clef looks to be lower than tenor clef, you read as if it is an interval of a second higher compared to treble clef. Because the Tenor clef looks to be higher than alto clef, you read as if it is a second lower compared to treble clef.
 
-
-### 2022-22 Discussion
-
-### Creating a Definition of Rhythm
-
-A pattern or a series of patters that happens in a certain amount of time. 
-
-A systematic way to organize time within music
-
-We take for granted that we have been learning this for years. Sometime, we will have to describe music to those who have no background. We have to make it understandable, as well as to do our best to keep it interesting. 
-
-The point of these first four weeks are learning how to communicate the fundamentals that we already know to those who are not aquainted with them. 
-
-### Clef Puzzle
-
-- Treble Clef
-
-Lines, E,G,B,D,F 
-
-Spaces, F,A,C,E
-
-- Alto Clef
-
-Lines, F,A,C,E,G
-
-Spaces, G,B,D,F
-
-- Tenor Clef
-
-Lines, D,F,A,C,E
-
-Spaces, E,G,B,D
-
-- Bass Clef
-
-Lines, G,B,D,F,A
-
-Spaces, A,C,E,G
-
-- Why are clefs designated by a letter?
-
-G Treble clef circles the G
-
-F Bass clef emphasizes the F with the dots and the start of the clef
-
-C Tenor and Alto clef are both centered on middle C
-
-- Where did clefs come from?
-
-A lack off ledger lines, and smaller ranges, so the clef would move around for the ease of the instrumentalist or vocalist, making it for their range. 
-
-- How do the clefs relate?
-
-Middle C is one ledger line below the treble clef and one ledger line above the bass clef. Alto and tenor clef delineate middle C
-
-- What instruments use alto and tenor clef?
-
-Alto clef has cello, viola, and trombone.
-
-Tenor clef has cello, trombone, sometimes tuba, and french horn. 
 
 ## Further Reading
 ======
