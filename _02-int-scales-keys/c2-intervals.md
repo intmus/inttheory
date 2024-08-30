@@ -3,17 +3,15 @@ layout: chapter
 title: Discussion 2c - Identifying and Labeling Intervals
 ---
 
-## Class Discussion
+## Intervals
 
-Intervals
+"What does it mean to invert an interval?"
 
-What does it mean to invert an interval?
-
-- Inversions are when you take one note in an interval and move it an octave up or down past the other note.
+- Inversions are when you take one note in an interval and move it an octave up or down toward the other note.
 
 - When inverting, Major becomes Minor, Perfect remains Perfect, Diminished becomes Augmented
 
-Chromatic Vs Diatonic Intervals
+Chromatic Vs Diatonic Intervals:
 
 - If the notes in an interval appear in the current key, they are diatonic.
 
