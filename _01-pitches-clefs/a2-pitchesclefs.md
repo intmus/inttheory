@@ -4,13 +4,8 @@ title: Discussion 1a - Pitches and Clefs
 abc: true
 ---
 
-### *"The point of these first four weeks is to learn how to communicate the fundamentals that we already know to those who are not aquainted with them. We take for granted that we have been learning this for years. Sometimes, we will have to describe music to those who have no background. We have to make it understandable, as well as to do our best to keep it interesting."*
+## Clef Chatter
 
-## Class Discussion
-
-"How would you define rhythm?"
-- The pattern of sound and silence measured over the course of time
- 
 “What instruments use alto clef?” 
 - Viola, Cello, Trombone, and old Alto choral parts
 
@@ -31,7 +26,18 @@ abc: true
 - Relating the strings of an instrument to the visual difference between clefs
 - Knowing where middle C is
 - Sean’s way - Because the alto clef looks to be lower than tenor clef, you read as if it is an interval of a second higher compared to treble clef. Because the Tenor clef looks to be higher than alto clef, you read as if it is a second lower compared to treble clef.
-  
+
+## Quintessential Quotes
+
+*"The point of these first four weeks is to learn how to communicate the fundamentals that we already know to those who are not aquainted with them. We take for granted that we have been learning this for years. Sometimes, we will have to describe music to those who have no background. We have to make it understandable, as well as to do our best to keep it interesting."*
+
+*"Tenor clef sucks."*
+
+## Random Rattle
+
+"How would you define rhythm?"
+- The pattern of sound and silence measured over the course of time
+ 
 ## Further Reading
 ======
 
