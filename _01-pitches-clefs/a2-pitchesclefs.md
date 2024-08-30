@@ -38,7 +38,7 @@ abc: true
 "How would you define rhythm?"
 - The pattern of sound and silence measured over the course of time
  
-## Further Reading
+# Further Reading
 ======
 
 ## From *Open Music Theory*

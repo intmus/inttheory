@@ -13,7 +13,6 @@ abc: true
 “Why do some places use fixed Do?”
 
 - Fixed Do stems from a tradition of wanting to try to teach the concept of perfect pitch. 
-
 - Perfect pitch isn’t necessarily useful when performing because usually musicians aren’t playing in tune with A 440.
 
 "Why don’t we have a lowered version of Do?"
@@ -27,7 +26,6 @@ abc: true
 “What's the difference between C# and Db?”
 
 - It depends on the scale you are using and the context of the harmony.
-
 - A pitch class is a collection of all of the notes that sound the same but are spelled differently.
 
 "Why does the Ab and G# pitch class have only two notes?"
@@ -37,15 +35,12 @@ abc: true
 International Standards Organization (ISO)
 
 - Standardizes units of measurement for all sorts of things.
-
 - Hertz is vibrations per second. The standard for A4 is 440 hertz, or 440 vibrations per second accourding to the ISO.
 
 “How does the ISO system work for note names?”
 
 - Middle C is "C4", just like the explosive! The lowest C on a piano is C1. The highest C on a piano is C8.
-
 - Moving up the keyboard, the number increases each octave when you reach a C. So, a note's number is equal to the nearest C below it.
-
 - B4 and Cb5 might be enharmonically equivalent, but are labeled with different numbers in the ISO system.
 
 ## Class Discussion 2021
@@ -69,7 +64,7 @@ Be able to visually see who the clefs interact which eachother on a grandstaff a
 
 Housekeeping notes: Double check your discord access. Homeowork assignemnts are posted on discord. Need staff paper (blanksheetmusic.net) <- it's free!
 
-## Further Reading
+# Further Reading
 
 ### From *Open Music Theory*
 
