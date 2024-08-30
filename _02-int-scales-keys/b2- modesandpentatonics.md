@@ -54,9 +54,9 @@ abc: true
 - You take the lower half of Lydian mode combined with the upper half of Mixolydian mode
 - Solfege: Do, Re, Mi, Fi, So, La, Te
 
-How to practice/learn the modes: for example, F Phrygian
-1: (Relative): What scale is F the ^3 of?
-2: (Parallel): What tones are altered in a Phyrgian Scale?
+How to practice/learn modes:
+- Think relative: What scale degree of Ionian do I start on to get this mode?
+- Think parallel: What tones are altered compared to Ionian?
 
 ## Pentatonic Persnickety
 
@@ -66,9 +66,9 @@ How to practice/learn the modes: for example, F Phrygian
 - In other words, for both major and minor pentatonic, you are removing the scale degrees which are a half-step away from a chord tone to form the pentatonic version
 - Major and Minor pentatonic are modes of each other. The notes in a major pentatonic scale match the note in its relative minor pentatonic scale. (Ex: if you play the notes of C major pentatonic, but start on A, you will get A minor pentatonic)
 
-"Pentatonic Solfege"
-- Major Pentatonic: Do, Re, Mi, So, La or ^1, ^2, ^3, ^5, ^6
-- Minor Pentatonic: Do, Me, Fa, Sol, Te or ^1, ^b3, ^4, ^5, ^b7
+Pentatonic Solfege:
+- Major: Do, Re, Mi, So, La or ^1, ^2, ^3, ^5, ^6
+- Minor: Do, Me, Fa, Sol, Te or ^1, ^b3, ^4, ^5, ^b7
 
 
 # Further Reading
