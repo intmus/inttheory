@@ -4,9 +4,10 @@ title: Discussion 2b - Modes and Pentonic Scales
 abc: true
 ---
 
-## Class Discussion
 
-# Order the modes from lightest to darkest.
+## Modal Mayhem
+
+"Order the modes from lightest to darkest"
 
 - Lydian, sharp ^4
 
@@ -36,53 +37,39 @@ abc: true
 
 "How do most people think about modes?"
 
-- As a major scale starting on different pitches. Using the same pitch collection with a different tonic.
+- A major scale starting on different pitches. Using the same pitch collection with a different tonic.
 
 "How do you label intervals?"
 
-- It's important to remember that a dyad (two pitches played together) is different than an interval (the spae between two pitches).
+- It's important to remember that a dyad (two pitches played together) is different than an interval (the space between two pitches).
 
-- Intervals are labeled with a quality first (merfect, major, minor, diminished, and augmented), and a size next (unison, second, third, fourth, etc.).
+- Intervals are labeled with a quality first (perfect, major, minor, diminished, and augmented), and a quantity next (unison, second, third, fourth, etc.).
 
 - Harmonic intervals are intervals played together, melodic intervals are played seperately (one after another).
 
 - Simple intervals are intervals within the octave, compound intervals are inervals are that stretch further than an octave.
 
-
-## Class discussion 2021
-
-**Pentatonic Scales Tricks**
-
--Take out the tri-tone notes (Degree 4 and 7) from the major scale for major pentatonic.
-
--Minor pentatonic can be remembered as taking out scale degree 2 and 6.
-
--Major and Minor are the same pitches, but just organized in a different order (different starting point). They are modes of each other.
-
-**Bobby McFerrin Video**
-
-He could demonstrate that the pentatonic scale can be used independently and easily taught. 
-
-Even though it is missing the two notes that we considered important scale degrees, if can still be expressive and interesting (and it is in our bones). 
-The Major Pentatonic scale, how the audience knew about Mi and So (from McFerrin's demonstration)
-
-**Major Pentatonic: Do, Re, Mi, So, La or ^1, ^2, ^3, ^5, ^6.
-
-**Minor Pentatonic: Do, Me, Fa, Sol, Te or ^1, ^b3, ^4, ^5, ^b7.
-
-###Notes Continued on Wednesday September 1, 2021. 
-
-Mixed Modes
-Lydian Dominant (Do,Re, Mi, Fi, So, La, Te, Do). Compared to major, we have a raised 4th (fi) and a lowered 7th (Te). 
-Lydian Dominant, rather than Lydian Mixolydian. Easier to say. Very useful for dealing with altered chords (we will get to that).
+"What on Earth is Lydian Dominant?"
+- Compared to Ionian (major), it has a raised ^4 and a lowered ^7
+- You take the lower half of Lydian mode combined with the upper half of Mixolydian mode
+- Solfege: Do, Re, Mi, Fi, So, La, Te
 
 How to practice/learn the modes: for example, F Phrygian
 1: (Relative): What scale is F the ^3 of?
 2: (Parallel): What tones are altered in a Phyrgian Scale?
 
-How to find Phrygian Dominant: Build a domninat scale upon the ^5 of the Phrygian scale. (a.k.a the locrian scale).
+## Pentatonic Persnickety
 
-If you raise a pitch, you are wanting to resolve it upwards. If you lower a pitch, you want it to resolve downwards.
+"What are some tricks to crafting pentatonic scales?"
+- Using a major scale, take out the tri-tone notes (degree ^4 and ^7) to form major pentatonic.
+- Using a natural minor scale, take out scale degree ^2 and ^6 to form minor pentatonic
+- In other words, for both major and minor pentatonic, you are removing the scale degrees which are a half-step away from a chord tone to form the pentatonic version
+- Major and Minor pentatonic are modes of each other. The notes in a major pentatonic scale match the note in its relative minor pentatonic scale. (Ex: if you play the notes of C major pentatonic, but start on A, you will get A minor pentatonic)
+
+"Pentatonic Solfege"
+- Major Pentatonic: Do, Re, Mi, So, La or ^1, ^2, ^3, ^5, ^6
+- Minor Pentatonic: Do, Me, Fa, Sol, Te or ^1, ^b3, ^4, ^5, ^b7
+
 
 # Further Reading
 
