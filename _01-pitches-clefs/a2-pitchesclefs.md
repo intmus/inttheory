@@ -10,23 +10,28 @@ abc: true
 
 ## Class Discussion
 
+
 "How would you define rhythm?"
 
 - The pattern of sound and silence measured over the course of time
+
 
 “What instruments use alto clef?” 
 
 - Viola, Cello, Trombone, and old Alto choral parts
 
+
 “What instruments use tenor clef?” 
 
 - Cello, Bass, French Horn, Trombone, Euphonium, Tuba, and old Tenor choral parts
+
 
 “How can we remember where middle C is on each clef”
 
 - Treble clef: one ledger line below the staff
 - Alto and Tenor clef: between the curls on the clef symbol
 - Bass clef: one ledger line above the staff (opposite of Treble clef)
+
 
 "What strategies can we use to understand Alto and Tenor Clef?"
 
@@ -38,6 +43,7 @@ abc: true
 - Relating the strings of an instrument to the visual difference between clefs
 - Knowing where middle C is
 - Sean’s way - Because the alto clef looks to be lower than tenor clef, you read as if it is an interval of a second higher compared to treble clef. Because the Tenor clef looks to be higher than alto clef, you read as if it is a second lower compared to treble clef.
+
 
 
 ## Further Reading
