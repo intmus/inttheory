@@ -4,71 +4,37 @@ title: Discussion 2a - Diatonic Scales
 abc: true
 ---
 
-## Class Discussion 2022
+## Scalar Scoop
 
-"What is music?"
-
-**"Organized sound"** is the definition that will be used in this class. It's broad enough to include any genre around the world while still making a distinction against natural, uninfluenced sounds.
-
-"How would you teach a beginner music student what an interval is?"
-
-- It is easiest to teach a student what a scale sounds like first, then base intervals off of that.
-
-"How can we define whole steps and half steps without scales?"
-
-- Looking at the keyboard, a half step is the closest possible next key. A whole step is two keys away.
-
-"Why do we use melodic minor?"
-
-- It allows for tension and release in both directions. It includes the leading tone without having an augmented second like harmonic minor.
-
-"What is the difference between parallel and relative minor?"
-
-- Parallel scales have the same tonic, relative scales share the same collection of pitches.
-
-- Only the natural minor scale has a true relative major scale.
-
-"Why do we call harmonic minor the harmonic minor scale"
-
-- Because of the dominant-tonic relationship uses the dominant five chord, which requires the leading tone.
-
-"Why does melodic minor sound more correct than harmonic minor?"
-
-- Because La and Ti want to resolve up to the tonic. When Ti is followed by Le, like in the harmonic minor version of Happy Birthday, there is an augmented second in the melody.
-
-
-## Class discussion 2021
-
-### Definition of a Scale
-
+**Definition of a Scale**
 - A pitch collection is any group of notes in any order.
-
 - A scale is a group of notes arranged in an ascending or descending order.
-
 - A scale must contain each of the seven note name (A,B,C,D,E,F,G).
-
 - Scale degrees are written as numbers with a caret symbol (^) above them.
 
-### Diatonic Classifications
+**Additional pedagogical way to label a major scale:**
+- Tonic, Super Tonic, Mediant, Sub Dominant, Dominant, Sub Mediant, Leading Tone
 
-^1 ^2 ^3 ^4 ^5 ^6 ^7 
+**"What is the difference between parallel and relative minor?"**
+- Parallel scales have the same tonic, relative scales share the same collection of pitches.
+- Only the natural minor scale has a true relative major scale.
 
-Do Re Mi Fa Sol La Ti 
+**"Where does harmonic minor get its name?"**
+- Because the dominant-tonic relationship used in standard harmonic progression requires a major five chord, which needs the leading tone.
 
-Tonic, Super Tonic, Mediant, Sub Dominant, Dominant, Sub Mediant, Leading Tone
+**"Why do we use melodic minor?"**
+- It allows for tension and release in both directions. When a melody is ascending, La and Ti draw the ear up to Do. While a melody is descending, Te and Le draw the ear down to So.
 
-The flatted leading tone is called the sub tonic, since in minor music, both the sub tonic and the leading tone are used. We will not use that type labelling much in this class. Some people use it, so we need to know it to an extent. 
+**"Why does melodic minor sound more correct than harmonic minor?"**
+- Because La and Ti want to resolve up to the tonic. When Ti is followed by Le, like in the harmonic minor version of Happy Birthday, there is an augmented second in the melody.
 
-### The Differences Between the Minor Scales
+## Interval Interlude
 
-In natural and harmonic minor, a melody, such as happy birthday, has a few spots where it just sounds bad. Clunky notes or weird intervals make our ears wince a little bit. But, with melodic minor, which has both the sub tonic and leading tone, makes happy birthday normal, though having a minor sound. 
+**"How would you teach a beginner music student what an interval is?"**
+- It is easiest to teach a student what a scale sounds like first, then base intervals off of that.
 
-### Parallel Vs. Relative
-
-Parallel scales start on the same pitch. Like D major and D minor. 
-
-Relative scales share the same sharps and flats. Like C major and A natural minor. 
-
+**"How can we define whole steps and half steps without scales?"**
+- Looking at the keyboard, a half step is the closest possible next key. A whole step is two keys away.
 
 # Further Reading
 
