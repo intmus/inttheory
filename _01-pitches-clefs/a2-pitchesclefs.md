@@ -6,18 +6,18 @@ abc: true
 
 ## Clef Chatter
 
-“What instruments use alto clef?” 
+**“What instruments use alto clef?”**
 - Viola, Cello, Trombone, and old Alto choral parts
 
-“What instruments use tenor clef?” 
+**“What instruments use tenor clef?”**
 - Cello, Bass, French Horn, Trombone, Euphonium, Tuba, and old Tenor choral parts
 
-“How can we remember where middle C is on each clef”
+**“How can we remember where middle C is on each clef”**
 - Treble clef: one ledger line below the staff
 - Alto and Tenor clef: between the curls on the clef symbol
 - Bass clef: one ledger line above the staff (opposite of Treble clef)
 
-"What strategies can we use to understand Alto and Tenor Clef?"
+**"What strategies can we use to understand Alto and Tenor Clef?"**
 - Alto is just below treble clef and just above the bass clef. If you think of treble and bass clef together, alto clef is the notes in the middle that bridge the gap between treble and bass clef
 - Treble clef is visually a seventh higher from alto clef, not a second away
 - Think of the lines of the alto clef as an F major 9 chord (F,A,C,E,G)
@@ -35,7 +35,7 @@ abc: true
 
 ## Random Rattle
 
-"How would you define rhythm?"
+**"How would you define rhythm?"**
 - The pattern of sound and silence measured over the course of time
  
 # Further Reading
