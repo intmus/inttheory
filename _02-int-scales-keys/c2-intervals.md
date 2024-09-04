@@ -3,110 +3,46 @@ layout: chapter
 title: Discussion 2c - Identifying and Labeling Intervals
 ---
 
-## Intervals
+## Interval Introspection
 
-"What does it mean to invert an interval?"
+**How do find the size?**
+- Count lines and spaces, starting on the first note.
+- Count letter names (C, D, E = 3rd).
 
-- Inversions are when you take one note in an interval and move it an octave up or down toward the other note.
+**How do you explain interval quality?**
+- The way it sounds and fits in the major scale. 
+- You can find any interval starting on "Do" going up (ascending). These can be major, minor, or perfect in quality. 
+- You can group Perfect, Augmented, and Diminished together (Perfect heiarchy). Also, major and minor can be grouped together (major/minor heiarchy). 
 
-- When inverting, Major becomes Minor, Perfect remains Perfect, Diminished becomes Augmented
-
-Chromatic Vs Diatonic Intervals:
-
-- If the notes in an interval appear in the current key, they are diatonic.
-
-- If the one (or both) of the notes in an interval use(s) accidentals, the interval is probably chromatic (can't exist without accidentals in most cases).
-
+**Diatonic vs. Chromatic**
+- Diatonic intervals occur within the key signature.
+- Chromatic intervals have altered notes.
 - Go up the major scale starting from the bottom note. If it is in the major scale, it's diatonic.
 
-Some intervals can only have certain qualtities. Possible qualities for all intervals:
-
+**Some intervals can only have certain qualtities. Possible qualities for all intervals:**
 - Unisons can be Augmented and Perfect (Not Diminished).
-
 - Seconds can be Augmented, Major, Minor, and Diminished.
-
 - Thirds can be Augmented, Major, Minor and Diminished.
-
 - Fourths can be Augmented, Perfect, and Diminished.
-
 - Fifths can be Augmented, Perfect, and Diminished.
-
 - Sixths can be Augmented, Major, Minor, and Diminished.
-
 - Sevenths can be Augmented, Major, Minor, and Diminished.
-
 - Octaves can be Augmented, Perfect, and Diminished.
 
-Hierarchy for intervals that cannot be Major or Minor (from widest to closest)  - Augmented, Perfect, Diminished
-
-Hierarchy for intervals that cannot be Perfect - Augmented, Major, Minor, Diminished
-
-When determining intervals, the diatonic intervals in an ascending major scale contains only Major and Perfect intervals. Likewise, descending major sclaes contain only Major and Perfect intervals.
-
-## Class Discussion 2021
-
-*(Only 8 diatonic intervals. The rest are chromatic)*
-
-**How do you explain size?**
-
--How many lines and spaces are there? (Include the bottom and top; space, line, space; 3rd)
-
--Letter names (C, D, E; 3rd) 
-
-**How do you explain interval quality?**
-
--The way it sounds and fits in the major scale. 
-
--You can find any interval starting on "Do" going up (ascending). These can be major, minor, or perfect in quality. 
-
--You can group Perfect, Augmented, and Diminished together (Perfect heiarchy). Also, major and minor can be grouped together (major/minor heiarchy). 
-
-**Harmonic vs Melodic**
-
--Harmonic intervals are pitches that are played simultaneously. 
-
--Melodic are played consecutively, or not at the same time. 
+**"What does it mean to invert an interval?"**
+- Inversions are when you take one note in an interval and move it an octave up or down toward the other note.
+- Subtract the original interval from 9 (gives you size) and alter the quality.
+- When inverting, Major becomes Minor, Perfect remains Perfect, Diminished becomes Augmented.
 
 **What is the difference between a simple and compound interval?**
+- Simple have a quantity of 1 to 7. 
+- Compound is adding 7 to to a simple interval. 
 
--Simple are 1-7. 
+**Harmonic vs. Melodic**
+- Harmonic intervals are pitches that are played simultaneously. 
+- Melodic are played consecutively (not at the same time). 
 
--Compound is adding 7 to to a simple interval. 
-
-**Diatonic vs Chromatic**
-
--Diatonic intervals occur within the key signature. 
-
--Chromatic intervals have altered notes. 
-
-**How do inversions work?**
-
--You move one note an octave towards the other note. This is its inversion.  
-
--Subtract the original interval from 9 (gives you size) and alter the quality (minor changes to major and vice versa, augmented becomes diminished and vice versa, perfect becomes perfect because it's perfect) 
-
-**How do you explain interval quality?**
-
--Heirarchy of qualities from biggest to smallest with major and minor: Augmented, Major, minor, diminished (A, M, m, d). The simple interval sizes in the major/minor heirarchy are 2, 3, 6, and 7.
-
--Heirarchy of qualities from biggest to smallest with perfect intervals: Augmented, Perfect, diminished (A, P, d). The simple interval sizes in the Perfect heirarchy are 1, 4, and 5.
-
--Perfect intervals and major/minor intervals do not coexist. 
-
--Qualities come from counting half steps. 
-
--In a major scale, any interval going from the tonic (first note) to any other note in the scale ascending is either a Perfect quality or a Major quality. In a major scale, any interval going from the tonic (first note) to any other note in the scale descending is either Perfect quality or minor quality. 
-
--The way it sounds and fits in the major scale. 
-
--You can find any interval starting on "Do" going up (ascending). These can be major, minor, or perfect in quality. 
-
--Ways to practice interval quality: Know your scales!! If you know your scales and the qualities within them, it is much easier to know what the quality of any two pitches are. 
-
-
-
-
-## Further Reading
+# Further Reading
 
 ### From *Open Music Theory*
 
