@@ -4,24 +4,17 @@ title: Discussion 2d - Key Signatures
 abc: true
 ---
 
-## Class Discussion -
+## Keynotes
 
-Key Signatures Don't Always Represent the Current Key
-
+**Key Signatures Don't Always Represent the Current Key**
 - A piece of music can change key quickly, and change back quickly as well. These changes in tonic aren't always represented by a key signature change in the music.
+- Keys are defined by the tonic and dominant relationship present in the music.
 
-- Keys are more defined by the tonic and dominant relationship present in the music.
-
-Have a pnuemonic device for the order of sharps and flats
-
+**Pnuemonic devices for the order of sharps and flats:**
 - F C G D A E B
-
-- Fat Cats Go Down Alleys Eating Bugs/Birds/Berries
-
+- **F**at **C**ats **G**o **D**own **A**lleys **E**ating **B**irds
 - B E A D G C F
-
-- Bald Eagles Are Diving Gracefully Catching Fish
-
+- **B**ald **E**agles **A**re **D**iving **G**racefully **C**atching **F**ish
 - "Beadcgf"
 
 When you add a sharp (take away a flat), you create the new Ti to the key signature.
@@ -71,7 +64,7 @@ When we stack the first five P5 around the circle, we get a major pentatonic sca
 - Sharps: last sharp + up a half step = the key
 - Flats: second to last flat = the name of the key 
 
-## Further reading
+# Further reading
 ======
 
 ## From *Open Music Theory*
