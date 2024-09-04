@@ -4,50 +4,43 @@ title: Discussion 1b - Labeling Pitches
 abc: true
 ---
 
-## Class Discussion
+## Solfege Spiel
 
-“What is the purpose of solfege?"
-- To relate the notes of the scale to an action.
+**“What is the purpose of solfege?"**
+- To assign a one-syllable word to each note in a scale.
+- It is extremely helpful for learning melodies and transposing to different keys.
 
-“Why do some places use fixed Do?”
-- Fixed Do stems from a tradition of wanting to try to teach the concept of perfect pitch. 
+**“Why do some places use Fixed Do?”**
+- Fixed Do stems from a tradition of wanting to try to teach the concept of perfect pitch.
 - Perfect pitch isn’t necessarily useful when performing because usually musicians aren’t playing in tune with A 440.
 
-"Why don’t we have a lowered version of Do?"
+**"Why don’t we have a lowered version of Do?"**
 - Western music is based around the dominant-tonic relationship, which uses tendency tones like Ti and Fa to center around a tonic.
 
-"Pitch vs. Note"
+**Variations in solfege spelling:**
+- British Phonetic: Doh, Ray, Mee, Fah, Soh, Lah, Tee.
+- Latin (used in this course): Do, Re, Mi, Fa, Sol, La, Ti.
+
+## Pitch Prattle
+
+**Pitch vs. Note**
 - A pitch is the physical frequency that we hear, a note is what we choose to name it.
 
-“What's the difference between C# and Db?”
+**“What's the difference between C# and Db?”**
 - It depends on the scale you are using and the context of the harmony.
 - A pitch class is a collection of all of the notes that sound the same but are spelled differently.
 
-"Why does the Ab and G# pitch class have only two notes?"
+**"Why does the Ab and G# pitch class have only two notes?"**
 - The black key on the keyboard has black notes on either side, making the natural half steps too far away to have three notes in the pitch class.
 
-International Standards Organization (ISO)
+**International Standards Organization (ISO)**
 - Standardizes units of measurement for all sorts of things.
 - Hertz is vibrations per second. The standard for A4 is 440 hertz, or 440 vibrations per second accourding to the ISO.
 
-“How does the ISO system work for note names?”
+**“How does the ISO system work for note names?”**
 - Middle C is "C4", just like the explosive! The lowest C on a piano is C1. The highest C on a piano is C8.
 - Moving up the keyboard, the number increases each octave when you reach a C. So, a note's number is equal to the nearest C below it.
 - B4 and Cb5 might be enharmonically equivalent, but are labeled with different numbers in the ISO system.
-
-## Class Discussion 2021
-
-#### Pitch Systems and Intro to Solfege
-Dan's British Phonetic System vs. Sean's Latin Solfege spelling
-Latin Spellings: Do,Re,Mi,Fa,Sol,La,Ti. 
-Why Move Do? The relationship between notes doesn't change between keys/key centers. Tonality Agnostic: System that fits all tonal centers. We need a system to demonstrate relationships across all keys.
-Secondary use for solfege: Singing syllable. These solfege pitches are one syllable names to make singing and sight singing easier.
-In a diatonic context (Voice leading, etc.) Do and ti are immovable objects. If they cross, we lose our sense of tonality.
-The first "key" in western harmony is Aeolian Mode (Natural Minor) having the raised Te->Ti. Care for double charps/double flats.
-
-#### Enharmonic Equivalence
-Enharmonic Equivalents: (i.e. Bb and A#). Same frequency/pitch, but function harmonically different in context (A# is not the third of a Gb major triad). Hertz(A=440 Hertz aka virbrations per second (for the wave). Equal temperament made for keyboradist (ruined just intonation). Pitch Class: 12 total, corresponed the 12 most common keys. Using Enharmonic Equivalents for C (B# and Dbb), has three total equivalents. Ab/G# has only two total notes of Enharmonic Equivalent because it's surrounded by two other black keys (on the piano). We need to use triple sharps/triple flats to get the next enharmonic equivalent. The next closest letter name is a whole step away, furthest from the half steps found on the piano. 12 pitches for 7 modes (weird ratio).
-
 
 # Further Reading
 
