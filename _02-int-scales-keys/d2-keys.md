@@ -17,6 +17,10 @@ abc: true
 - **B**ald **E**agles **A**re **D**iving **G**racefully **C**atching **F**ish
 - "Beadcgf"
 
+**Tricks (other than memorization) for figuring out what key signature you're in**
+- Sharps: last sharp + up a half step = the key
+- Flats: second to last flat = the name of the key 
+
 When you add a sharp (take away a flat), you create the new Ti to the key signature.
 
 When you add a flat (take away a sharp), you create the new Fa to the key signature.
@@ -27,20 +31,6 @@ When you add a flat (take away a sharp), you create the new Fa to the key signat
 
 - Think "Do Ti La" or down a half step, then a whole step
 
-
-## Class Discussion 2021
-
-**Frequency Ratio**
-
--1:2 is the most basic ratio we can create with two frequencies. 1:2 creates an octave difference. 
-
--When we have two waves (frequencies) that line up evey two waves (in the crest), our ear hears that repetition as a pitch but one is higher than the other. 
-
--The next simplist ratio is 2:3. This creates a P5 sound.
-
-**P5**
-When we stack the first five P5 around the circle, we get a major pentatonic scale. When F# is changed is changed after B (instead of F), the cycle only repeats after seven pitches instead of all twelve.
-
 **What is a key signature?**
 - A set of sharps or flats defining the scale that you're playing in?
   - Close: the wording implies a key signature where sharps and flats occur together, which isn't the standard key signature we're trying to come up with a definition for
@@ -49,20 +39,12 @@ When we stack the first five P5 around the circle, we get a major pentatonic sca
 - A pattern that results in a tonal center?
   - Yes, though the "tonal center" part is what we are especially concerned with!
   
-**Order of Flats/Sharps
-- Flats (B,E,A,D,G,C,F)-Battle Ends And Down Go Charles Father, BEAD Greatest Common Factor
-- Sharps (F,C,G,D,A,E,B)- (Reverse of Flats)
-**Finding Minor Versions
-
 -Relative Minor: Different tonic, same key signature (Find the 6th scale degree, that is the relative minor, or count 3 notes below the Tonic)
 -Parallel Minor: Same tonic, different key signature (Add three flats/take away three sharps)
+
 **For diatonic purposes:**
 - Key is defined by a tonic
 - Key signature acts as a shorthand in reference to the notes organized *around* the tonic (like a legend on a map)
-
-**Tricks (other than memorization) for figuring out what key signature you're in**
-- Sharps: last sharp + up a half step = the key
-- Flats: second to last flat = the name of the key 
 
 # Further reading
 ======
