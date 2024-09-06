@@ -10,7 +10,7 @@ abc: true
 - When the frequency of a tone lines up well with the frequency of another tone, we hear it as consonant.
 - The most simple ratio we can create is 2:1, where a tone vibrates at one half the frequency of another tone. We call this an octave. The next simplest ratio is 3:2. We call this a perfect fifth. As the ratios between two frequencies become more complex, the interval becomes more dissonant. 
 
-**"How do we differenciate timbre?"**
+**"How do we differentiate timbre?"**
 - Every sound produces overtone, and our brain organizes all of the extra tones we hear into one sound. Different timbres occur becuase every sound source contains different levels of overtones.
 - A "big" sound (the kind we usually hear in professional musicians) just means that there's a strong fundamental and a LOT of presence of the overtones in that person's sound.
 
@@ -33,9 +33,9 @@ abc: true
 **If the overtone series exists everywhere, how did non-twelve-tone music evolve?**
 - In the case of gamelan and some types of Indian music, these systems were based off of the instruments constructed to play that music, not the voice.
 
-**Major Sclae Makeup**
+**Major Scale Makeup**
 - All major scales are made up of all perfect fifths with one diminished fifth. 
 
-**Equal Temperment vs Just Temperment**
+**Equal Temperament vs. Just Temperament**
 - Equal temperment means that every pitch is equally spaced apart in frequency.
-- Just temperment is when each note is slightly further apart or closer together based on the key. In ensembles, you might have heard your director saying the third needs to be flat, or the fifth needs to be flat. 
+- Just temperment is when notes are tuned to the overtones of one fundamental pitch.
