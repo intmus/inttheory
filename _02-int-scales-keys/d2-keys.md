@@ -10,41 +10,25 @@ abc: true
 - A piece of music can change key quickly, and change back quickly as well. These changes in tonic aren't always represented by a key signature change in the music.
 - Keys are defined by the tonic and dominant relationship present in the music.
 
+**What is a key signature?**
+- A shorthand guide which describes the notes sround a certain tonic.
+
+**Tricks (other than memorization) for figuring out what key signature you're in**
+- Sharps: last sharp + up a half step = the key.
+- Flats: second to last flat = the name of the key. 
+- When you add a sharp, you create the new Ti to the key signature.
+- When you add a flat, you create the new Fa to the key signature.
+
 **Pnuemonic devices for the order of sharps and flats:**
 - F C G D A E B
 - **F**at **C**ats **G**o **D**own **A**lleys **E**ating **B**irds
 - B E A D G C F
 - **B**ald **E**agles **A**re **D**iving **G**racefully **C**atching **F**ish
-- "Beadcgf"
+- "**Bead** **G**reatest **C**ommon **F**actor"
 
-**Tricks (other than memorization) for figuring out what key signature you're in**
-- Sharps: last sharp + up a half step = the key
-- Flats: second to last flat = the name of the key 
-
-When you add a sharp (take away a flat), you create the new Ti to the key signature.
-
-When you add a flat (take away a sharp), you create the new Fa to the key signature.
-
-"How do you find the relative minor of a major scale?"
-
-- Start the scale on the 6th scale degree
-
-- Think "Do Ti La" or down a half step, then a whole step
-
-**What is a key signature?**
-- A set of sharps or flats defining the scale that you're playing in?
-  - Close: the wording implies a key signature where sharps and flats occur together, which isn't the standard key signature we're trying to come up with a definition for
-
-**What is a key?**
-- A pattern that results in a tonal center?
-  - Yes, though the "tonal center" part is what we are especially concerned with!
-  
--Relative Minor: Different tonic, same key signature (Find the 6th scale degree, that is the relative minor, or count 3 notes below the Tonic)
--Parallel Minor: Same tonic, different key signature (Add three flats/take away three sharps)
-
-**For diatonic purposes:**
-- Key is defined by a tonic
-- Key signature acts as a shorthand in reference to the notes organized *around* the tonic (like a legend on a map)
+**"How do you find the relative minor of a major scale?"**
+- Start the scale on the 6th scale degree.
+- Think "Do, Ti, La" or down a half step, then a whole step.
 
 # Further reading
 ======
