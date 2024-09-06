@@ -54,6 +54,17 @@ abc: true
 - Major: Do, Re, Mi, So, La or ^1, ^2, ^3, ^5, ^6
 - Minor: Do, Me, Fa, Sol, Te or ^1, ^b3, ^4, ^5, ^b7
 
+{% capture ex1 %}X:1
+%%staffsep 75%
+T:Pentatonic scales
+M:3/4
+L:1/8
+Q:1/4=90
+K:C
+CDEGAc| C_EFG_Bc| CD_EG_A|]
+w:Major _ _ _ _ _ Minor _ _ _ _ _ Hirajoshi{% endcapture %}
+{% include abc-example.html number="1" abc=ex1 %}
+
 
 # Further Reading
 
