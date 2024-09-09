@@ -3,91 +3,56 @@ layout: chapter
 title: Discussion 3a - Triads
 ---
 
-## Class Discussion
+## Triad Trivia
 
 **"What is a triad?"**
 - In tonal harmony, a triad is a collection of three notes organized in stacked thirds.
 - The type of triad is determined by the quality of the thirds that make up the triad.
 
-Triad Qualities
-
-- Four qualities of triads: Augmented, Major, Minor, and Diminished.
-
+**Triad Qualities:**
 - Augmented: M3 + M3. Creates an augmented fifth between the root and the fifth.
-
 - Major: M3 + m3. Creates a perfect fifth between the root and the fifth.
-
 - Minor: m3 + M3. Creates a perfect fifth between the root and the fifth.
-
 - Diminished: m3 + m3. Creates a diminished fifth between the root and the fifth.
+- *Notice how none of the above triads use augmented thirds or diminished thirds.*
 
-- Notice how none of the above triads use augmented thirds or diminished thirds.
+<img src="https://cdn.discordapp.com/attachments/613487987367608350/1148302178876915762/IMG_6714.png?ex=66dfd2fd&is=66de817d&hm=d5383dd3526c0ef8934db561896940a26d98b0a34883a9e442563ca890576bc3&" width="70%">
 
-<img src="https://cdn.discordapp.com/attachments/613487987367608350/1148302178876915762/IMG_6714.png?ex=66dfd2fd&is=66de817d&hm=d5383dd3526c0ef8934db561896940a26d98b0a34883a9e442563ca890576bc3&" width="50%">
+**"What is Tertian Harmony?"**
+- Harmony based on stacked thirds.
+- Quartal/Quintal Harmony is based on stacked 4ths/5ths
 
-Inversions of Triads
-- A root position triad with the root on the bottom (lowest note).
-- A first inversion triad has the chordal third on the bottom.
-- A second inversion triad has the chordal fifth on the bottom.
-- To "un-invert" a triad (turn it into root position) put the root on the bottom.
-- THE ROOT AND THE BASS NOTE OF A CHORD ARE NOTE THE SAME.
-
-Inversion Figures
-- Root Position: 5/3 (or no inversion figure)
-- First Inversion: 6 (6/3)
-- Second Inversion: 6/4
-
-# Class Discussion 2021
-
-Tertian Harmnoy: Harmony based on stacked thirds.
-*(diatonic triad, stacked thirds, is not necessarily the same as a "triad"-implies any collection of three pitches)*
-Quartal/Quintal Harmony (Stacked 4th's/5th's), not what we primarily study, but still important to keep in mind.
-
-**Use of the Word:Third**
+**Use of the Word: Third**
 - As an interval measurement
 - As a scale degree
 - As a chord descriptor
 
-**ID Triads?**
-- M: M3 + m3 (P5 outside)
-- m: m3 + M3 (P5 outside)
-- d: m3 + m3 (d5 outside)
-- A: M3 + M3 (A5 outside)
-
-Note that all 3rds are either major or minor! Don't even worry about diminished thirds.
-We only have these 4 types of triads (in Tertian Harmony), Any adjustment of the structure of these 4 triad typs results in creating a different triad from the 4 types.
-
-Additional tips:
+**Additional Tips:**
 - Knowing your scales can help identify triads, especially in a key with lots of sharps or flats where many of the possible altered notes are double sharps or flats.
-- Possible groupings for memorization
-  - M and A both "start" with a M3, m and d both start with a m3
-  - M and m are more familiar whereas A and d are newer and "weirder," have altered 5ths
-  - If you know your A major scale (as an example), you know your A major triad  (root, third, fifth). 
-  - If you know your A minor scale, you know your A minor triad. 
+- Possible groupings for memorization:
+  - M and A triads both "start" with a M3.
+  - m and d triads both start with a m3.
+  - M and m are more familiar and normal, whereas A and d are newer and "weirder" with altered 5ths.
 
-**ID inversions?**
-- Root position: starting point (stacked thirds). No inversion figures.
-  - Determine the quality of the third and the quality of the fifth to find the quality of the chord.
-- 1st inversion: take the root and move it to the top (3rd is on the bottom). Inversion figure of superscript 6
-- 2nd inversion: take the third and move it to the top (5th is on the bottom). Inversion figure of superscript 6 over 4 (6/4)
+**Closed vs. Open Voicings**
+- Closed: the chordal tones are stacked in ascending order without skipping over any of them.
+- Open: any arrangement of the chord tones NOT in closed position
 
-NOTE: The bass note of the chord (triad or otherwise) gives you the inversion figure (not the root, but the bass note could be the root). The root of the chord provides the quality of the chord (as it relates to the other tones in the chord).
+## Invaluable Inversions
 
-- The only thing that determines your inversion is the lowest/bass pitched note.
-- The inversion figures are based on the interval between the bass note and the other notes in the triad. The 5 and 3 in root position and first inversion are assumed. 
-*(note that when actually labeling inversions, the numbers will be superscript and stacked)*  
+**Inversions of Triads**
+- Root position triad with the root on the bottom (lowest note).
+- First inversion triad has the chordal third on the bottom.
+- Second inversion triad has the chordal fifth on the bottom.
+- **THE ROOT AND THE BASS NOTE OF A CHORD ARE NOTE THE SAME.** The root is the tonic. The bass note is whatever note is written on the bottom. With inversions, the root is not always in the bass.
 
-**ID closed vs open voicing?**
-- Closed voicing = closest notes can be notated together on a staff, open = spread out? (No: "spread out" is not specific enough)
-- Closed voicing = voices within a 4th, open = voices larger apart than a 4th? (On the right track, but not quite!)
-- Closed voicing = within an octave, open voicing = greater than an octave?
-
-These are all good guesses, but closed voicing means stacking all chord members in ascending order without skipping over any of them. Open voicing is anything *but* that.
-
-- Open voicing = does not have the first/third/fifth in the same octave. 
-- Closed is in the same octave and stacked as closely to the bottom as possible. There are no skipped pitches. 
-
-Voicing is important because it changes how the listener hears something. Open has a more broad and expansive sound while closed is more final.
+**Inversion Figures**
+- Root Position: 5/3 (or no inversion figure)
+- First Inversion: 6 (6/3)
+- Second Inversion: 6/4
+- The inversion is determined by which chord tone is in the bass.
+- The inversion figures are based on the interval between the bass note and the other notes in the triad.
+- *(note that when actually labeling inversions, the numbers will be superscript and stacked)* 
 
 # Further Reading
 
