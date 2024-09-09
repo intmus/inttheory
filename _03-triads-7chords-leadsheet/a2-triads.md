@@ -5,10 +5,8 @@ title: Discussion 3a - Triads
 
 ## Class Discussion
 
-*"What is a triad?"*
-
-- In tonal harmony, a triad is a chord with three notes made up of two thirds stacked on top of eachother.
-
+**"What is a triad?"**
+- In tonal harmony, a triad is a collection of three notes organized in stacked thirds.
 - The type of triad is determined by the quality of the thirds that make up the triad.
 
 Triad Qualities
@@ -26,23 +24,15 @@ Triad Qualities
 - Notice how none of the above triads use augmented thirds or diminished thirds.
 
 Inversions of Triads
-
 - A root position triad with the root on the bottom (lowest note).
-
 - A first inversion triad has the chordal third on the bottom.
-
 - A second inversion triad has the chordal fifth on the bottom.
-
 - To "un-invert" a triad (turn it into root position) put the root on the bottom.
-
 - THE ROOT AND THE BASS NOTE OF A CHORD ARE NOTE THE SAME.
 
 Inversion Figures
-
 - Root Position: 5/3 (or no inversion figure)
-
 - First Inversion: 6 (6/3)
-
 - Second Inversion: 6/4
 
 # Class Discussion 2021
@@ -52,9 +42,9 @@ Tertian Harmnoy: Harmony based on stacked thirds.
 Quartal/Quintal Harmony (Stacked 4th's/5th's), not what we primarily study, but still important to keep in mind.
 
 **Use of the Word:Third**
--As an interval measurement
--As a scale degree
--As a chord descriptor
+- As an interval measurement
+- As a scale degree
+- As a chord descriptor
 
 **ID Triads?**
 - M: M3 + m3 (P5 outside)
