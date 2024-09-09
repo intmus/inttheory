@@ -23,6 +23,8 @@ Triad Qualities
 
 - Notice how none of the above triads use augmented thirds or diminished thirds.
 
+<img src="https://cdn.discordapp.com/attachments/613487987367608350/1148302178876915762/IMG_6714.png?ex=66dfd2fd&is=66de817d&hm=d5383dd3526c0ef8934db561896940a26d98b0a34883a9e442563ca890576bc3&" width="50%">
+
 Inversions of Triads
 - A root position triad with the root on the bottom (lowest note).
 - A first inversion triad has the chordal third on the bottom.
