@@ -37,6 +37,8 @@ abc: true
 
 **"How would you define rhythm?"**
 - The pattern of sound and silence measured over the course of time
+
+<img src="https://cdn.discordapp.com/attachments/613487987367608350/1144671034344218704/IMG_4411.PNG?ex=66e074f9&is=66df2379&hm=06ced0dd6426cf2e869d7113d5fbf4b591f65424f2e10766f97c3f26c0985a11&" width="50%">
  
 # Further Reading
 ======
