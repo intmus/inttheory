@@ -107,7 +107,7 @@ Using the next example, you should:
 - relate these interval sizes to our system for labeling triad inversions
     - provide inversion figures for root position, first-inversion, and second-inversion triads
 
-NOTE: Because ABC notation is not capable of using superscript, the inversion figures in the next example are notated as fractions. If you were to write these by hand or use music notation software, you would notate all inversion figures in superscript as stacked numbers without a dividing line. For example, a major chord in first inversion would be written as M<sup>6</sup>
+NOTE: Because ABC notation is not capable of using superscript, the inversion figures in the next example are notated as fractions. If you were to write these by hand or use music notation software, you would notate all inversion figures in superscript as stacked numbers without a dividing line. For example, a major chord in first inversion would be written as X<sup>6</sup>
 
 {% capture ex4 %}X:4
 T:Triad inversions
@@ -123,16 +123,18 @@ w:5/3 6~(6/3) 6/4{% endcapture %}
 
 ### Conclusions
 
-From the simple presentation of the above example, you should have realized that you cannot identify the inversion of the chord until you know the root. The simplest method for finding the root for any triad is to re-arrange the pitches until you have a triad that is stacked using only thirds. To be clear, this means no fourths, no sixths, and everything within a octave. You can even eliminate any duplicate pitches. Once you have this simplified arrangement of pitches, you can easily determine the root and quality of the chord using the method above. 
+From the simple presentation of the above example, you should conclude that you cannot identify the inversion of the chord until you identify the root. The simplest method for finding the root of any triad is to re-arrange the pitches until you have a triad that is stacked using only intervals of a third. After eliminating duplicate pitches, there should be no fourths, no sixths, and everything within a octave. Once you have this simplified arrangement of pitches for the triad, you can easily determine the root and quality of the chord using the method above. 
 
 For inversions, it is not necessary to know each interval within a triad, but instead, you only need to identify the chordal member in the bass.
 
 - Root position: 5/3
   - the root of the chord is in the bass
-  - The `5` and `3` refer to the simple intervals above the bass 
-- First inversion: 6/3 (shortened to 6)
+  - The `5` and `3` refer to the interval sizes above the bass
+  - In common usage, assumed to be the inversion if no inversion figure is present
+- First inversion: 6/3
   - the 3rd of the chord is in the bass
   - The `6` and `3` refer to the simple intervals above the bass
+  - In common usage, this is typically abbreviated to <sup>6</sup> rather than <sup>6/3</sup>
 - Second inversion: 6/4
   - the 5th of the chord is in the bass- The `6` and `4` refer to the simple intervals above the bass
 
@@ -144,9 +146,9 @@ Of note, there are six different possible intervals in a triad, depending on the
 
 ### Triad voicings
 
-Now that you understand the basic of triads and their inversions, we have to account for the variety of ways that they appear in music. When analyzing music, you must account for doubled pitches, implied harmonies, and a variety of spacings across the range of the performers; all of which can make it difficult to find the basic structure of the triad when looking at a musical score. 
+Now that we understand the basics of triads and their inversions, we have to process the variety of ways that they appear in music. When analyzing music, you must account for doubled pitches, implied harmonies, and a variety of spacings across the range of the performers; all of which can make it difficult to determine the structure of the triad when looking at a musical score. 
 
-We will start by dealing with the issue of spacing, and to do so we must understand how the *inversion* interacts with the chord's *voicing*. 
+We will start by dealing with the issue of spacing, and to do so we must examine how the *inversion* interacts with the chord's *voicing*. 
 
 Look at the following example, and compare the closed and open voicings listed there. You should:
 - be able to succinctly describe the differences
@@ -173,7 +175,7 @@ As students develop the process for finding any inversion, they usually work thr
 - Attempt #3: - Closed voicings contain all chord members within one octave. 
     - This is almost there , but does not explain how a chord with more than four pitches can be in closed position.
 - Attempt #4: Open voicing skips one of the voices.
-  - This definition is also very close, but the term "voices" is problematic because "voices" is used ambiguously and does not relate directly to a chord.
+  - This definition is also close, but the term "voices" is problematic because "voices" is used ambiguously and does not relate directly to a chord.
 
 A complete definition combines these ideas.
 - Closed voicing stacks all pitches of a chord in an ascending order and does not skip a chordal member.
