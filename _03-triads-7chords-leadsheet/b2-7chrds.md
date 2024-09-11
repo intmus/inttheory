@@ -39,7 +39,9 @@ abc: true
   - To label inversions, put a diagonal slash after the chord symbol, then put the bass note under the slash. This is called a "slash chord".
 
 **Example:**
+
 <img src="https://www.sheetmusicplus.com/on/demandware.static/-/Sites-smp-main/default/dwf33286e7/images/5609/19425609_cover-large_file.png" width="70%">
+
  - Notice, leadsheet is written above the staff, and lyrics are written below the staff.
 
 # Further Reading
