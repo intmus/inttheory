@@ -15,7 +15,7 @@ title: Discussion 3c - Leadsheet Notation
 - Additional notes past our normal triads or 7th chords. Ex: G(add 9) is a G major triad with an A played on top.
 - Sometimes it can get confusing when you notate extended harmony in short-hand. For example, whereas a G(add 9) means adding a 9th to a major triad, G9 means adding a 9th to a dominant seventh chord. G9 is the short-hand for G7 (add 9). So, *be careful* when you try to use short-hand for labeling extended harmony!
 
-**What is the difference between an add 6 chord and an inverted minor seventh chord? (Ex: C(add 6) and Am7/C?)**
+**"What is the difference between an add 6 chord and an inverted minor seventh chord (Ex: C(add 6) and Am7/C?)?"**
 - Sure, they are spelled the same, but they have very different functions based off their contexts. This is where Roman Numeral analysis would be necessary to understand and explain the proper function of the chord.
 
 **Which note do we substitute out in a sub chord?**
