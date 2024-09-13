@@ -20,30 +20,6 @@ abc: true
 - Second inversion: 4/3
 - Third inversion: 4/2
 
-**Leadsheet Notation**
-- Leadsheet notation is a system of labeling chords based on the written notes. Unlike Roman Numeral analysis, leadsheet is unreliant on the key.
-- Each chord should have the letter name, quality of chord, seventh notation (if needed), and inversion figure (if needed).
-- ALL CHORD LABELS USE CAPITAL LETTERS, NOT JUST MAJOR CHORDS
-- Labeling triads:
-  - Augmented: label "aug" or "+" after chord letter name
-  - Major: nothing extra after chord letter name
-  - Minor: "min", "m", or "-"
-  - Diminished: "dim", "d", or a superscript "o"
-- Labeling seventh chords:
-  - Major seventh chord: write "maj7" after the letter, or "∆7", or just "∆"
-  - Dominant seventh chord: superscript 7, nothing else
-  - Minor seventh chord: "min7", "m7", or "-7"
-  - Half-diminished seventh chord: "ø7"
-  - Fully-diminished seventh chord: "o7"
-- Labeling inversions:
-  - To label inversions, put a diagonal slash after the chord symbol, then put the bass note under the slash. This is called a "slash chord".
-
-**Example:**
-
-<img src="https://www.sheetmusicplus.com/on/demandware.static/-/Sites-smp-main/default/dwf33286e7/images/5609/19425609_cover-large_file.png" width="70%">
-
- - Notice, leadsheet is written above the staff, and lyrics are written below the staff.
-
 # Further Reading
 
 ## From *Open Music Theory*
