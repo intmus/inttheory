@@ -5,6 +5,7 @@ title: Discussion 3c - Leadsheet Notation
 
 ### Class Discussion
 
+**"Why use both Roman Numeral analysis and Leadsheet?"**
 We need a system that differentiates between function and quality, hence why we have Leadsheet Notation for quality and Roman Numeral Analysis for function. 
 
 **Definitions of new/unfamiliar terms for leadsheet notation:**
@@ -36,7 +37,7 @@ The A in this example represents the Tonic of the chord (the root). the "min7" t
 
 Unlike Roman Numerals and Chord Identification Notation (Mm7,MM7,dim7,etc.), the "7" from the quality of the chord description does not change to represnt the inversion. (from our example, we are reffering the the "7" in our Amin7/C). The "7" tells us that the chord is a seventh chord. The slash chord and note below tells us what the inversion is. If we were to transfer our example (Amin7/C) into our other quality identification system, it would look like: mm6/5, a minor minor chord seventh chord in first inversion.
 
-## Further Reading
+# Further Reading
 
 ### From *Open Music Theory*
 
