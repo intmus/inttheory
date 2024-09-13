@@ -98,7 +98,7 @@ There are 5 types of seventh chords, and we will be using both of the commonly u
 
 These terms are interchangeable but they are typically used in different circles. We will refer to them as the pedagogical name (e.g. major major, etc.) and common name (e.g. major seventh chord, etc.).
 
-The pedagogical names are useful in illustrating the structure of a seventh chord and is unsurprisingly often used by theory teachers. The first word represents the quality of the base triad on which the seventh chord is built (e.g. major triad on bottom), and the second word describes the interval between the root and the chordal seventh. This description explains the nature of the pedagogical categorization--it mixes a chord quality with an interval quality. The first word always describes the triad (the bottom three pitches) while the second word describes the *interval quality* between the root and the seventh chordal member. This interval is always assumed to be a 7th.
+The pedagogical names are useful in illustrating the structure of a seventh chord and therefore is often used by theory teachers. The first word represents the quality of the base triad on which the seventh chord is built (e.g. major triad on bottom), and the second word describes the interval between the root and the chordal seventh. This description explains the nature of the pedagogical categorization--it mixes a chord quality with an interval quality. The first word always describes the triad (the bottom three pitches) while the second word describes the *interval quality* between the root and the seventh chordal member. This interval is always assumed to be a 7th.
 
 - Major major (major seventh chord): major triad + M7
 - Major minor (dominant seventh chord): major triad + m7

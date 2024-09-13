@@ -118,7 +118,7 @@ Any time that you see the abbreviation *sus* added to a chord in leadsheet notat
 
 ### *Sub* and *Add*
 
-The two commands *sub* and *add* are useful when writing leadsheet notation of non-standard chords. Admittedly, these will not be used much in diatonic harmony, but understanding their usage now will help when we move into chromatic harmonies.
+The terminology of *sub* and *add* is useful when writing leadsheet notation of non-standard chords. Admittedly, these will not be used much in diatonic harmony, but understanding their usage now will help when we move into chromatic harmonies.
 
 Because triads and seventh chords are built in thirds, every third above the root has a predetermined quality based on the chord quality and root. If you would like to alter one of those chordal members, you can use the *sub* followed by an altered chordal member to imply that you are *replacing* that chordal member. For example, the alternate method for half-diminished seventh chords comes from this. Because a diminished triad is a minor triad with a lowered fifth chordal member, you could use the leadsheet notation for a minor seventh chord and substitute a lowered 5th. This would look like:
 
