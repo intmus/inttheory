@@ -3,39 +3,47 @@ layout: chapter
 title: Discussion 3c - Leadsheet Notation
 ---
 
-### Class Discussion
+## Leadsheet Loquacity
+
+**Why is Leadsheet notation important for our class?**
+- Leadsheet is an efficient system to classify a harmony without worrying about context. Usually, we fill out the leadsheet first before going back and filling out the Roman Numeral function.
 
 **"Why use both Roman Numeral analysis and Leadsheet?"**
-We need a system that differentiates between function and quality, hence why we have Leadsheet Notation for quality and Roman Numeral Analysis for function. 
+- Each system serves a different purpose. We use Leadsheet Notation for harmonic construction and we use Roman Numeral analysis for harmonic function.
 
-**Definitions of new/unfamiliar terms for leadsheet notation:**
-- Extended Harmony: Adding notes past our normal triads and 7th chords. Ex. C9 
-- Sub: taking one note out of the chord and replacing it with another. Ex. D11^(sub #11)
-- Add: adding extra notes to the chord. Ex. Ab7^(add 4)
-- Note: ^ symbol indicates superscript text.
-How we're "supposed" to interpret leadsheet notation can change depending on the composer. One might not care whether you interpret C^11 as adding an 11th or a 4th, whereas others will *specifically* want an 11th because of how its sound differs from a 4th
+**"What is extended harmony?"**
+- Additional notes past our normal triads or 7th chords. Ex: G(add 9) is a G major triad with an A played on top.
+- Sometimes it can get confusing when you notate extended harmony in short-hand. For example, whereas a G(add 9) means adding a 9th to a major triad, G9 means adding a 9th to a dominant seventh chord. G9 is the short-hand for G7 (add 9). So, *be careful* when you try to use short-hand for labeling extended harmony!
 
-**What is the difference between an add 6 chord and an inverted minor seventh chord? (Ex: C^6 and Am7/C?)**
-- This is the point where roman numeral analysis becomes more useful! Leadsheet notation = construction, roman numeral analysis = finding function. The two chords have vastly different functions even though they contain the same notes and are shaped in the same way
+**What is the difference between an add 6 chord and an inverted minor seventh chord? (Ex: C(add 6) and Am7/C?)**
+- Sure, they are spelled the same, but they have very different functions based off their contexts. This is where Roman Numeral analysis would be necessary to understand and explain the proper function of the chord.
 
-**What do we sub out in a sub chord?**
-- Whatever is closest! Ex: C (sub 6) replaces the 5th with the 6th
+**Which note do we substitute out in a sub chord?**
+- Whatever is closest! Ex: C(sub 6) replaces the 5th with the 6th.
 
-**Why is leadsheet notation important for our class?**
-- Another way of organization?
-- Understanding a chord can be more than one thing?
-- Figured bass purposes?
-- Easily understandable without having to bring tonality into it
-  - Yes! Roman numerals rely on context, but leadsheet notation doesn't.
+**Leadsheet Notation Break-down:**
+- Leadsheet notation is a system of labeling chords based on the written notes. Unlike Roman Numeral analysis, leadsheet is unreliant on the key.
+- Each chord should have the letter name, quality of chord, seventh notation (if needed), and inversion figure (if needed).
+- ALL CHORD LABELS USE CAPITAL LETTERS, NOT JUST MAJOR CHORDS
+- Labeling triads:
+  - Augmented: label "aug" or "+" after chord letter name
+  - Major: nothing extra after chord letter name
+  - Minor: "min", "m", or "-"
+  - Diminished: "dim", "d", or a superscript "o"
+- Labeling seventh chords:
+  - Major seventh chord: write "maj7" after the letter, or "∆7", or just "∆"
+  - Dominant seventh chord: superscript 7, nothing else
+  - Minor seventh chord: "min7", "m7", or "-7"
+  - Half-diminished seventh chord: "ø7"
+  - Fully-diminished seventh chord: "o7"
+- Labeling inversions:
+  - To label inversions, put a diagonal slash after the chord symbol, then put the bass note under the slash. This is called a "slash chord".
 
-**Slash Chords**
+**Example:**
 
-This is how we mark inversions for lead sheet notation (both triads and 7th chords).
+<img src="https://www.sheetmusicplus.com/on/demandware.static/-/Sites-smp-main/default/dwf33286e7/images/5609/19425609_cover-large_file.png" width="70%">
 
-Fro slash chords, here is an example: (Amin7/C)
-The A in this example represents the Tonic of the chord (the root). the "min7" tells us that this is a minor minor seventh chord (The quality of the Chord), and the C below tells us the bottom note (the bass). In this case, Amin7/C is a 1st inversion Amin7 seventh chord. 
-
-Unlike Roman Numerals and Chord Identification Notation (Mm7,MM7,dim7,etc.), the "7" from the quality of the chord description does not change to represnt the inversion. (from our example, we are reffering the the "7" in our Amin7/C). The "7" tells us that the chord is a seventh chord. The slash chord and note below tells us what the inversion is. If we were to transfer our example (Amin7/C) into our other quality identification system, it would look like: mm6/5, a minor minor chord seventh chord in first inversion.
+ - Notice, leadsheet is written above the staff, and lyrics are written below the staff.
 
 # Further Reading
 
