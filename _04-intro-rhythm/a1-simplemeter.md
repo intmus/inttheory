@@ -11,12 +11,12 @@ This text assumes that you are already have a working knowledge of rhythmic nota
 Rhythm is the temporal aspect of music; it is how we organize the sounds and silences of music within time. At its most basic, rhythmic notation tells us when a sound or silence starts and ends, but musical rhythmic notation tries, and mostly succeeds, to show higher levels of organization to make understanding the groupings within the music more understandable to the musician. 
 
 First, a few basic terms: *Meter* is the manner in which we organize strong and weak pulses in music over time, and it is from this grouping that we determine the length of each *measure*. Western music typically uses a *time signature*--represented at the beginning of the music as two stacked arabic numbers--as a shorthand to quickly convey the meter to a trained musician. At its most basic, time signatures tell us two things:
-- how we divide the meter into regular or irregular pulses called *beats*
+- how we measure the length of the regular or irregular pulses called *beats*
 - how many of these *beats* are in the measure
 
 If we imagine meter as a hierarchy, the *measure* is the top level and *beats* are the next level below. Beats are then divided into *divisions*, and *divisions* can be further divided into *subdivisions*. There is no further terminology below the subdivision, but you are welcome to affix "levels" to the term such as *first subdivision*, *second subdivision*, and so on.
 
-Finally, please note that meter is somewhat subjective and can be greatly altered by many factors, especially tempo. Where one listener might listen to a piece with four quarter-notes per measure and feel that the quarter notes are the beat, another listener may listen to the same piece and hear a slower tempo with the half-note as the beat.
+Finally, please note that your perception of meter is somewhat subjective and can be greatly altered by many factors, especially tempo. Where one listener might listen to a piece with four quarter-notes per measure and feel that the quarter notes are the beat, another listener may listen to the same piece and hear a slower tempo with the half-note as the beat.
 
 ## Simple meters
 
