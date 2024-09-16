@@ -16,7 +16,7 @@ title: Discussion 3a - Triads
 - Diminished: m3 + m3. Creates a diminished fifth between the root and the fifth.
 - *Notice how none of the above triads use augmented thirds or diminished thirds.*
 
-<img src="https://cdn.discordapp.com/attachments/613487987367608350/1148302178876915762/IMG_6714.png?ex=66dfd2fd&is=66de817d&hm=d5383dd3526c0ef8934db561896940a26d98b0a34883a9e442563ca890576bc3&" width="70%">
+<img src="https://preview.redd.it/71nasw95tyo51.jpg?auto=webp&s=7acedc83f42f2c44135945e6f06b1e36b30f3dc6" width="70%">
 
 **"What is Tertian Harmony?"**
 - Harmony based on stacked thirds.
