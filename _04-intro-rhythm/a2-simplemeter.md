@@ -3,104 +3,64 @@ layout: chapter
 title: Discussion 4a - Simple Meters
 ---
 
-## Class Discussion 
+## Rhythmical Ramble
 
-### "What is meter?"
+**"What is rhythm?"**
+- An organization of sound and silence over time.
 
-- How we organize strong and weak pulses. Relating beats to the word pulse allows non-musicians to understand a beat.
+**"What is meter?"**
+- A grouping of the strong and weak pulses.
 
-### Hierarchy of rhythm:
+**"What is a measure?"**
+- A single unit of meter.
 
+**Hierarchy of rhythm:**
 - Measure
-
 - Beat - primary pulses
-
 - Division - a division of a beat is the next simplest fraction (according to the type of meter).
-
 - Subdivision - a subdivision is half of the division.
 
-### Labeling Meters
+**What does rhythm communicate?**
+- "When you play what."
+- "How long you play what when you play it."
+- "When and when not."...sound and silence...when things start and stop (*especially* the "and stop" part)
 
-- Duple, triple, and quadruple
-
-  - Duple meter is when the measure is divided into two strong beats.
-
-  - Triple meter is when the measure is divided into three strong beats.
-
-  - Quadruple meter is when the measure is divided into four strong beats.
-
-- Simple meter is when the beat is divided into two equal parts.
-
-- Compound meter is when the beat is divided into three equal parts.
-
-"What do time signatures mean?"
-
-- Top number: how many beats the measure is divided into in most cases (this breaks with some compound meters).
-
-- Bottom number: what note value gets the beat.
-
-"How do we count rhythm?"
-
+**"How do we count rhythm?"**
 - The beats get counted with numbers. Divisions get counted with "ands". Subdivisions get either "e" or "a".
-
 - Simple quadruple time is counted "1 e and a 2 e and a 3 e and a 4 e and a".
 
-In Ideal music notation, every beat is shown. There are often implifications to have less ties.
+## Meter Matter
 
-## Class Discussion 2021
+**Regular meter:**
+- All the beats are the same length.
 
-#### Fix mm. 5 in Common Examples of simple quadruple meters with correct beaming (4 la li).
+**Irregular meter:**
+- Not all beats are the same length (within a measure).
 
-**What is rhythm?**
-- A division of the beat. (What's a beat? A division of time...etc etc forever and ever)
-- *Rhythm is the temporal aspect of music*
-
-**What does rhythm communicate?**
-- "When you play what"
-- "How long you play what when you play it"
-- "When and when not"...sound and silence...when things start and stop (*especially* the "and stop" part)
-
-**What do time signatures represent?**
-- Meter!
-  - Meter -> Beats -> Division -> Subdivision
-
-**What's a measure?**
-- A defined space that can only hold as many beats as the meter allows
-  - A meter is defined by the beats!
-  - A measure is our basic unit of meter (like inches into feet)
-  
-**What is a regular meter?**
-- Can be divided into two? (Nope, too specific)
-- Beats are divided evenly? *Something* is divided evenly?
-- *All the beats are the same length*
-  - Examples: 4/4 and 3/4 are regular, whereas 5/8 is irregular...unless the tempo is eighth note = whatever
-
-**What is an irregular meter?
--Have uneven beats within one measure (5/8 as 2+3 as an example).
--Not like mixed meter: As an example, alternating between two(or more) regular and/or irregular meters. "America" from West Side Story (switches between 3/4 and 6/8).
-  
 **What is a simple meter?**
-- Any time signature that has a 2, 3, or 4 in the denominator? (No: on the right track, though!)
-- Beats hold equal value (No: this is a regular meter)
-- Number of beats in measure = numerator? (Not quite: getting into the top/bottom number meanings, though)
-- *Basic division of a beat is 2*
+- The beat divides evenly into 2 parts.
 
-**What do the top and bottom numbers mean in a simple time signature?**
+**What do duple, triple, and quadruple mean when describing a meter?**
+- How many beats are in a measure.
+- Duple has 2, triple as 3, etc. Phrasing is "simple x," for example 4/4 is simple quadruple.
+
+**What do the numbers represent in a *simple* time signature?**
 - Top = number of beats in 1 measure
 - Bottom = note value that "gets" the beat
 - What do we mean by "get"? How do we explain this to beginning musicians?
   - "How many" (top) and "what kind" (bottom)
-  - Think of it as an actual fraction. Replace the top number with a 1 and it will reveal what kind of note is the beat
+  - Think of it as an actual fraction. Replace the top number with a 1 and it will reveal what kind of note is the beat.
   
-**What do duple, triple, and quadruple mean when describing a meter?**
-- *How many beats are in a measure.* Duple has 2, triple as 3, etc. Phrasing is "simple x," for example 4/4 is simple quadruple.
-
 **What is the "theoretically ideal" rhythmic notation of beaming in simple meters?**
 - Ideal: show where the beats are, common: easier to sight read? (Yes...though the second part's subjective)
 - Why is this helpful in a theory class with a lot of analysis?
   - Can clearly see every beat, makes it easier to discuss
   - Being able to see every beat can make it easier to stack chords when analyzing. You can see all the notes in each beat, so you are less likely to miss a sustained note from a previous beat.
-  
+
+**"Is 5/8 a simple quintuple meter, or an irregular meter?"**
+- It comes down to personal perception.
+- The perception can be influenced by tempo, conducting, and beaming notation.
+
 **A list of common meters in simple duple, triple, and quadruple:**
 - Quadruple: 4/32, 4/1
 - Basicaly: you can have "simple x-uple" for any numbers of beat! Simple quintuple, simple octuple, etc.
