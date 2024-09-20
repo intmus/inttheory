@@ -20,14 +20,17 @@ title: Discussion 4a - Simple Meters
 - Division - a division of a beat is the next simplest fraction (according to the type of meter).
 - Subdivision - a subdivision is half of the division.
 
-**What does rhythm communicate?**
+**"What does rhythm communicate?"**
 - "When you play what."
 - "How long you play what when you play it."
 - "When and when not."...sound and silence...when things start and stop (*especially* the "and stop" part)
 
 **"How do we count rhythm?"**
-- The beats get counted with numbers. Divisions get counted with "ands". Subdivisions get either "e" or "a".
-- Simple quadruple time is counted "1 e and a 2 e and a 3 e and a 4 e and a".
+- The beats get counted with numbers. Divisions get counted with "ands". Subdivisions get either "e" or "a". Triplets get counted with "la li".
+- Ex: simple triple time is counted "1 e & a 2 e & a 3 e & a".
+
+**What is the theoretically ideal beaming?**
+- A methood of beaming where every beat is shown. None are hidden within single notes.
 
 ## Meter Matter
 
@@ -37,38 +40,23 @@ title: Discussion 4a - Simple Meters
 **Irregular meter:**
 - Not all beats are the same length (within a measure).
 
-**What is a simple meter?**
+**"What is a simple meter?"**
 - The beat divides evenly into 2 parts.
 
-**What do duple, triple, and quadruple mean when describing a meter?**
+**"What do duple, triple, and quadruple mean when describing a meter?"**
 - How many beats are in a measure.
 - Duple has 2, triple as 3, etc. Phrasing is "simple x," for example 4/4 is simple quadruple.
 
-**What do the numbers represent in a *simple* time signature?**
+**"What do the numbers represent in a *simple* time signature?"**
 - Top = number of beats in 1 measure
 - Bottom = note value that "gets" the beat
 - What do we mean by "get"? How do we explain this to beginning musicians?
   - "How many" (top) and "what kind" (bottom)
   - Think of it as an actual fraction. Replace the top number with a 1 and it will reveal what kind of note is the beat.
   
-**What is the "theoretically ideal" rhythmic notation of beaming in simple meters?**
-- Ideal: show where the beats are, common: easier to sight read? (Yes...though the second part's subjective)
-- Why is this helpful in a theory class with a lot of analysis?
-  - Can clearly see every beat, makes it easier to discuss
-  - Being able to see every beat can make it easier to stack chords when analyzing. You can see all the notes in each beat, so you are less likely to miss a sustained note from a previous beat.
-
 **"Is 5/8 a simple quintuple meter, or an irregular meter?"**
 - It comes down to personal perception.
 - The perception can be influenced by tempo, conducting, and beaming notation.
-
-**A list of common meters in simple duple, triple, and quadruple:**
-- Quadruple: 4/32, 4/1
-- Basicaly: you can have "simple x-uple" for any numbers of beat! Simple quintuple, simple octuple, etc.
-
-**The common beat-counting system that we'll be using in this course:**
-- 1 e &amp; a  2 e &amp; a ...
-- For Triplets, we will use la li (ie 1 la li 2 la li etc.)
-- The reason we are using these is because we can point out a certain sixteenth note or eighth note triplet without much effort or confusion. 
 
 # Further Reading
 
