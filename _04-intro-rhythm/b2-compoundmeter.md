@@ -20,7 +20,7 @@ title: Discussion 4b - Compound Meters
 - Do figure out the number of beats in a measure, divide the top number by 3. (Ex: 6/8 has two beats. 6÷3=2.)
 
 **Counting:**
-- Divisions: use "1 **la li** 2 **la li**")
+- Divisions: use "1 **la li** 2 **la li**"
 - Subdivisions: use "1 **to** la **ta** li **ti** 2 **to** la **ta** li **ti**"
 
 # Further reading
