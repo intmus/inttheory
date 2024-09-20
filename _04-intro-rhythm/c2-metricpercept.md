@@ -3,20 +3,6 @@ layout: chapter
 title: Discussion 4c - Metric perception
 ---
 
-## Class Discussion 
-
-The way we hear music can be changed with context. For example, syncopation can sound like it is actually on the beat if there isn't another voice on the beat or something keeping time.
-
-The way we interpret meter can be changed by what we hear before. 
-
-## Class discussion 2021
-
-For those that heard the measure in the syncopation example as a bar of 7/8: what pulls your ear that way?
-- The notes within the piece sound as if they could be in 7/8 in context--higher notes sound like they should be downbeats
-
-Factors that changed how we heard the melodic shape example?
-- Made of ascending lines--melodic contour creates an accent
-
 # Further Reading
 
 ## From Open Music Theory
