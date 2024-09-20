@@ -3,37 +3,25 @@ layout: chapter
 title: Discussion 4b - Compound Meters
 ---
 
-## Class Discussion 
+## Compound Conundrum
 
-Compound Meter
+**"What is a compound meter?"**
+- Any regular meter where the beats are dvided evenly by 3. 
 
-- A commpound meter is any meter where the beat is divided into 3 equal parts. 
+**Single, duple, triple, and quadruple refer to how many beats are in the measure. Ex:**
+- Single: 3/8
+- Duple: 6/8
+- Triple: 9/8, 9/16
+- Quadruple: 12/8
 
-- In compound meter, the time signature works differently than in simple meter. The top number tells you the number of divisions in the measure. To find the number of beats in a measure of compound time, take the top number and divide it by three.
+**"How do compound time signatures work?"**
+- Top # = how many divisons there are in a measure.
+- Bottom # = the note value of the division.
+- Do figure out the number of beats in a measure, divide the top number by 3. (Ex: 6/8 has two beats. 6÷3=2.)
 
-Counting in Compound
-
-- The subdivisions of the beat are counted "1 to la ti li ti". 
-
-When determining whether something is simple or compound, it is important to consider the tempo of the piece. For example, a piece could be in simple triple or compound triple depending on how fast it is conducted.
-
-## Class Discussion 2021
-
-**What is a compound meter?**
-- Any regular meter where beats are divisible by 3. 
-
-**Duple triple, and quadruple all mean the same thing they do in simple meters. As for examples:**
-- Duple: 6/8, 6/4, 6/2
--Triple: 9/8, 9/16
--Quadruple: 12/8, 12/4
-
-**What do the top and bottom numbers of compound time signatures mean?**
-- *Top = how many divisons there are in a measure*
-- *Bottom = the note value of the division*
-
-**Counting sixtupelets or the equivalent thereof**
--1 to la ta li ti 2 to la ta li ti
--For the purpose of having a different syllables on each note
+**Counting:**
+- Divisions: use "1 **la li** 2 **la li**")
+- Subdivisions: use "1 **to** la **ta** li **ti** 2 **to** la **ta** li **ti**"
 
 # Further reading
 
