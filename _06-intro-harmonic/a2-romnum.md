@@ -3,59 +3,25 @@ layout: chapter
 title: Discussion 6a - Roman Numerals in Harmonic Analysis
 ---
 
-Roman numeral analysis allows us to label chords in relation to the current key. The roman numerals (I, ii, iii, IV, V, vi, viio) reffer scale degree a chord is built on compared to the current tonic. 
+## Roman Ramble
 
-"What chord qualities are the same in major and minor?"
+**"Why use Roman Numeral analysis?"**
+- It allows us to label chords in relation to the current key, which is essential for identifying harmonic patterns. The Roman numerals (I, ii, iii, IV, V, vi, viio) refer scale degree a chord is built on compared to the current tonic. 
 
-- In order for a piece of music to function as it normally does in western music, we must have the leading tone. Therefore, we assume minor is harmonic minor.
-
-- The five chords are both major, in order to be dominant.
-
+**"What diatonic chord qualities are the same in major and minor?"**
+- The V chords are both major, in order to maintain dominant function.
 - The chord built on the seventh scale degree are both diminished.
 
-- The vii/o7 chord in Major becomes the iio/7 in minor.
+**"How do we alter chords in roman numeral analysis?"**
+- Alter the root by putting a flat or sharp *in front* of the note. To have a chord built on the natural seventh in minor (Te), you must put a flat before the Roman numeral.
+- To alter the third, change the case of the letter of the Roman numeral. A chord with a major third has capital letters (IV) and chords with a minor third have lowercase letters (iv).
+- To alter the fifth, put a diminished or augmented sign after the Roman numeral. When no alteration is present, it is assumed that the fifth is a perfect fifth above the root.
+- To indicate a major seventh, you must put a capital M before the 7. Otherwise, an unaltered 7 is assumed to be minor seventh interval. With fully-diminished or half-diminished chords, be sure to use the o or ø symbol before the 7.
+- When you use inversion figures, a minor seventh interval is still assumed. The inversion figure (6/5, 4/3, 4/2) imply a minor seventh from the root, so be sure to notate if otherwise.
 
-- A fully diminished seventh chord can only exist when built on the leading tone in harmonic minor.
-
-"How do we alter chords in roman numberal analysis?"
-
-- Alter the root by putting a flat or sharp **in front** of the note. **To have a chord built on the natural seventh in minor (Te), you must put a flat before the roman numeral.******
-
-- To alter the third, change the case of the letter of the roman numeral. A chord with a major third has capitol letters (IV) and chords with a minor third have lowercase letters (iv).
-
-- To alter the fifth, put a diminished or augmented sign after roman numeral. When no alteration is present, it is assumed that the fifth is a perfect fifth away from the root.
-
-- When no alteration is present, it is assumed that the seventh of a chord is a minor seventh away from the root. To make a major seventh chord, put a capitol M in front of the seven. A half diminished chord is assumed to have a diminished triad and a minor seventh.
-
-- When a seventh chord is inverted, you do not need to put "7" after the roman numeral. The inversion figure (6/5, 4/3, 4/2) implied a minor seventh from the root.
-
-# Class discussion 2021
-
-*Note that the seventh dimnished chord and major V in **minor** needs the leading tone (ti) in diatonic harmony.*
-
-**What does Cmin7/E-flat tell us?**
-- First inversion, E-flat is in the bass
-- All 4 chord members (C Eb G Bb)
-- We *do not* know what key we are in and how this chord functions within the key. It is completely removed from form
-
-**Chords we should NOT use for now:**
-- No Major 7 chords
+**Chords we will NOT use for now:**
+- no Major 7 chords
 - three chords have no purpose until later
-
-**Roman numerals**
-- The roman numeral itself identifies the root. You can tell what note the root is because its number correlates directly to its scale degree. For example, in C major vi indicates an A minor chord because A is the sixth scale degree in that key. As we'll see in a second, the root can be altered just like the other chord members
-- Uppercase/lowercase identifies the third in relation to the root (major/minor)
-- 5ths are assumed perfect unless there's a +, a half-diminished, or a diminished sign in the superscript
-  - The diminished sign is special because it indicates that both the fifth and seventh are lowered. You can tell the difference from the half-diminished sign because the latter has a slash through it (it's cut in "half")
-- 7 by itself = dominant 7th(minor 7th). Can be altered with M(major 7th), a half-diminished(lowered fifth, minor 7th), or a diminished sign(lowered fifth, diminished 7th)
-- Quick note for writing fully diminished sevenths: A double flat is required, even if the key signature has a flat already. A doubleflat overrides any present alterations from the key signature to show a double lowered note.
-  - Sometimes chords like IV7 are notated without the clarification that it's a major seventh chord--you're expected to know because a major seventh is diatonic. However, when we get past the Classical era this method breaks down because all kinds of crazy stuff starts happening with harmony from the Romantic era onward
-  
-**Altering Roman numerals for non-diatonic chord qualities**
-- Can have any triad in any key as long as you know how it relates to the key
-- Accidental in front alters the chord from its diatonic version. Ex: in C major, bVI = Ab major chord. The sharp/flat alters the root.
-  - Only sharps and flats are used this way--no naturals. Even in sharp keys, you would use a flat sign to indicate a lowered chord. Likewise, a sharp indicates a raised chord even in flat keys
-
   
 # Further Reading
 
