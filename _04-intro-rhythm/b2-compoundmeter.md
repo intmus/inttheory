@@ -17,7 +17,7 @@ title: Discussion 4b - Compound Meters
 **"How do compound time signatures work?"**
 - Top # = how many divisons there are in a measure.
 - Bottom # = the note value of the division.
-- Do figure out the number of beats in a measure, divide the top number by 3. (Ex: 6/8 has two beats. 6÷3=2.)
+- Do figure out the number of beats in a measure, divide the top number by 3. (Ex: 6/8 has two beats. 6÷3=2)
 
 **Counting:**
 - Divisions: use "1 **la li** 2 **la li**"
