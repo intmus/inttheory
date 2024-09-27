@@ -3,13 +3,13 @@ layout: chapter
 title: Discussion 5c - 2:1 Counterpoint and Embellishing Shapes
 ---
 
-# Class discussion
+## Second-species Squabble
 
-There are a lot of counterpoint rules, but you can eliminate possible errors by priotizing things that those rules don't pertain to:
-- Stepwise motion! There's a lot of rules that have to do with usage of skips and leaps, and by focusing on stepwise motion you avoid these
-- Your counterpoint will *always* end with re in one voice and ti in the other. If you put yourself in a position to get to those notes that bar before the penultimate bar, the last two measures will write themselves
-- Focus on using imperfect consonances/sixths and thirds. These have less rules than perfect consonances
-- Be mindful of how you approach skips and leaps if you have to use them
+**Big Take-aways:**
+- Stepwise motion is simpler! There's a lot of rules that have to do with usage of skips and leaps, and by focusing on stepwise motion you avoid these.
+- Your counterpoint will *always* end with Re in one voice and Ti in the other. If you put yourself in a position to get to those notes that bar before the penultimate bar, the last two measures will write themselves.
+- Focus on using imperfect consonances - sixths and thirds. These have less rules than perfect consonances.
+- Must have consonance on strong beats! Dissonance can only occur on weak beats.
 
 # Further reading
 

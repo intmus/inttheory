@@ -3,28 +3,28 @@ layout: chapter
 title: Discussion 5b - Cantus Firmus and 1:1 Counterpoint
 ---
 
-## Class discussion
+## Cantus Firmus stuff
 
-Constructing a *melodic line* and *melodic intervals*
-- Length: 10-12 bars is average for 1:1 counterpoint, but the full range is 8-14
-- Starting and ending pitches: the tonic of whatever key we're in
-- Approaching the final note: contrary stepwise motion. Ex: re in one voice and ti in another, both will move to do
-- Repeated pitches, yay or nay? : NAY. You cannot repeat pitches in your line
+**Constructing a *melodic line* and *melodic intervals*:**
+- Length: 10-12 bars is average for 1:1 counterpoint, but the full range is 8-14.
+- Starting and ending pitches: the tonic of whatever key we're in.
+- Approaching the final note: contrary stepwise motion. Ex: re in one voice and ti in another, both will move to do.
+- Repeated pitches, yay or nay? : NAY. You cannot repeat pitches in your line.
 - Melodic intervals: stepwise, skips, and leaps are all ok!
   - How to approach and resolve leaps?: Approached and followed by stepwise motion in the opposite direction of the leap. Ex: step up, leap down, step up. Think of a sine wave!
-- Range: about an octave *or less*. It should be easily singable
-- Climax: happens on the highest (or lowest) note, depending on how your counterpoint curves. There should only be one highest/lowest note
+- Range: about an octave *or less*. It should be easily singable.
+- Climax: happens on the highest (or lowest) note, depending on how your counterpoint curves. There should only be one highest/lowest note.
  
-Accpetable *harmonic intervals*
-- Starting and ending harmonic intervals?: P8
-- Approaching perfect intervals: contrary motion
-- Number of times an interval size can be used consecutively?: never more than 3 times in a row. No consecutive perfect intervals
+**Accpetable *harmonic intervals*:**
+- Starting and ending harmonic intervals?: P8.
+- Approaching perfect intervals: contrary motion.
+- Number of times an interval size can be used consecutively?: never more than 3 times in a row. No consecutive perfect intervals.
       
-Accpetable *motion between lines*
-- Acceptable types of motion: parallel, similar, and contrary
+**Accpetable *motion between lines*:**
+- Acceptable types of motion: parallel, similar, and contrary.
 
-Will there ever be oblique motion resulting from a cantus firmus with static motion?
-- Not in what we'll be looking at in class, though some exception probably exists somewhere
+**"Will there ever be oblique motion resulting from a cantus firmus with static motion?"**
+- Not in what we'll be looking at in class, though some exception probably exists somewhere.
 
 # Further reading
 
