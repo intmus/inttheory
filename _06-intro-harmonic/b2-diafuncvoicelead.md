@@ -15,10 +15,8 @@ title: Discussion 6b - Establishing Diatonic Function through Voice Leading
 **Implied Harmony in Two Parts**
 - You hear a V7 chord but only have the root. Why?
   - We are conditioned to hear that V chord (and you just listened to a ton of them before this).
-
 - Why is the first measure "stronger" than the second?
   - The two do's in bass and soprano voices. 
-  
 - Factors that affect how "strong" something is 
   - People are generally better at hearing higher voices
   - Inverted chords
