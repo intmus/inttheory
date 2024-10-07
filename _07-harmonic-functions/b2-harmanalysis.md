@@ -7,13 +7,13 @@ title: Discussion 7b - Performing a Harmonic Analysis
 
 **Process of harmonic analysis:**
     
-    1. Leadsheet. Even if you don't know the key yet, you can objectively identify each chord based on the notes written. *(Note: the harmony might not change on every single beat)*
+  1. Leadsheet. Even if you don't know the key yet, you can objectively identify each chord based on the notes written. *(Note: the harmony might not change on every single beat)*
     
-    2. Use your leadsheet to identify the key of the excerpt. It is likely whatever chord you start and end on.
+  2. Use your leadsheet to identify the key of the excerpt. It is likely whatever chord you start and end on.
     
-    3. Write in the Roman numerals under the staff.
+  3. Write in the Roman numerals under the staff.
     
-    4. Write in the diatonic functions underneath the Roman numerals (P,D,T).
+  4. Write in the diatonic functions underneath the Roman numerals (P,D,T).
 
 **Tips:**
 - What you should try and do as early as possible is determine the *harmonic rhythm*, or how often the chord changes. This can happen every beat, every measure, or many other ways. The chorale we looked at in class is an example where the harmonic rhythm is every beat.
