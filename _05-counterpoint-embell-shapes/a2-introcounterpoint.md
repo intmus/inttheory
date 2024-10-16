@@ -3,22 +3,19 @@ layout: chapter
 title: Discussion 5a - Introduction to Counterpoint
 ---
 
-# Class discussion
+## Contrapuntal Clamor
 
-**Homophony vs Polyphony**
+**"What is counterpoint?"**
+- The process of weaving together simultaneous melodies.
+
+**Homophony vs Polyphony:**
 - Homophonic textures is created when one or multiple voices are all singing around the same central idea.
 - Polyphony is present when inner voices other than the melody are present and have rhythms and pitches that are more contrasting from the main melody.
 
-**Define counterpoint:**
-- Strict voice leading; lots of rules to follow? (On the right track: it's definitely a very strict system)
-- *Studying melody*, specifically studying melody that is *two melodies happening at the same time*
-
-**Intervals**
-- Harmonic Interval: An interval created from two notes that are vertically stacked
-- Melodic Interval: An interval created from two notes that are adjacent (one note after the other)
-- Perfect consonances: P1, P5, P8
-- Imperfect consonances: M3, m3, M6, m6
-- A note: "consonant" and "dissonant" in this style = "allowed" and "not allowed." P5s, P8s, M3s, etc. are allowed, whereas P4s are not.
+**"How is a Perfect 4th a dissonant interval?"**
+- Really, it depends on the context. When the use of a perfect 4th undermines the harmonic context it is in, that would be considered dissonance. For example, if you are in a major key and you sing "Do Fa", it can sound like you are implying Fa to be the new tonic, which undermines the current harmonic context, making it dissonant.
+- In many other cases, the presence of a perfect 4th can be totally consonant. In the same example, if you had sung "So Do" (coming from below Do), it strongly emphasizes the current tonic and would be considered consonant.
+- Honestly, the consonance or dissonance of any interval is subjective.
 
 **Types of contrapuntal motion**
 - Parallel: two voices moving in the same direction and by the same size of interval (not necessarily the same *quality*)

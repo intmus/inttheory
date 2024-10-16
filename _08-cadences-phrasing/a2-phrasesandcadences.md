@@ -3,50 +3,31 @@ layout: chapter
 title: Discussion 8a - Phrases and Cadences
 ---
 
-# Class discussion
-Often, phrases will end with a cadence. Cadences give balance ans structure to a piece of music. 
+## Cadential Cantation
 
-Things to look for when considering what might be a phrase:
-
+**"How can I identify a phrase?"**
 - Cadences/resolutions
 - Rests after a melody line
 - Going into a different key/modulation
 - Contour of the melody
-- A motive is the smallest identifiable fragment of music.
+- Use of a motif
+- A repeated structural pattern (maybe every phrase is the same number of measures)
 
-## Identifying Phrases ##
-- Look for rests
-- Listen for a clear beginning, middle, and end.
-- Look for cadential chords; I, V, and vi. A cadence is like the period at the end of a sentence.
-- Look for structure. Sometimes, phrases stay the same length, and this can make it a lot easier to separate the different phrases.
+**Notes on Cadences:**
+- Cadences are made of two chords. Tension of some sort, and a release or a lack thereof.
+- A Deceptive Cadence is like a question mark? A HC is like a comma, an IAC is like a semi-colon; a PAC is like period.
 
+**"What if a cadence happens mid-phrase?"**
+- Well, if it's not at the end of a phrase, then it's not a cadence!
+- When there is plagal motion or deceptive motion in the middle of the phrase, they are considered a "plagal progression" or a "deceptive progression".
+- To label the function of a plagal progression, you will write Predominant function under the IV chord, Tonic function under the I chord, and write "(plagal progression)" under the function labels.
+- To label the function of a deceptive progression, you will write Predominant function under the vi chord, Dominant function under the V chord, and write "(deceptive progression)" under the function labels.
 
-**The Meaning of Dominant**
-The five chord in the key
-Leading tone's and other tendency tones
-A quality of seventh chord (Mm)
-An unstable chord which pulls to the tonic
-
-**Cadences**
-- Cadences are like the many different endings to a scentence or speech puncuation. They have to end phrases by definition. 
-- It's not about if we can lable chords, but can we lable function.
-- Tonic is stable, Dominant is less stable as it feels like it eventually needs to resolve to **I**. Pre-dominants want to resolve to **V**. 
-- Cadences are made of two chords. Tension of some sort, and a release or a lack thereof. 
-
-**Cadence Types** 
-- PAC: **V** to **I** with both chords in root position. Soprano has to have *do* on **I** chord. (Dominant function chords to I)
-- IAC: Just break one of the rules from PAC. ex: **vii** to **I**. Or *mi* in the soprano line on **I** chord. (Still must be a dominant function chord to I)
-- HC: Lands on the **V** chord and doesn't resolve any farther (in root position). Before the **V** any chord can preceed it. **V7** can still count as a half cadence. It is just very uncommon as the **V7** has a strong pull to **I**. Can never be **viiº** as the  **viiº** does have enough stability to produce a form of finality.
-
-- PC: **IV** to **I**. Both are in root position. There are no other variations of this. One of the voices will have the pedal *do* across both chords.  
-- DC: **V** to **vi**. The bass has *sol* and *la*. It you take away the *la* you end up with a PAC. Both chords have to be in root position. **V7** to **vi** is easier to voice. Here the **vi** is functioning as the **I** so we double the root (which is the third if still thinking of it as the **vi**).
-
-These cadences can be found in a progression, but if it is not at the end of the phrase, it isn't called a cadence.
-IAC is like a semi colon or comma. DC is like a question mark. PAC is very final so a period. 
-
-The plagal cadence and the deceptive cadence can be used inside a progression (plagal progression, dececptive progression). The plagal cadence is often referred to the "Amen" cadence.
-
-Phrygian Half Cadence: sub-catagory oh half cadence, having the label be (PHC). Still ends on V, but has a iv in first inversion is the preceeding chord. Occurs in minor only. Still qualifies as a half cadence.
+**The Many Meanings of Dominant:**
+- The five chord in a key
+- A chord containing the leading tones and other tendency tones
+- A quality of seventh chord (Mm)
+- An unstable chord which pulls to the tonic
 
 # Further reading
 

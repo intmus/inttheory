@@ -4,98 +4,61 @@ title: Discussion 7a - Using Voice-leading to Create a Harmonic Progression
 abc: true
 ---
 
-## Class Discussion
+## Voice-Leading Voracity
 
-"What rules can we apply to voiceleading to make sure all voices are moving correctly within a circle of fifths progression?"
+**"What is voice-leading?"**
+- The motion of each voice as they go from chord to chord.
 
-- The root is the most likely tone to be doubled.
+**Important principles for voice-leading:**
+  1. smooth motion
+  2. independent voices
+  3. resolution of dissonance
+  4. balance of motion
 
-- The root of a chord can often stay the same and become the fifth of the next chord.
+**"What rules can we apply to voice-leading to make sure all voices are moving correctly within a circle of fifths progression?"**
+  1. The root is the most likely tone to be doubled.
+  2. The root of a chord can often stay the same and become the fifth of the next chord.
+  3. The third of a chord resolves up by step to the root of the following chord.
+  4. The seventh of a chord resolves down by step to the third of the following chord.
+  5. The fifth of a chord can resolve down to the root of the following chord.
+  6. The bass voice is the only voice that can move in larger leaps, but only if it is moving from root to root.
 
-- The third of a chord resolves up by step to the root of the next chord.
-
-- The fifth of a chord can resolve down to the root of the next chord.
-
-- The bass voice can move in larger leaps. For now, it will stay on the root.
-
-More Rules
-
-- You can omit the fifth from any chord if smooth voice leading allows. 
-
+**More rules:**
+- You can omit the fifth from any chord if smooth voice-leading allows. When you have a V7 moving to a I chord in root position, it is often better to omit the fifth in the I chord to make sure all voices are present and voice-leading is smooth. 
 - Never omit the third or the root of a chord.
+- When it comes to a viiº chord, treat the chord tones as if they are from the corresponding V7 chord. So, the root of a viiº is treated as a third, and the fifth of a viiº is treated as a seventh.
 
-- When you have a V7 moving to a I chord in root position, it is often better to omit the fifth in the I chord to make sure all voices are present and voice leading is smooth.
+**Motion between two voices:**
+- **Static motion** is when both voices stay the same from one chord to the next.
+- **Oblique motion** is when one voice moves and the other stays the same.
+- **Parallel motion** is when both voices move with the same interval size and the same direction.
+- **Similar motion** is when both voices move in the same direction with a different interval size (or quality).
+- **Contrary motion** is when both voices move in opposite directions. This could be when both voices move closer to each other, or further away.
 
-Motion Between Two Voices
 
-- Static motion is when both voices stay the same from one chord to the next.
+**"What does 'chordal third' mean?"**
+- The third of any given chord. Note, any given chordal third does not have to be the 3rd scale degree in the current key center.
 
-- Oblique motion is when one voice moves and the other stays the same.
+**Here's our nifty progressions flowchart, both in major:**
 
-- Parallel motion is when both voices move with the same interval size and the same direction.
+iii -> vi -> [ii7 or IV] -> [V7 or vii%7] -> I -> (any)
 
-- Similar motion is when both voices move in the same way with a different interval size (or quality).
 
-- Contrary motion is when both voices move in opposite directions. This could be when both voices move closer to each other, or further away.
+**And minor:**
 
-Creating a Flow Chart of Chords
+III -> VI -> [ii%7 or iv] -> [V7 or viio7] -> I -> (any)
 
-- The most distant chord from the I chord is the iii chord. In general, chords want to move in descending perfect fifths.
- 
-- The ii chord and the IV chord function in the same way. The V chord and the viio chard also function the same way.  
+Everything happens the same as in major, just with different chord qualities.
 
-- The way chords want to resolve: iii to vi, vi to ii or Iv, ii or IV to viio or V, and V or viio to I.
+**Special cases:**
+- V -> vi: not always as a cadence, but don't use this if you don't have to
+- IV -> I: almost always appears a cadence
+- vi -> V: this can happen, but the vi should usually be thought of as a tonic function. Avoid using this. (uncommon)
+- iii -> IV: part of the Pachelbel's Canon progression. It is difficult to use without creating voice-leading issues.
 
-- ii chords and IV chords can move to and from each other, as well as the V chord and viio chord.
-
-## Class discussion 2021
-
-**Tendency tones**
-- Root in bass goes to root of next chord
-- Thirds move up by step to root of next chord
-- Fifths move down by step to root of next chord, has options.
-- Sevenths move down by step to third of next chord
-
-**Voicing Notes**
-- Disjunct voice (larger leaps, 3rd's 4th's or 5th's, maybe greater)
-- Conjunct Line (smooth, stepwise, maybe a third)
-Bass voices often fall under the catagory of disjunct, while many soprano voicesoften fall under the catagory of conjunct.
-- When part writing, we strive for smooth (conjunct) voice leading in all voices except the bass voices.
-
-Chordal Third: The third of any given chord. Note, any given chordal third does not have to be the 3rd scale degree in the current key center. This particular language applies to all other chord tones, most commonly the chordal third, the chordal fifth, and the chordal 7th.
-
-**Doubling**
-When doubling a triad, we typically double the root of the chord (not always the case, see the viio chord)
-Optionally, we may double the fifth to solve voice leading issues.
-We do not double our thirds (or our sevenths in the case of more than 4 voices).
-
-**Notes on predominant and dominant chords**
-- viio can also be thought of as a V7 with no root. The voice leading functions the same way in both chords.
-- IV can be thought of as a ii7 with no root. Their voice leading functions in the same way. Keep in mind that the fa in IV resolves up to sol the same way it would in a ii7, and *not* down to mi.
-- We are observing root movement via descending perfect fifths (via the Circle of Fifths).
-
-Here's our nifty progressions flowchart, both in major:
-
-iii -> vi -> [ii or IV] -> [V7 or vii%7] -> I -> (any)
-
-IVM7 goes to I (plagal cadence); V7 goes to vi7; iii7 sometimes goes to IVM7; vi7 sometimes goes to V7.
-
-And minor:
-
-III -> VI -> ii%7 or iv -> V7 or viio7 -> I -> (any)
-
-Everything that happens in major, just change the chord quality and it works in minor.
-
-**Notes**
-- Notice that the dominant chords are almost the same in both qualities. The only difference is the seventh of the seven chord.
-- All of these chords will also occur as triads. The sevenths have been included in the chart for memorization purposes.
-- There are also *lateral progressions*, where a predominant or dominant chord will go to the other chord in its category rather than proceeding to a dominant or tonic respectively. (I would have included this in the chart but ran up against the limitations of text formatting.)
-- Exceptions (notated in major for simplicity, but these happen in minor too)
-  - V -> vi: not always as a cadence, but don't use this if you don't have to
-  - IV -> I: almost always appears a cadence
-  - vi -> V: this can happen, but the vi should usually be thought of as a tonic function. Avoid using this. (uncommon)
-  - iii -> IV: part of the Pachelbel's Canon progression. It is dificult to use without creating voice leading issues. Don't use it. (rare)
-
+**Notes on predominant and dominant chords:**
+- viiº can also be thought of as a V7 without a root. The voice-leading functions the same way in both chords.
+- IV can be thought of as a ii7 without a root. Their voice-leading functions in the same way. Keep in mind that the Fa in IV resolves up to So the same way it would in a ii7, and *not* down to Mi.
 
 # Further reading
 

@@ -3,35 +3,20 @@ layout: chapter
 title: Discussion 6b - Establishing Diatonic Function through Voice Leading
 ---
 
-## Class Discussion
+## Function Fun
 
-"Why do chords have a certain pull?"
+**"Why can chords have a certain pull?"**
+- Chords can feel like they pull when they contain contrasting notes to the established tonal center. *Dissonance wants to resolve to consonance*. For example, a V7 chord has a strong pull to I because it contains notes which are a half-step away from the root and third, which are essential chord tones.
+- Another reason we can feel a pull is when our brains have been conditioned to hear one specific kind of resolution.
 
-- A V7 chord pulls to a I chord for many reasons. A chord will often have a pull to the chord whos root is a perfect fifth away (vi to ii, ii to V, V to I). The third of a V chord is the leading tone, and wants to resolve to the tonic. The seventh of a V7 chord resolves down to the third of the tonic. All of these tones in the V7 chord pull to the tonic.
-
-"What is Chord Function?"
-
-- Primary functions - Tonic, Dominant, and Pre-dominant
-
-- Tonic - A tonic functioning chord is "home base". Stable in the current key. The I chord is tonic.
-
-- Dominant - A dominant functioning chord wants to move to the tonic. The V (V7) and viio (viio7) chords are dominant.
-
-- Pre-dominant - A pre-dominant functioning chord sets up a dominant chord (pulls to the dominant). IV and ii chords are pre-dominant.
-
-When the roots of the chords in a progression have move in descending fifths, it is called a "circle of fifths progression".
-
-## Class discussion 2021
+**"What is a 'circle of fifths progression'?"**
+- This is what we call it when the roots of the chords in a progression move in descending fifths. In Western music, this occurs *extremely* often. Since our brains are used to hearing this, we find it very comfortable and satisfying.
 
 **Implied Harmony in Two Parts**
 - You hear a V7 chord but only have the root. Why?
   - We are conditioned to hear that V chord (and you just listened to a ton of them before this).
-
-- Dissonance wants to resolve to consonance.
-
 - Why is the first measure "stronger" than the second?
   - The two do's in bass and soprano voices. 
-  
 - Factors that affect how "strong" something is 
   - People are generally better at hearing higher voices
   - Inverted chords
@@ -40,8 +25,8 @@ When the roots of the chords in a progression have move in descending fifths, it
 **Harmonic functions in diatonic music**
 - The vi chord can be considered tonic because of shared tones with the I chord, but it has to be set   up with that intention. In this class, it will not function in that way.
 
-**Cadence**
-- "The end of our musical sentence when it feels like a musical ending; the harmonic progression at     the end of the phrase."
+**"How can we understand what a cadence is?"**
+- A cadence is like the end of a sentence. In more musical terms, we can say that cadences occur at the ends of phrases, which are implied through melody, harmony, and rhythm.
   
 
 # Further reading
