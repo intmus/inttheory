@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 9b Lesson - Non-chord Tones, Part 2
+title: Discussion 9b - Non-chord Tones, Part 2
 ---
 
 ## Class Discussion
