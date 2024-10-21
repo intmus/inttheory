@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 9b Lesson - Non-chord Tones, Part 2
+title: Lesson 9b - Non-chord Tones, Part 2
 abc: true
 ---
 
