@@ -168,8 +168,8 @@ There are four other standard non-chord tones that we will discuss in the next t
      - For example, a passing tone can occur either within a single chord or span two chords, but suspensions and retardations can *only* happen across two chords; it is not possible to have suspension or retardation within a single chord. Any NCT with restrictions such as this are noted in their descriptions, and it is imperative that you learn the context for each of the non-chord tones, so that you can quickly identify these issues in your own part writing. 
 - Once we have discussed all nine of the standard NCTs, you will be able to describe and analyze almost any combination of melodic intervals as they pertain to tonal harmony. Generally speaking, if you cannot come up with an analysis of a melody that accounts for each NCT into one of the nine categories, that means that you likely analyzed the harmonies incorrectly. As with even the most consistent of musical ideas, there will be occasional exceptions, but understanding your NCTs will be one of the easiest ways for you to make your analyses more effecient and effective.
 - As you learn each of these non-chord tones, you will begin to notice these patterns in music, even when no NCT is present. If you would like to use a motion description for a chord tone, such as passing or neighbor, you can replace the word *tone* with the word *figure*. So a "passing figure" is a pitch that is approached by step and left by step in the same direction, but all three of the pitches that make up the preparation, passing tone, and resolution are chord tones.
-     - One of the most common questions about non-chord tones is whether a pitch should be written as a passing tone or a chordal seventh. For example, in the progression below, we have an imperfect authentic cadence, that starts as a simple triad, but then the alto voice moves to `fa` which could be analyzed as either a passing tone or a chordal seventh. So which would you choose? Is this a V chord with a passing tone or is this a V<sup>7</sup> chord with no non-chord tones?
-     - In this particular case, I would consider `fa` as part of the chord, because it is functioning as a chordal seventh. The chordal seventh is a tendency tone that typically resolves downward by step, and it is doing so here. If it resolved in another way (e.g. up by step), it might be a melodic passing tone and would therefore be non-functional.
+
+One of the most common questions about non-chord tones is whether a pitch should be written as a passing tone or a chordal seventh. For example, in the progression below, we have an imperfect authentic cadence, that starts as a simple triad, but then the alto voice moves to `fa` which could be analyzed as either a passing tone or a chordal seventh. So which would you choose? Is this a V chord with a passing tone or is this a V<sup>7</sup> chord with no non-chord tones?
 
 {% capture ex4 %}X:4
 T:V7 to I with ambiguous NCT
@@ -183,6 +183,8 @@ V:2 clef=bass
 [G,,D][C,C]|]
 w:VorV7? I{% endcapture %}
 {% include abc-example.html number="4" abc=ex4 %}
+
+In this particular case, I would consider `fa` as part of the chord, because it is functioning as a chordal seventh. The chordal seventh is a tendency tone that typically resolves downward by step, and it is doing so here. If it resolved in another way (e.g. up by step), it might be a melodic passing tone and would therefore be non-functional.
 
 Regardless of whether you include the pitch as functional, the NCTs must always match the Roman numeral. In this scenario, if you choose to include the chordal seventh in your harmony, you only need to write the proper Roman numeral and inversion figure. If, however, you decide that the chordal seventh is just a passing tone, you must label it as a non-chord tone and write only `V` for the Roman numeral.
 
