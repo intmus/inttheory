@@ -4,7 +4,11 @@ title: Discussion 10a - Basic Voice Leading Errors
 abc: true
 ---
 
-## Class Discussion
+## Error Terror
+
+**"What is the purpose of following voice-leading rules?"**
+- These rules exist to promote the indepence of voices.
+- The voice writing errors are often things which lead to difficult singing parts or that make the sound of two voices meld together, disturbing the four-part texture.
 
 When writing parts, it is important to consider which pitches are required for the chord, and which are doubled more often. 
 
@@ -18,7 +22,6 @@ When writing parts, it is important to consider which pitches are required for t
 
 - You should never have more than an octave of space between you tenor and alto voices, and alto and soprano voices.
 
-## Class discussion 2021
 
 **Things to consider before you start part writing**
 - Harmonic Rhythm; pitches could switch between being a chord tone and a NCT depending on the harmonic rhythm
