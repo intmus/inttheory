@@ -4,7 +4,10 @@ title: Discussion 10b - Part-writing Errors
 abc: true
 ---
 
-## Class Discussion
+## Error Sparer
+
+**"What does it mean that part-writing errors are *symptoms* of voice-leading errors?"**
+- Voice-leading errors cause part-writing errors. So, if you find a part-writing error, it means that a voice-leading error is occuring somewhere in those voices.
 
 In this style of part writing (16th century counterpoint), we want each voice to be a strong melody. Certain errors make voices blend together and resolve incorrectly.
 
