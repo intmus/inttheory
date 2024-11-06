@@ -4,16 +4,17 @@ title: Discussion 11a - Fundamentals of Part-writing
 abc: true
 ---
 
-# Class discussion
+## Harmonization Conversation
 
-**How do we harmonize a melody?**
-- Pick a key
-- Figure out the harmonic rhythm
-- Determine where and what type your cadences are (type determined by notes in melody. Ex: in C, if our last notes in the soprano are B and C we can't have a plagal cadence because there is no ti in IV)
-- Harmonies (using circle of fifths progressions)
-- Bassline
-- Inner voices
-- Texture (spacing, range, number of voices, etc.)
+**Sean's Steps for Harmonizing a Melody:**
+1. Identify the key.
+2. Determine the length of your phrases.
+3. Decide on a harmonic rhythm.
+4. Choose a cadence.
+5. Fill in the rest of your progression as Roman Numerals.
+6. Compose a bass line.
+7. Write in the alto and tenor voices.
+8. Check your work for smoothness, errors, and convincing sound.
 
 **When in doubt: K.I.S.S.**
 - Focusing on smooth voice leading, correct doubling, and correct tendency tone resolutions will make this process a lot easier! If your voice leading is good, you avoid dealing with a lot of errors because they're symptoms of bad voice leading
