@@ -6,7 +6,7 @@ abc: true
 
 ## Part-writing
 
-The term *part-writing* can imply many things depending on its context, but for our purposes, this will be our first attempt to combine the fundamentals of melody (counterpoint) and harmony (voice-leading derived from circle-of-fifths progressions) into functional music using diatonic tonality. 
+This will be our first attempt to combine the fundamentals of melody (counterpoint) and harmony (voice-leading derived from circle-of-fifths progressions) into functional music using diatonic tonality. 
 
 By applying the various rules and techniques that we have studied thus far, we will be able to:
 - Propose a functional harmonization for a melody
@@ -21,7 +21,7 @@ We will be referring to this handout, [Part-Writing Error Checklist and Guide](h
 
 Before we begin, I would like to address a question that I have received many times from students. Why do we study part-writing rather than just analysis, particularly in a strict style that is not applicable to all modern styles of composition?
 
-For our purposes, the study of basic part-writing is the simplest way to learn *how* voice-leading creates harmony. Even though most of its rules are archaic--and perhaps more damning is that a modern student's ear is unlikely to dislike certain style characteristics (e.g. parallel perfect fifths)--four-voice composition is the most direct way to study every aspect of how music functions: voice-leading, chord progressions, voicing chords, chordal structure, tendency tones, melodic construction, and so on.
+For our purposes, the study of basic part-writing is the simplest way to learn *how* combining voices leads to functional harmony. Even though most of its rules are archaic--and perhaps more damning is that a modern student's ear is unlikely to dislike certain style characteristics (e.g. parallel perfect fifths)--four-voice composition is the most direct way to study every aspect of how music functions: voice-leading, chord progressions, voicings, chordal structure, tendency tones, melodic construction, and so on.
 
 We could attempt to focus on only one style of modern music--whether pop, jazz, classical, or otherwise--but because each is a fully developed, complex language, you would still need to learn basic harmonic movement before beginning to write in that style. And because each of these musics has its roots in diatonic harmony, an understanding of basic chorale style part-writing will allow you to study and develop a process to analyze *all* of these styles, rather than focusing your studies into only one area and being ignorant of the others.
 
