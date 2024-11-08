@@ -4,32 +4,33 @@ title: Discussion 11b - Voice-leading for Root Position Triads and Seventh Chord
 abc: true
 ---
 
-# Class discussion 
+## Rootin' Tootin' Voice Writin'
+
+### In-class Examples:
 
 **Circle-of-fifths triadic progression: I - vi - ii - V - I**
-- Static movement in the melody is very good. It's exactly what we want because it can make everything else a whole lot easier. Priotize static or stepwise movement in the melody whenever you can
-  - Build from the back. Since we're dealing with a circle-of-fifths progression, we know exactly how tendency tones are going to resolve and we can reverse-engineer the inner voices after we've written our melody
+- Static movement in the melody is very good. It's exactly what we want because it can make everything else a whole lot easier. Priotize static or stepwise movement in the melody whenever you can.
+  - Build from the back. Since we're dealing with a circle-of-fifths progression, we know exactly how tendency tones are going to resolve and we can reverse-engineer the inner voices after we've written our melody.
 
 **Adding the seventh: I - vi7 - ii - V7 - I**
 - Used the same boring melody as before (C C D D C) because we have to K.I.S.S.
-- Really the best way to do these is to write your melody from the front and fill in the inner voices from the back
-- *Frustrated leading tone*: can ONLY be used in the inner voices. This happens when the leading tone resolves down by third to the fifth of the next chord instead of going upward to the root. Ex: in C, in our V the B in the tenor can go down to G on the next chord (I) if we really, really want to have a fifth in there
+- Really the best way to do these is to write your melody from the front and fill in the inner voices from the back.
+- *Frustrated leading tone*: can ONLY be used in the inner voices. This happens when the leading tone resolves down by third to the fifth of the next chord instead of going upward to the root. Ex: in C, in our V the B in the tenor can go down to G on the next chord (I) if we really, really want to have a fifth in there.
 
 **Short chord progressions, #2: I - IV - V - vi**
 - Soprano line: C C B C. There were a bunch of other options proposed that were at the same level of simplicity (focus on smooth voice leading), but they all caused errors
-- DOUBLE! THAT! THIRD! for a deceptive cadence. vi is a functional substitute for I because of its position in a deceptive cadence. In this instance it functions as the tonic instead of its usual "pre-predominant." We double the third because it's do/the tonic
-- Any time you use smooth contrary motion you'll avoid the majority of movement errors
+- DOUBLE! THAT! THIRD! for a deceptive cadence. vi is a functional substitute for I because of its position in a deceptive cadence. In this instance it functions as the tonic instead of its usual "pre-dominant." We double the third because it's actually Do.
+- Any time you use smooth contrary motion you'll avoid the majority of movement errors.
 
 - "Circle of fifths progression" = literal circle of fifths bass movement. This is our vi - ii - V - I. When we move I - IV - V - (etc...) this is stepwise progression, so we can bend our tendency tone rules a little. Otherwise, our normal rules will create more problems. 
-  - Think about functional substitutes, too! IV is just a ii7 without the root. vii0 is just a V7 without a root. vi stands in for I in deceptive cadences. In the progression we did in class, temporarily changing IV to ii7 helped make clear why the A in our IV did not have to resolve how thirds usually do, since A is the fifth in ii7 and should follow the same voice leading rules
-- vi6 is a NO. The do in the bass makes it sounds like this chord was supposed to be I instead, which is the opposite of what you want to do with a deceptive cadence
+  - Think about functional substitutes, too! IV is just a ii7 without the root. vii0 is just a V7 without a root. vi stands in for I in deceptive cadences. In the progression we did in class, temporarily changing IV to ii7 helped make clear why the A in our IV did not have to resolve how thirds usually Do, since A is the fifth in ii7 and should follow the same voice leading rules
+- vi6 is a NO. The Do in the bass makes it sounds like this chord was supposed to be I instead, which is the opposite of what you want to Do with a deceptive cadence
 
-**Overall conclusions**
-- Frustrated leading tone is a get out of jail free card in the inner voices ONLY
-- You can double the third for the vi in a deceptive cadence
-
-**Additional tips**
-- Check the outer voices for errors before filling in the inner voices. If you catch errors early, you save yourself time
+### BIG TAKEAWAYS:
+- On a deceptive cadence, treat vi like a I chord. In this case, the vi is called a **functional substition**.
+- A functional substitution is when a chord that is part of the standard circle-of-fifths progression is replaced by a chord which shares most of the same notes. When this occurs, you treat the notes that are the same just as you would in the original chord.
+- Frustrating a leading tone can *only* happen in an inner voice. As Dr. Wilson says: **"You can frustrate the leading tone, but you can't frustrate the leading lady!"**
+- Always check the outer voices for voice-leading errors before filling in the inner voices. This will save time later trying to fix mistakes.
 
 # Further reading
 
