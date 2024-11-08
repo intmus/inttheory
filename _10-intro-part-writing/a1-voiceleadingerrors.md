@@ -1,21 +1,27 @@
 ---
 layout: chapter
-title: Lesson 10a - Basic Voice Leading Errors
+title: Lesson 10a - Basic Part-writing Errors
 abc: true
 ---
 
-Before we move on to fully analyzing harmonic function, we must define the stylistic rules of the music we will be studying. If you remember from the Unit 6 readings discussing laws, rules, and strategies, rules are the practices that define a style. They are the binding agents that create a genre, but they also must be flexible enough for composers to carve out a unique voice within the style. 
+Before we move on to fully analyzing harmonic function, we must define the stylistic rules of the music we will be studying. If you remember from the Unit 6 readings discussing laws, rules, and strategies, rules are the practices that define a style. They are the binding agents that create a genre, but they also must be flexible enough for composers to carve out a unique voice within the style. The next two units of this textbook examine the rules established in earlier contrapuntal styles. Not because this is "superior" to any other style, but because these rules allow us to study how to weave independent voices into a single tonal piece of music. This acts as the foundation for most modern styles and is applicable to all tonal musics--even if the goal of the style is to *break* these rules.
 
-We will be studying basic diatonic harmony in a chorale style. We will use this not because it is "superior" to any other style, but because it has two advantages for teaching harmony when compared to other styles of music:
-- Chorales have been consistently composed over the last three centuries, therefore giving us multiple levels of complexity to study the evolution of tonal harmony.
-- Chorales are easier to understand visually, because they don't often have as much embellishment as other styles. 
+To study these rules, we will focus on part-writing through simple four-part chorales, so in the context of these discussions:
+  - A *voice* is an independent melody, and we often assign these a name based on their range (e.g. soprano, alto, tenor, or bass);
+  - *Voice-leading* is the collection of rules and guidelines that govern the relationships *within* a voice;
+  - *Part-writing* refers to a musical combination of voices as well as the rules and guidelines that govern the relationships *between* voices;
+  - *Voicing* refers to the process of assigning each voice to a chord member based on the harmony.
 
-So as we progress through rules of early styles that might seem outdated, do not lose sight of the *process* that we are creating. If you understand why each decision is made in this style, you will be able to intuit the next leap forward. And as we add complexity, you will eventually be able to apply these principles to *any* style of tonal music, even those that do not employ the underpinnings of tonic-dominant relationships. 
+Chorales provide two advantages for teaching harmony when compared to other styles of music:
+- Chorales are easier to understand visually, because they have less embellishment than most other styles. 
+- Chorales can easily incorporate all harmonic "advances" introduced over the last three centuries, therefore giving us a method to study the evolution of tonal harmony.
 
-## Voice-leading errors
+As we progress through rules of early styles that might seem outdated, do not lose sight of the *process* that we are creating. If you understand why each decision is made in this style, you will be able to intuit the next leap forward. And as we add complexity, you will eventually be able to apply these principles to *any* style of tonal music, even those that do not employ the underpinnings of indpendent voices or diatonic harmonic progressions. 
 
-**In the following example, each staff system highlights a different voicing error.**
-- Compare the "good" chords to the "bad" chords to come up with descriptions of the first two basic voicing rules of *doubling* and *spacing*. 
+## Part-writing errors
+
+**In the following example, each staff system highlights a different error.**
+- Compare the "Acceptable" chords to the "Unacceptable" chords to come up with descriptions of the first two basic rules of *doubling* and *spacing*.
 - Because *range* is a simple maximum and minimum, I have listed conservative estimates for each voice part. 
   - These can vary widely depending on the skill level of the intended performers but will be sufficient for our early exercises in part-writing.
 
@@ -33,16 +39,16 @@ V:1
 w:soprano alto
 V:2 clef=bass
 [C,G,] [C,G,] [C,G,] [C,C]|| [C,G,] [C,_B,] [C,E,] [C,_B,] [G,,G,]|]
-w:Good Good Bad Good Good Good Bad Bad Bad
+w:Acceptable Acceptable Unacceptable Acceptable Acceptable Acceptable Unacceptable Unacceptable Unacceptable
 [C,G,] [C,,G,] [C,G,] [C,G,] [C,G]|]
-w:Good Good Bad Bad Good
+w:Acceptable Acceptable Unacceptable Unacceptable Acceptable
 x| x| [GC,]| [DE,,]|]
 w:tenor bass{% endcapture %}
 {% include abc-example.html number="1" abc=ex1 %}
 
 ### Conclusions 
 
-To this point, everything that we have discussed has been based on a two-voice model, but to move into full diatonic harmony, we need to add inner voices and fully support the harmonies. When doing this, there are certain rules that create better voice-leading and voicings when followed, but as with all stylistic guidelines, please note that these rules are generally strong suggestions rather than hard and fast rules. Good composers bend or break these rules if it better serves their ideas.
+To this point, everything that we have discussed has been based on a two-voice model, but to move into full diatonic harmony, we need to add inner voices and fully support the harmonies. When doing this, there are certain rules that create better voice-leading and part-writing when followed, but as with all stylistic guidelines, please note that these rules are generally strong suggestions rather than hard and fast rules. Good composers bend or break these rules if it better serves their ideas.
 
 #### Doubling
 
@@ -61,7 +67,7 @@ Doubling in a seventh chord is similar, but because you have four notes for four
 
 #### Spacing
 
-Spacing is relatively straightfoward, but it can be difficult to create consistent rules based on the examples. Your final conclusions should be:
+Spacing is straightfoward in this style, but it can be difficult to create consistent rules based on the limited examples above. Your final conclusions should be:
 - The bass *can* be as far from the tenor as needed.
 - Between the soprano, alto, and tenor voices, adjacent voices cannot be more than an octave apart. Meaning that the:
   - Tenor and alto *cannot* have more than an octave between them.
@@ -70,7 +76,7 @@ Spacing is relatively straightfoward, but it can be difficult to create consiste
   - When the tenor and soprano are within an octave of each other, we call this a *closed voicing*.
   - When the tenor and soprano are more than an octave apart, we call this an *open voicing*.
 
-In general, a good voicing will mimic the overtone series on which our harmony is created. This details of this concept are discussed in Unit 11, but a helpful guideline is to use wider intervals between lower voices and narrower intervals between high voices.
+In general, an acceptable voicing will mimic the overtone series on which our harmony is created. This details of this concept are discussed in Unit 11, but a helpful guideline is to use wider intervals between lower voices and narrower intervals between high voices.
 
 #### Range
 
@@ -79,6 +85,3 @@ The ranges for each voice in the examples are conservative, but will serve us we
 #### Voice-crossing
 
 There was no easy way to notate this in the examples, but you should avoid crossing your voices unless used to create a desired texture. It is almost never necessary and often creates voice-leading and range issues. As you grow in your part-writing, you may find an occasional reason to cross voices, but do not unnecessarily complicate your first attempts.
-
-Egon explained this best in one of the greatest 80's movies, so bonus points for anyone that understands this reference.
-![Never cross the streams](https://64.media.tumblr.com/4ac0c9272c14cddd23e64831c6f7ae1e/tumblr_n2snvjtemt1r9a32bo1_400.gifv)

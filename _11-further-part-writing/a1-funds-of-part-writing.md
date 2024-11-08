@@ -33,11 +33,13 @@ And as a reminder, if you did not access our guide to part-writing in the last u
 
 ## Two important concepts to review before beginning
 
-After looking at the list of concepts that are needed to harmonize a melody, you probably feel daunted and combining so many concepts into a single, coherent piece of music. So instead of bringing in every nuance to start, I'd like to draw your attention to two major concepts that will act as your overarching guides for managing your melodic (horizontal) and harmonic (vertical) choices. 
+After looking at the list of concepts that are needed to harmonize a melody, you may find it daunting to combine so many concepts into a coherent piece of music. So instead of bringing in every nuance to start, I suggest that you focus on two major concepts that will act as your overarching guides for managing your melodic (horizontal) and harmonic (vertical) choices. In short, it is best to begin by focusing on what you *should* do rather than what you should not.
 
-### CONCEPT 1 - Manage the horizontal aspect through melody and tendency tones
+### CONCEPT 1 - Manage the horizontal aspect through melodic guidelines and tendency tones
 
-First, you should always prioritize making smooth, singable parts in this style. Your bass line will likely have more leaps if you prioritize root-position chords, but the upper three voices should predominantly use stepwise motion. Any leaps should be followed by stepwise motion in the opposite direction; not only does this make for singable, interesting melodies, but it also minimizes the possibility of issues such as voice crossing and spacing.
+You may think that a "melody" that focuses on smooth resolutions is boring and limits creativity. And most people would agree with you! Remember that we are currently creating the *framework* that we will embellish at a later time. If you examine the framework of the houses in a neighborhood by stripping away the exterior and interior decorations, they will all look quite similar, and musical composition within a particular style is the same. Once we have a strong foundation, however, it allows for greater freedom as a composer adds non-chord tones, chord substitutions, and the many other techniques that make each piece of music unique.
+
+With this in mind, your voices should prioritize smooth voice-leading that properly resolves tendency tones. Your bass line will likely have more leaps if you prioritize root-position chords, but the upper three voices should predominantly use stepwise motion. Any leaps should be followed by stepwise motion in the opposite direction; not only does this make for singable melodies, but it also minimizes the possibility of issues such as voice crossing and incorrect spacing.
 
 In Unit 7a, we showed that by studying the voice-leading of a simple V (or V<sup>7</sup>) to I progression, we can propose a broad set of voice-leading rules that explain circle-of-fifths diatonicism. Specifically:
 - For chords that have roots separated by a P5:

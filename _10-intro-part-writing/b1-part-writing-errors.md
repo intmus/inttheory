@@ -6,7 +6,7 @@ abc: true
 
 ## Part-writing
 
-The term *part-writing* can imply many things depending on its context, but for our purposes, this will be our first attempt to combine the fundamentals of melody (counterpoint) and harmony (voice-leading derived from circle-of-fifths progressions) into functional music using diatonic tonality. 
+This will be our first attempt to combine the fundamentals of melody (counterpoint) and harmony (voice-leading derived from circle-of-fifths progressions) into functional music using diatonic tonality. 
 
 By applying the various rules and techniques that we have studied thus far, we will be able to:
 - Propose a functional harmonization for a melody
@@ -19,9 +19,9 @@ We will be referring to this handout, [Part-Writing Error Checklist and Guide](h
 
 ## Why part-writing?
 
-Before we begin, I would like to address a question that I have received many times from students. Why do we study part-writing rather than just analysis, particularly in a strict style that is not applicable to all modern styles of composition?
+Before we begin, I would like to elaborate on the eternal question regarding part-writing: Why do we study part-writing rather than just analysis, particularly in a strict style that is not fully applicable to modern styles of composition?
 
-For our purposes, the study of basic part-writing is the simplest way to learn *how* voice-leading creates harmony. Even though most of its rules are archaic--and perhaps more damning is that a modern student's ear is unlikely to dislike certain style characteristics (e.g. parallel perfect fifths)--four-voice composition is the most direct way to study every aspect of how music functions: voice-leading, chord progressions, voicing chords, chordal structure, tendency tones, melodic construction, and so on.
+For our purposes, the study of basic part-writing is the simplest way to learn *how* combining voices leads to functional harmony. Even though most of its rules are archaic--and perhaps more damning, not particularly offensive to a modern student's ear--four-voice chorales are a straightforward method to study every aspect of musical function: voice-leading, harmonic progressions, voicings, chordal structure, tendency tones, melodic construction, and so on.
 
 We could attempt to focus on only one style of modern music--whether pop, jazz, classical, or otherwise--but because each is a fully developed, complex language, you would still need to learn basic harmonic movement before beginning to write in that style. And because each of these musics has its roots in diatonic harmony, an understanding of basic chorale style part-writing will allow you to study and develop a process to analyze *all* of these styles, rather than focusing your studies into only one area and being ignorant of the others.
 
@@ -29,7 +29,7 @@ In short, focus on the *process* of the part-writing rather than trying to memor
 
 ## Traditional errors
 
-In the last [topic]({{ site.baseurl }}/10-intro-harmonic/a1-voiceleadingerrors.html), we first looked at some basic rules for voicing a chord in a four-part chorale style. These rules included:
+In the last [topic]({{ site.baseurl }}/10-intro-harmonic/a1-voiceleadingerrors.html), we established some rules for voicing a chord in a four-part chorale style. These rules included:
 - Voice-crossing
     - In this style, voices generally should not cross
     - Exception: alto and tenor may cross briefly if musically necessary
@@ -53,7 +53,7 @@ In the last [topic]({{ site.baseurl }}/10-intro-harmonic/a1-voiceleadingerrors.h
 ## Part-writing errors
 
 **An important caveat**: Before you begin examining each of the four errors below, please remember two things:
-1. All voice-leading errors *must occur within the same two voices*. 
+1. All part-writing errors *must occur within the same two voices*. 
       - Due to the effects of consistently doubling roots, there will almost always be consecutive perfect octaves and perfect fifths between two triads, but this is not *parallel*. For example, a root position C major triad moving to a root position G triad likely will have two voices on C in the first chord and two voices on G in the second chord, if standard doubling practices are observed. This is fine as long as its not in the *same* two voices in both chords (e.g. soprano and bass both have C and then both have a G).
 2. Each of the four primary categories of part-writing errors are *symptoms* of voice-leading issues. If you understand the underlying voice-leading issues of each of these errors, you can find them more easily and avoid them in your own part-writing. 
 
@@ -61,7 +61,7 @@ Once you are comfortable with the descriptions of each of the errors below, try 
 
 ## Parallel perfect fifths and perfect octaves (PP5, PP8)
 
-Part-writing errors result from poor voice-leading. For example, look at the progression below and try to find our first major error: *parallel perfect octaves* (PP8). The name of the error should be enough of a clue as to what you are searching for, and once you have found it, look to see if a voicing rule (e.g. spacing, doubling, etc.) has been broken. If the voicing error is not fixed, is there any way to avoid the parallel octaves without incorrectly resolving a tendency tone?
+Study the progression below and try to find our first major error: *parallel perfect octaves* (PP8). The name of the error should be enough of a clue as to what you are searching for, and once you have found it, look to see if a voicing rule (e.g. spacing, doubling, etc.) has been broken. If the voicing error is not fixed, is there any way to avoid the parallel octaves without incorrectly resolving a tendency tone?
 
 {% capture ex1 %}X:1
 T:Parallel perfect octaves (PP8)
@@ -93,13 +93,13 @@ w:C:I ii V7 I{% endcapture %}
 
 ### Conclusions
 
-PP8 and PP5 undermine the independence of lines, so you should always avoid them in this style. Unacceptable parallel fifths and octaves occur when two voices have consecutive perfect fifths/octaves and move in parallel motion. It is not parallel perfect fifths/octaves if the intervals change voices. (e.g. The first P8/P5 is between the soprano and tenor, but the second P8/P5 is between the soprano and alto.)
+Unacceptable parallel fifths and octaves occur when two voices have consecutive perfect fifths/octaves and move in parallel motion. PP8 and PP5 undermine the independence of voices, so you should always avoid them in this style. As mentioned above, it is *not* parallel perfect fifths/octaves if the perfect intervals occur between different voices. (e.g. The first P8/P5 is between the soprano and tenor, but the second P8/P5 is between the soprano and alto.)
 
 In the first example, there are two examples of parallel perfect octaves:
 - between the soprano and tenor moving from ii<sup>6</sup> to V<sup>7</sup>
 - between the soprano and tenor moving from V<sup>7</sup> to I
 
-There is a larger underlying issue, however, because a doubling rule was broken on the V<sup>7</sup>. Because the third was doubled, you are forced to choose between incorrectly resolving one of the leading tones or undermining the independence of the two voices by locking them into consecutive perfect octaves.
+There is a larger underlying issue, however, because a doubling rule was ignored on the V<sup>7</sup>. Because the third was doubled, you are forced to choose between incorrectly resolving one of the leading tones or undermining the independence of the two voices by locking them into consecutive perfect octaves.
 
 {% capture ex7 %}X:7
 T:Parallel perfect octaves (PP8)
@@ -135,7 +135,7 @@ In summary, you may never have parallel perfect octaves or parallel perfect fift
 
 ## Contrary perfect fifths and octaves (CP5, CP8)
 
-Our next part-writing error, *contrary perfect fifths* and *contrary perfect octaves* (CP5 or CP8) are simply an attempt to cover up parallel perfect fifths and parallel perfect octaves by displacing one voice by an octave. The next two examples attempt to fix the errors from the first two examples on this page by displacing one voice of the parallel perfect intervals. Identify these by comparing them to the previous example (i.e. P) Notice that it creates multiple voicing and spacing errors as well as nearly unsingable parts!
+Our next part-writing error, *contrary perfect fifths* and *contrary perfect octaves* (CP5 or CP8) typically occur as an attempt to obscure parallel perfect fifths and parallel perfect octaves by displacing one voice by an octave. The next two examples attempt to hide the errors from the first two examples on this page by displacing one voice of the parallel perfect intervals. Identify these by comparing them to the previous example (i.e. P) Notice that it creates multiple voicing and spacing errors as well as nearly unsingable parts.
 
 {% capture ex3 %}X:3
 T:Contrary perfect octaves (CP8)
@@ -172,7 +172,7 @@ In the second example above, the CP5s occur between bass and tenor voices betwee
 - the I chord and ii chord
 - the ii chord and the V<sup>7</sup> chord
 
-Contrary perfect 5ths/8ves occur when two voices have consecutive perfect fifths/octaves and move in contrary motion. Contrary fifths and octaves occur when trying to mask parallel perfect fifths and octaves, so they will exhibit most of the traits of PP5/PP8 including the fact that the intervals must occur between the same two voices If the interval changes voices, it does not undermine the independence of the voices.
+Contrary perfect 5ths/8ves occur when two voices have consecutive perfect fifths/octaves and move in contrary motion. Contrary fifths and octaves are typcially the result of trying to mask parallel perfect fifths and octaves, so they are closely related.
 
 ## Unacceptable unequal fifths (UU5)
 
