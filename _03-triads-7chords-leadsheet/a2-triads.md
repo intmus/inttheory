@@ -54,6 +54,10 @@ title: Discussion 3a - Triads
 - The inversion figures are based on the interval between the bass note and the other notes in the triad.
 - *(note that when actually labeling inversions, the numbers will be superscript and stacked)* 
 
+<img src="https://i.pinimg.com/736x/9b/10/5a/9b105a7ccf3e5f555de6def498d8a4bf.jpg" width="70%">
+
+^ The reason that a 2nd inversion triad is the least stable is because the fifth is in the bass, which we associate with a need to resolve.
+
 # Further Reading
 
 ## From *Open Music Theory*
