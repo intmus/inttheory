@@ -41,7 +41,7 @@ When harmonizing the the root-position deceptive progression from the previous t
 
 Because of this, the vii<sup>o</sup> chord must follow different *doubling* rules in order to avoid poor voice-leading. With this in mind, try to harmonize the following progressions; first a simple I-V<sup>6/5</sup>-I progression, and then with an added root-position vii<sup>o</sup> chord. You will discover that:
 - the two chords have all but one pitch in common.
-- resolving a root-position vii<sup>o</sup> is extremely difficult and will require one voice to make consecutive jumps of a P5 to avoid issues due to tendency tone resolutions.**
+- resolving a root-position vii<sup>o</sup> is extremely difficult and will require one voice to make consecutive jumps of a P5 to avoid issues due to tendency tone resolutions.
 
 {% capture ex2 %}X:2
 T:Voicing a viio using functional substitution
@@ -56,7 +56,7 @@ V:2 clef=bass
 w:C:I V6/5 I I viio V6/5 I{% endcapture %}
 {% include abc-example.html number="2" abc=ex2 %}
 
-Because the root position vii<sup>o</sup> triad is so difficult, it is rarely used. It is not possible to resolve a root-position vii<sup>o</sup> triad to a I chord without breaking at least one part-writing norm. A root-position vii<sup>o</sup> must either pass through another chord or be inverted to resolve directly to I.
+Because the root position vii<sup>o</sup> triad is so difficult, it is rarely used. It is not possible to resolve a root-position vii<sup>o</sup> triad to a I chord without breaking at least one part-writing norm. A root-position vii<sup>o</sup> should either pass through another chord or be inverted when resolving directly to I.
 
 As a general rule of thumb, any diminished triad (including the ii<sup>o</sup> in minor) will typically need to have the chordal third doubled, because the tension of the diminished fifth and its tendency tones.
 
@@ -81,7 +81,7 @@ w:C:I IV V I I ii6 V I I ii6/5 V I{% endcapture %}
 
 ### Conclusions
 
-While it is certainly possible to voice the pre-dominant function chords in these progressions following standard doubling conventions, it can create less than appealing voicings for the ii chord, particularly in its triad form. When in first inversion, you may choose to double the third of the ii, in which case, it is acting as a functional substitution of a root-position IV chord. 
+While it is certainly possible to voice the pre-dominant function chords in these progressions following standard doubling conventions, it can create less appealing voicings for the ii chord, particularly in its triadic form. When in first inversion, you may choose to double the third of the ii, in which case, it is acting as a functional substitution of a root-position IV chord. 
 
 {% capture ex5 %}X:5
 T:Using functional substitutions for pre-dominants
