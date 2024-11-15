@@ -40,17 +40,15 @@ V:1
 [CFG]"major"[CFA]| [CFG]"minor"[CF_A]|]{% endcapture %}
 {% include abc-example.html number="8" abc=ex8 %}
 
-Not only are these examples effective in demonstrating your ear's natural inclination toward root position, but they also show the basic diatonic underpinning of for limiting the use of second-inversion chords. In the above example that resolved the original sonority to an F major/minor chord, you can see how closely-related any key is to the key of its subdominant. Therefore, if used incorrectly, second-inversion chords can destabilize your part-writing by pushing toward a different key.
+Not only are these examples effective in demonstrating our ear's inclination toward root position, but they also show the harmonic underpinning for limiting the use of second-inversion chords. The above example that resolved the original sonority to an F major/minor chord demonstrates how closely-related any key is to the key of its subdominant. Therefore, if used incorrectly, second-inversion chords can destabilize your part-writing by implying a different key.
 
 ## Tertiary functions
 
-Because second-inversion triads are not as stable as the other inversions, they must be used differently in your part-writing. Instead of fulfilling a primary function such as tonic, dominant, or pre-dominant, they will have one of the four tertiary functions, one of which we already discussed in the previous unit:
+Because second-inversion triads are less stable than other inversions, they function differently. Instead of fulfilling a primary function such as tonic, dominant, or pre-dominant, they will have *tertiary function*--extending the primary function of the chord before or after it. There are four categories of tertiary function, one of which we discussed in the previous unit:
 - cadential
 - passing
 - pedal
 - arpeggiated
-
-For each of these functions, the chord will be extending the primary function of another chord rather than defining its own.
 
 ## Doubling
 
