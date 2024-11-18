@@ -117,7 +117,7 @@ Understanding that the ii chord in this example acts as a passing chord rather t
 
 ## Function over form (Part 4)
 
-Now that we have practiced using a passing 6/4 chord, we can also clarify why vii<sup>o6</sup> chords function well as a passing chord. When studying first inversion chords [Unit 11b]]({{ site.baseurl }}/11-further-part-writing/b1-voiceleading1stand3rdinv.html), we discussed two important ideas regarding vii<sup>o</sup> chords:
+Now that we have practiced using a passing 6/4 chord, we can also clarify why vii<sup>o6</sup> chords function well as a passing chord. When studying first inversion chords [Unit 11b]({{ site.baseurl }}/11-further-part-writing/b1-voiceleading1stand3rdinv.html), we discussed two important ideas regarding vii<sup>o</sup> chords:
 - The vii<sup>o</sup> is a functional substitution for the V<sup>7</sup> chord and therefore takes its voice-leading and doubling conventions from the V<sup>7</sup> chord.
 - The vii<sup>o6</sup> is often employed as a passing chord between I and I<sup>6</sup> to create a bass line with stepwise motion.
 
