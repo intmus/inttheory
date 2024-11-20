@@ -122,7 +122,7 @@ Both of the "horns" are written in F. This includes:
     - See section below on the history of brass instruments for a discussion of the many keys in which hornists are required to perform.
     - Many modern hornists prefer to refer to French horn simply as "horn".
 
-When reading an an English horn or French horn part, transpose *down* a P5 to find concert pitch. 
+When reading an English horn or French horn part, transpose *down* a P5 to find concert pitch.
 
 When reading a concert pitch line, transpose *up* a P5 to write for either English horn or French horn.
 
