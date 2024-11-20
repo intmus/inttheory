@@ -29,8 +29,6 @@ title: Discussion 11c - Voice-leading for First and Third Inversion Chords
 - Secondary: chords that have a primary function in a secondary key center.
 - Tertiary: they don't have a function in of themsleves, rather, they extend the function of a chord that they are next to.
 
-**Passing chords:s**
-- Creates passing motion. If you identify a chord as "passing," you're saying it has no primary function. Instead, we're using it for smooth voice leading. To ID these chords, you put the Roman numeral in parentheses and write "passing" underneath it
-- Like other tertiary functions, these extend the primary functions on either side of them. If you insert a passing chord between two dominant function chords, you've simply lengthened the dominant section
-- V6 - IV6 - V. We made the IV6 a vi and V6 to vi is good, but vi to V is not.... so we label it a passing chord.
-  - There's no good option for this one, really...each one has its own errors, whether actual or just "not ideal," so it's a matter of picking the one that is the least bad
+**Passing chords:**
+- They are like a collection of passing tones that we call a chord.
+- They are not part of the functional progression.
