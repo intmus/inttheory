@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 15c Discussion - Irregular Usage of Secondary Chords
+title: 14e Discussion - Irregular Usage of Secondary Chords
 abc: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 15a Discussion - More Secondary Dominant Functions
+title: 14c Discussion - More Secondary Dominant Functions
 abc: true
 ---
 
