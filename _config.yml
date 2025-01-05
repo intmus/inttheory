@@ -64,33 +64,30 @@ collections:
   14-secondary-dominant-functions:
     output: true
     name: 14) Secondary Dominant Functions
-  15-further-secondary-functions:
+  15-intro-to-modulation:
     output: true
-    name: 15) Further Secondary Functions
-  16-intro-to-modulation:
+    name: 15) An Introduction to Modulation
+  16-mode-mixture:
     output: true
-    name: 16) An Introduction to Modulation
-  17-mode-mixture:
+    name: 16) Mode Mixture
+  17-tonal-sequences:
     output: true
-    name: 17) Mode Mixture
-  18-tonal-sequences:
+    name: 17) Tonal Sequences
+  18-chromatic-chords:
     output: true
-    name: 18) Tonal Sequences
-  19-chromatic-chords:
+    name: 18) Chromatic Chords
+  19-extended-and-mediant-harmonies:
     output: true
-    name: 19) Chromatic Chords
-  20-extended-and-mediant-harmonies:
+    name: 19) The Harmony of Thirds
+  20-advanced-modulatory-techniques:
     output: true
-    name: 20) The Harmony of Thirds
-  21-advanced-modulatory-techniques:
+    name: 20) Advanced Modulatory Techniques
+  21-advanced-scales-and-meters:
     output: true
-    name: 21) Advanced Modulatory Techniques
-  22-advanced-scales-and-meters:
+    name: 21) Modern Scales and Meters
+  22-intro-to-post-tonal:
     output: true
-    name: 22) Modern Scales and Meters
-  23-intro-to-post-tonal:
-    output: true
-    name: 23) An Introduction to Post-Tonal Analysis
+    name: 22) An Introduction to Post-Tonal Analysis
 #  final-project:
 #    output: true
 #    name: Final Project Notes and Discussion
