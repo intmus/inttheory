@@ -2,9 +2,6 @@
 layout: chapter
 title: 13a Discussion - The Period
 ---
-
-# Class discussion
-
 # Further reading
 
 ## From Open Music Theory

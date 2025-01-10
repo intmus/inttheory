@@ -4,20 +4,18 @@ title: 14a Discussion - Secondary Dominant Chords
 abc: true
 ---
 
-# Class Discussion 
+## Secondary Secrets
 
-Secondary chords are chords that are borrowed from other keys. 
+**Secondary Dominant** chords get their name because they *temporarily* act as a dominant chord in a *secondary key* other than the primary key that you are in.
 
-You can substitute the diagonal slash for the words “in the key of”. For example, V/V is the same as saying “V in the key of V”. If you find yourself labeling a chord that doesn’t exist in the key (non-diatonic) it might be a secondary dominant chord!
+**Important points on notation:**
+- the slash " / " symbol stands for "in the key of"
+- this slash means something different than the slash you use in lead-sheet!!
+- when writing your own secondary dominant chord, be sure that all chord tones resolve in the standard circle-of-fifths way
+- V / V chords are always **predominant** function, becuase they replace the ii chord
 
-When a secondary dominant has a chordal seventh, make sure it resolves down to the third of the next chord.
 
-Functional substitution is when a chord is functioning like another chord, (viio and V, ii and IV, vi and I). so we can apply the doubling rules for the other chord. A viio chord functions like a V chord. In this case, you want to double the same tones in either chord: the non-tendency tones. In a V chord, you could 
-
-V/V chords are predominant because they replace ii chords.
-
-# Class discussion 2022
-## Secondary Dominant Chords
+## Class discussion 2022
 
 **In a minor key, are i and iv diatonic or chromatic?**
 - They are diatonic! They show up naturally in minor keys. If we were to have a iv in a major key, that would be a chromatic chord. Any chord that is modified from how it would appear naturally in the major or minor key is chromatic.
@@ -46,6 +44,3 @@ V/V chords are predominant because they replace ii chords.
 - Relate V/V to something you're already very familiar with: ii! In a way, V/V is really just a fancy ii. They share the same root and usually share the same function. The only difference is V/V's raised third
 - If thinking about solfege works better for you, you can use the above point but think about sol and re instead. If you see re and fi together, you'll know it's likely a V/V
 - These chords are weird and require added accidentals so double-checking (or even triple-checking) them is always a good idea!! Make sure what you ID'd matches up with what you wrote out in the staff.
-
-# Further reading
-

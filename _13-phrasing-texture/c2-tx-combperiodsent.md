@@ -2,9 +2,6 @@
 layout: chapter
 title: 13c Discussion - Combining Periods and Sentences
 ---
-
-# Class discussion
-
 # Further reading
 
 ## From Open Music Theory

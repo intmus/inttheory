@@ -2,9 +2,6 @@
 layout: chapter
 title: 13b Discussion - The Sentence
 ---
-
-# Class discussion
-
 # Further reading
 
 ## From Open Music Theory
