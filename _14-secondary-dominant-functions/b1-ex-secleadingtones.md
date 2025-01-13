@@ -77,7 +77,7 @@ w:C:I vi viio/V V I{% endcapture %}
 
 ## Adding a seventh
 
-It is easier, but still restrictive, to use a vii<sup>o</sup> as a seventh chord. In the following example, try to using a vii<sup>&oslash;7</sup>/V using the provided bass line. You may use either a fully diminished or half-diminished seventh chord in this example.
+It is easier, but still restrictive, to use a vii<sup>o</sup> as a seventh chord. In the following example, try voicing the vii<sup>&oslash;7</sup>/V using the provided bass line. You may use either a fully diminished or half-diminished seventh chord in this example.
 
 {% capture ex5 %}X:5
 T:Using a secondary leading-tone seventh chord
@@ -121,7 +121,6 @@ V:2 clef=bass
 [C,G,] [A,,A,]| [^F,,C] [G,,B,]| [C,2C]|]
 w:C:I vi vii%7/V V I{% endcapture %}
 {% include abc-example.html number="9" abc=ex9 %}
-
 
 Remember that because a secondary leading tone chord (e.g. vii<sup>o</sup>/V) or vii<sup>&oslash;7</sup>/V) is a functional substitution for a secondary dominant chord (e.g. V/V) chord, the root and fifth of the vii<sup>&oslash;7</sup>/V are acting as if they were the third and seventh of the V<sup>6/5</sup>/V chord. You can see this when you voice the two chords side-by-side.
 
