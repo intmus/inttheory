@@ -6,7 +6,7 @@ abc: true
 
 ## Voice-leading exceptions for secondary dominants
 
-In Unit 17, we will discuss how repeated patterns and sequences in voice-leading can override standard voice-leading practices. We can preview one such example by looking at seventh chords that require "incorrectly" resolved chordal thirds and sevenths. To demonstrate this, harmonize the excerpt below paying attention to the chordal resolutions between the ii<sup>7</sup> and V<sup>4/3</sup> chords. Which voices must use non-standard resolutions to accommodate the progression?
+In Unit 17, we will discuss how repeated patterns and sequences in voice-leading can override standard voice-leading practices. We can preview one such example by looking at seventh chords that require "unusual" resolutions of chordal thirds and sevenths. To demonstrate this, harmonize the excerpt below paying attention to the chordal resolutions between the ii<sup>7</sup> and V<sup>4/3</sup> chords. Which voices must use non-standard resolutions to accommodate the progression?
 
 {% capture ex1 %}X:1
 T:Harmonizing consecutive seventh chords
