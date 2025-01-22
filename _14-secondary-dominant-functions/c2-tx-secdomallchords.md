@@ -4,29 +4,14 @@ title: 14c Discussion - More Secondary Dominant Functions
 abc: true
 ---
 
-# Class Discussion 
+## Broadening Horizons
 
-Other secondary chords
+**"Can you tonicize any chord?"**
+- No. Diminished chords cannot be tonicized (except for the iiº chord in a minor key, but it's weird)
 
-The ii and the V/V chords aren’t the only ones that are interchangeable. In fact, almost every chord on our “chord flowchart” can be replaced by a secondary dominant chord that resolves to the next chord. For example, a V/ii chord can be placed before a ii chord by replacing the vi chord. A V/vi chord can be placed before a vi chord by replacing the iii chord. These can all also be seventh chords
-
-When tonicizing a major chord, you can use a vii%7 of the next chord, or a viio7 of the next chord.  
-
-# Class discussion 2022
-
-Harmonization of "Inserting secondary dominant functions into various root movement patterns"
-
-Progression I, vi7, V7/ii, ii, V7/V, V7, I
-
-Soprano: C, C, C#, D, D, D, C Alto: E, G, G, F, F#, G, E Tenor: G, A, A, C, C, B, G
-
-Bass notes (found from inversion): C, A, A, D, D, G, C
-
-Any major, minor, or dominant quality can be tonicized. For leading tone chords, check previous page chpt.15a.
-
-Inserting secondary dominants helps to create smooth bass lines.
-
-Cycle of Dominants: Chaining secondary dominate chords together (V/ii->V/V->V->I)
+**"When can I use a viiø7 versus a viiº7?"**
+- You can use viiº7 to tonicize major or minor chords, but viiø7 works *only* with major chords. This is becuase viiø7 is a diatonic chord only in major keys, and the voice-leading is weak when trying to resolve it to a minor chord.
+- viiº7 can be used to tonicize either minor or major keys, becuase the voice-leading works well.
 
 (Following to be used for example 3 on previous page - DO NOT ALTER)
 
@@ -134,6 +119,3 @@ Roman Numerals: I - V^4/3/vi - vi - V^4/3/IV - IV - V^6/V - V7 - I
 - notice that any accicentals only move in the half-step motion of their tendancy
   - sharp accidentals resolve up
   - flat accidentals resolve down
-
-
-
