@@ -15,15 +15,7 @@ abc: true
 - For example, if you go from E7 to A7, the G# in the E7 resolves to the G in the A7.
 - Sevenths resolve like normal - down by step to the third of the following chord.
 
-**Secondary dominants and their related chords**
-- V/V and ii
-- V/ii and vi
-- V/vi and iii
-- For all of these, you identify them by listening to/noting the quality of the chord. Secondary dominants are always going to be major, while all their counterparts listed above (aka normalsauce variants) will be minor
-
 **Deceptive resolutions in a secondary key:**
-- V7/vi should resolve to vi, but we have it going to IV instead which is weird
-  - It's a deceptive progression!! V7/vi - IV is V - VI in C's relative minor, A minor
-- To ID this correctly, be looking for a secondary dominant chord that...
-  - Doesn't go where it's supposed to
-  - Is followed by a root position chord WITH root movement up by step
+- This is when the V in a secondary key resolves to the vi in that same secondary key. For example: V/V to vi/V
+- BE WATCHFUL though, because the Roman Numerals you initially write might not reveal this! You could have written V/V to iii, which are the same chords, and then you'll be confused what on earth it is.
+- Another commonly occuring one is V/vi to iv, which is secretly V/vi to vi/vi.

@@ -4,17 +4,18 @@ title: 15b Discussion - Defining modulation
 abc: true
 ---
 
-# Class discussion
+## Modulation Mania
 
-**Key signature vs. key**
-- You don't have to change key signatures to modulate. Think of a piece in sonata-allegro form: it will rapidly modulate during the development, but we don't get a key signature change for each one.
-- Tonic defines key. Key signatures are shorthand for the benefit of the performer, they have nothing to do with the actual key
+**Modulation vs. Modal Movement**
+- Modulation is a change in tonic
+- Modal Movement is the same tonic, but with a new key signature
 
-**Key relationships**
-- Each key has five closely related keys: the key with one more sharp, the key with one more flat, and the relative minor keys of all three.
-  - Ex: the closely related keys to C major are F and G major + A, D, and E minor. The minor keys are relative to the major keys, which include C major and the keys one sharp and one flat in either direction.
+**Closely-related Keys**
+- Every major and minor key whose key signature is within one accidental of the home key.
+- Every home key has **five** closely related keys.
+- Ex: F minor is closely relatd to Ab, C-, Eb, Bb-, and Db. This is becuase the key signature of F- is four flats. The key sig of Ab is also four flats. The key sig of C- and Eb is three flats (only one accidental different). Lastly, the key sig of Bb- and Db is five flats.
 
-**Tonicization vs. modulation: How do we tell the difference?**
+**How do you tell the difference between tonicization and modulation?**
 - Signaling is the same for both: look for accidentals, namely raised notes (ti in the temporary/new key, fi in the current key)
 - Placement: is the new key area happening at the end of a phrase or is it in the middle? Furthmore, what is *around* it? If we stay in the new key, we've modulated, but if it's temporary it's tonicization.
   - In the second example we listened to in class, we have a V/VI - VI progression to the first fermata. However, the chords after it are still in the key of I. This indicates that we haven't changed keys. If we had, the following chords wouldn't make as much sense in I because they're actually in the key of VI
