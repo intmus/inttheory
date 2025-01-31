@@ -4,13 +4,17 @@ title: 15b Discussion - Pivot chords
 abc: true
 ---
 
-# Class discussion
+## Pivot Points
 
-LEAD SHEET >>>>>>>> EVERYTHING
+**Big Takeaways:**
+1. Always fill in lead-sheet first! Lead-sheet doesn't change based on modulation, unlike roman numerals.
+2. The pivot chord must be part of a functional progression in both the old key and the new key.
+3. The pivot chord usually occurs right before the **change**. (the change is when you hear or see something that's outside the old key)
 
-We *highly* recommend that if you weren't doing lead sheet notation first in your analyses, you start now. It's especially important to do it this way now because we're getting into modulation, and lead sheet will keep you from having to go back and re-do a bunch of work, which might happen if you try and do Roman numerals first. Remember: Roman numerals label function, whereas lead sheet just labels chords. To figure out what the music is doing, first we have to know what we have.
+**Step-by-Step Process:**
+- "Where do I see/hear a change?"
+- What is the chord before it?
 
-**Pivot modulations (Common chord pivot modulations)**
 - Three important questions:
   - Where do you first hear something changing?
   - How is the change prepared?
