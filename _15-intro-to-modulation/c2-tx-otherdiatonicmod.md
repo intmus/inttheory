@@ -4,7 +4,7 @@ title: 15c Discussion - Alternate modulatory methods
 abc: true
 ---
 
-# Class discussion
+## More Modulation Madness
 
 **Secondary function pivot chord**
 - What do we do when there is no good pivot chord? Like both of them are *really* ugly?
@@ -19,5 +19,6 @@ abc: true
 - This type of modulation is not labeled with a bracket. Instead, you designate the new key in the same line as the old one and continue as normal
 
 **Common tone modulation**
+- Like a pivot chord modulation in concept, but revolves around a common note rather than a common chord.
 - Requires a bracket to label, but instead of the chord you label the common tones used to move between keys. We label the scale degrees, putting the scale degree in the old key above the bracket while we put the new one below (make sure to use ^ to designate the numbers as scale degrees!!)
 - Ex: in the Schubert excerpt we looked at in class, we modulate in the third to last measure, using the C# in the melody and the piano as our common tone. We're moving from D minor to F# major, so we would put "^7" in the upper part of the bracket, then "F#: ^5" in the lower part. Remember that even though you're labeling pitches instead of chords with this type of modulation, you still designate the new key in the same way as with a pivot modulation.
