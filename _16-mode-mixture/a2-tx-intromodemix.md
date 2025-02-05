@@ -3,15 +3,26 @@ layout: chapter
 title: 16a Discussion - An introduction to mode mixture
 abc: true
 ---
-# Class Discussion
+## Mixing it Up
 
-Borrowed chords are when a chord is replaced by how it would show up in another mode. A common way to borrow chords is taking chords from the minor key (aeolian mode) and putting them in major pieces. This often adds lowered notes that resolve downward to create smoother voice leading.
+**"Which diatonic chords are the same between parallel major and minor modes?"**
+- The V and viiº chords are the same, becuase regardless of the key signature, V and viiº need to serve dominant function.
 
-It is also common to borrow chords from a major key while in a minor key. For example, using the major IV chord in first inversion will allow us to have a “La Ti Do” bassline.
+**"How do you get mode mixture to sound good?"**
+- Smooooooooth voice-leading is key. Chromatic lines will sound good to the ear even if they move through weird chords.
+
+**Simple definition of Mode Mixture:**
+- Replacing a diatonic chord with a similar, but different, chord from a parallel mode.
+
+**Common Themes of Mode Mixture:**
+- It is more common to borrow chords from the parallel minor mode when you are in major than vice versa.
+- The six chord is the most commonly altered one.
+- Borrowing the flat two chord (from phrygian) while in major is so common that it has its own name: a *"Neopolitan"* chord.
+- The reason borrowed chords are used is often to create smooth, interesting bass lines. For example: using a La, Ti, Do bassline in minor.
+
 
 Because the V and V7 chords are diatonic in both major and minor keys, we cannot borrow it. We can however borrow the viio7 chord from minor, and the vii%7 from major, although the former is much more common.
 
-# Class discussion
 
 Mode mixture, modal interchange, and borrowed harmony all = the same thing
 
