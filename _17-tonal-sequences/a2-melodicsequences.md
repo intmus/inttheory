@@ -6,8 +6,6 @@ abc: true
 
 ## Class Discussion
 
-**Sequences**
-
 - Sequences are repeated melodic or harmonic material that is transposed up or down by a constant interval. The interval that the sequence is moved is called the interval of transposition.
 
 - There are two types of sequences: diatonic, and chromatic. Diatonic sequences have starting notes that appear in the key you are in without needing accidentals to alter them. Chromatic sequences have an interval of transposition that is fixed and doesn’t fit the key you’re in. 
@@ -15,6 +13,20 @@ abc: true
 - Even though some of the notes in a sequence are chromatic, if each iteration of the sequence starts on a diatonic note in the key it is a diatonic sequence and not a chromatic sequence.
 
 - When labeling chromatic sequences you must include the interval’s quality and size. 
+
+**Diatonic Sequences**
+- Every note is in the key signature.
+- The intervals between notes are *not* always the exact same size compared to other iterations of the pattern, becuase the intervals are relative to the key.
+- The interval of transposition is also relative to the key it is in, and not exact.
+- The interval of transposition is labeled only quantitatively, without a quality.
+
+**Chromatic Sequences**
+- Not every note is in the key signature.
+- The intervals between notes are *always* the exact same size compared to other iterations of the pattern.
+- The interval of transposition is exactly the same every time.
+- The interval of transposition is labeled with both a quantity and a quality.
+
+**Mixed Sequences**
 
 **Labeling Sequences**
 
