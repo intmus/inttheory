@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 17a Lesson - Harmonic Sequences
+title: 17b Lesson - Harmonic Sequences
 abc: true
 ---
 

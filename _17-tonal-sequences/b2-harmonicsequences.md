@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: 17a Discussion - Harmonic Sequences
+title: 17b Discussion - Harmonic Sequences
 abc: true
 ---
 
