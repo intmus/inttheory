@@ -4,7 +4,7 @@ title: 15c Discussion - Alternate modulatory methods
 abc: true
 ---
 
-# Class discussion
+## More Modulation Madness
 
 **Secondary function pivot chord**
 - What do we do when there is no good pivot chord? Like both of them are *really* ugly?
@@ -13,11 +13,13 @@ abc: true
 - Again, you will usually see pivot modulations in the middle of a phrase. This is because they have to have a functional progression on both sides of the pivot.
 
 **Direct modulation/Phrase modulation**
-- Pretty common in Broadway and country music. It's that thing where you repeat everything you just did but up a step or a up a third!
-- The signal for this modulation is, to nobody's surprise, the end of a phrase. This requires a cadence: phrases are defined by cadences, so you *have* to have a cadence right before a phrase modulation.
+- Pretty common in any popular music. It's that thing where you repeat everything you just did but up a step or a up a third!
+- This requires a cadence to occur before the phrase modulates to a new key.
     - After this they can modulate pretty much wherever, but a lot of times you get a modulation to the iii/III because it's a really dramatic sound, since I and iii are so far away from each other
-- This type of modulation is not labeled with a bracket. Instead, you designate the new key in the same line as the old one and continue as normal
+- This type of modulation is not labeled with a bracket. Instead, you designate the new key in the same line as the old one and continue as normal.
 
 **Common tone modulation**
-- Requires a bracket to label, but instead of the chord you label the common tones used to move between keys. We label the scale degrees, putting the scale degree in the old key above the bracket while we put the new one below (make sure to use ^ to designate the numbers as scale degrees!!)
+- Like a pivot chord modulation in concept, but revolves around a common note rather than a common chord.
+- It gets labeled with a bracket, like pivot chords. However, rather than writing the roman numerals of the chords, you write the scale degree of the common tone as it relates to the old key and the new key.
+- Remember to use the caret ^ symbol when labeling scale degrees!
 - Ex: in the Schubert excerpt we looked at in class, we modulate in the third to last measure, using the C# in the melody and the piano as our common tone. We're moving from D minor to F# major, so we would put "^7" in the upper part of the bracket, then "F#: ^5" in the lower part. Remember that even though you're labeling pitches instead of chords with this type of modulation, you still designate the new key in the same way as with a pivot modulation.

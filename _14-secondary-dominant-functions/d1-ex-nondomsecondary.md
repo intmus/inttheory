@@ -6,7 +6,7 @@ abc: true
 
 Secondary chords can be extended beyond the dominant function, creating further tonicization of a chosen chord.
 
-## Extending toniczation
+## Extending tonicization
 
 For the following chorale, provide leadsheet symbols and a Roman numeral analysis. There are multiple chromatically-altered chords, some of which cannot be explained as secondary dominant or secondary leading-tone chords. And while it might be tempting to label a minor v chord in your analysis, that doesn't explain what the listener is hearing. Instead focus on looking for "pockets" of tonality, in which you might be able to explain a progression easier through the lens of another key. 
 
