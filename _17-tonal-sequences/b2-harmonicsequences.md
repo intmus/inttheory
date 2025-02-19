@@ -31,3 +31,9 @@ abc: true
   - This sequence transposes down a third every iteration. Each iteration is made up of two chords.
   - You can spell the chords in different inversions so that the bass line descends in stepwise motion.
   - This is the reason we have iii -> IV in our chord progression chart! This progression works in Pachelbel's "Canon in D" and is used widely even today.
+
+**Andalusian Progression:**
+ - i, <sup>b</sup>VII, <sup>b</sup>VI, V
+ - Bass line solfege: Do, Te, Le, So
+ - EXTREMELY COMMON
+ - Gets its name from the Andalusian Peninsula, which includes Portugal and Spain, because it is a very common sound in traditional music from that area.

@@ -4,15 +4,19 @@ title: 18a Discussion - Augmented sixth chords
 abc: true
 ---
 
-## Class Discussion
+## AAAAAAAUUUUUGGGGHHHmented Sixth Chords
 
-#### Augmented Sixth Chords
+**"What are they?"**
+- They are NOT triads
+- Their main purpose is to lead into a V chord
+- They always contain an augmented sixth interval
 
-The augmented sixth chord is not actually a triad. Instead, it is a collection of tones that resolve very smoothly in a specific way. These chords include the scale degrees Fi and Le (sharp fourth and sharp sixth scale degrees of the key you are currently in) which both resolve by half step to Sol. Because of this, they almost always resolve to a root position five chord. The interval between low Le and Fi above it is an augmented sixth. 
+**"How are they made?"**
+- They all contain Do of their home key
+- They all contain Le and Fi
+- When spelled out, Le goes on the bottomm and Fi goes on the top. This is how you get an augmented sixth interval within the chord.
 
-These chords also all share another common tone: Do (the tonic). This tone often resolves down by step to Ti (seventh scale degree), becoming the third of the V chord. “Do” in an augmented sixth chord can also remain on Do and become the root of a I 6/4 chord.
-
-#### Types of Augmented Sixth Chords
+### Types of Augmented Sixth Chords
 
 ***Italian Augmented Sixth Chords***
 
