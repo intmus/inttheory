@@ -36,24 +36,24 @@ abc: true
 - Solfege: Le, Do, Me, Fi
 - Scale degrees: b6, 1, b3, #4
 - German adds "Me"
-- **Le** always resolves down to **So**, and **Fi** always resolves up to **So**. **Me** creates a voice leading issue because it resolves in parallel perfect fifths with **Le**.
+- **Le** always resolves down to **So**, and **Fi** always resolves up to **So**. **Me** creates a voice leading issue because it resolves in parallel perfect fifths with **Le**. Because of this, German aug sixth chords often go to a I<sup>6/4</sup> and then to a V.
 
 ### Additional Notes:
 - The leadsheet notation for these chords are the **same as the roman numerals**.
-- The augmented sixth chord is almost always **predominant** function, because they almost always resolve to V, or I6/4.
+- An augmented sixth chord is almost always **predominant** function, because they almost always resolve to V, or I6/4.
 - There are **no inversions** of these chords, becuase they are not triads.
+- Watch out for enharmonic re-spellings! In a real score, the accidentals on an aug sixth chord will be based on how each voice resolves, and may not match the accidentals you are used to seeing.
 
 **Steps for Building an Augmented sixth chord in any key:**
 1. Write in "Do".
 2. Figure out what is "So".
 3. Underneath Do, write in the note that is a half-step above So.
 4. Above Do, write in the note that is a half-step below So.
+5. If it is French, add in "Re" above Do.
+6. If it is German, add in "Me" above Do.
 
-# Class discussion 2022
-
-**Augmented sixth chords resolving to a non-dominant harmony**
-- By writing some notes enharmonically, we can basically sub in one dominant chord for another. In the example we did in class (in C), the respelled Ger+6 translated to a Db7, which still moved nicely over to V7.
-  - Process: writing out the full chord (Db F Ab B) and respelling the B as a Cb. Cb wants to resolve down to the B in the next chord, and the F carries through to be the seventh.
-- If you keep the chord as written, we have our normal +6 chord function: the actual +6 resolves outward to the root of the next chord. So our original +6 chord from the example resolves to a C major chord.
-  - Labeling: instead of using our "in the key of" secondary dominant labeling, the slash indicates "going to" and you write the scale degree below the slash. The Ger+6 in this example would be written as Ger+6/^1 (remember the caret should be written above the number)
-  - In this instance, Ger+6/^1 actually has *dominant* function, rather than predominant. It subs in for V7 and proceeds straight to I. Think of respelling the chord as a Db7! Ger+6s can have dominant function...but only sometimes
+### Non-Standard Uses:
+**Ger<sup>+6</sup> resolving to a I chord:**
+- In this case, the Ger<sup>+6</sup> is acting with dominant function.
+- It is labeled with a slash: Ger<sup>+6</sup>/ 1<sup>^</sup>
+- The slash and scale degree indicates what scale degree of the home key the augmented sixth interval resolves to.
