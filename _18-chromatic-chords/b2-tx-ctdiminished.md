@@ -4,16 +4,16 @@ title: 18b Discussion - Common-tone diminished chords
 abc: true
 ---
 
-## Class Discussion
+## Common-tone Commotion
 
+**Like augmented sixth chords, these are a collection of tendency tones.**
 
-Common Tones Diminished 7th Chords
-
-A common tone diminished 7th chord is a fully diminished seventh chord that shares a tone between the chord before it, and the chord after it.
+**Where it gets its name:**
+- A common tone diminished 7th chord is a fully diminished seventh chord that shares a tone between the chord before it, and the chord after it.
 
 You can think of them as a cluster of non-chord tones: one tone will remain the same (this is the common tone) and act like a pedal tone, and the other three notes will act like neighbor tones or passing tones.
 
-These chords are always labeled as cto7, no matter what it resolves to or how it's spelled. 
+These chords are always labeled as ct<sup>o7</sup>, no matter what it resolves to or how it's spelled.
 
 Put the leadsheet as you normally would. Take care to notice how it is spelled.
 

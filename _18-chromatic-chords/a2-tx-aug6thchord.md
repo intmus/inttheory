@@ -57,3 +57,4 @@ abc: true
 - In this case, the Ger<sup>+6</sup> is acting with dominant function.
 - It is labeled with a slash: Ger<sup>+6</sup>/ 1<sup>^</sup>
 - The slash and scale degree indicates what scale degree of the home key the augmented sixth interval resolves to.
+- This is secretly a **Tritone substitution** (hip alert!)
