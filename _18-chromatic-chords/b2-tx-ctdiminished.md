@@ -6,28 +6,26 @@ abc: true
 
 ## Common-tone Commotion
 
-**Like augmented sixth chords, these are a collection of tendency tones.**
+### Like augmented sixth chords, these are a collection of tendency tones.
 
 **Where it gets its name:**
-- A common tone diminished 7th chord is a fully diminished seventh chord that shares a tone between the chord before it, and the chord after it.
+- A common tone diminished 7th chord is a fully diminished seventh chord that shares one note with the chord before it and the chord after it. This shared note acts like a pedal tone.
 
-You can think of them as a cluster of non-chord tones: one tone will remain the same (this is the common tone) and act like a pedal tone, and the other three notes will act like neighbor tones or passing tones.
+**Uses:**
+1. Going from a I chord to a ct<sup>o7</sup>, then back to I.
+2. Going from V or V<sup>7</sup> to a ct<sup>o7</sup>, then back to V or V<sup>7</sup>.
 
-These chords are always labeled as ct<sup>o7</sup>, no matter what it resolves to or how it's spelled.
+**How they're made:**
+- Write in the root of the chord that comes before and after it. This is the common tone that will remain the same throughout.
+- Add in the other three notes that make it a fully diminished 7th chord.
+- These other notes must be spelled in a way that the accidentals resolve properly to their appropriate notes.
+- Ex: a ct<sup>o7</sup> chord that is between two A major chords will be spelled **A, B<sup>#</sup>, D<sup>#</sup>, F<sup>#</sup>**. The A resolves to A, the B<sup>#</sup> resolves to C<sup>#</sup>, the D<sup>#</sup> resolves to E, and the F<sup>#</sup> reolves up to A. (If it were resolving to an A<sup>7</sup> chord, the F<sup>#</sup> would resolve to G)
+- So, **don't be fooled**! The common tone is never the actual root of the diminished chord.
 
-Put the leadsheet as you normally would. Take care to notice how it is spelled.
+**Shortcuts:**
+- ct<sup>o7</sup> of I is a #ii<sup>o4/2</sup>
+- ct<sup>o7</sup> of V is a #vi<sup>o4/2</sup>
 
-## Class Discussion 2022
-
-**Common tone diminished chords**
-- These are similar to +6 chords in that they don't quite work right. These also exist just as decoration/voice leading into the next chord. It's made up entirely of tendency tones to make the resolution really strong
-- Confusing to ID because they look like another chord
-  - Whether a chord is a ct07 depends on what comes *after* it. If we're in C and we have a D#07/C, it can be either a ct07 or a vii07/iii. If the next chord is iii, it's the latter. If it's I, the chord is a ct07.
-  - The other common Roman numeral that comes after a ct07 is V
-  - Do not label inversions of ct07s. Like +6 chords their function doesn't work with our system of inversion labeling
-
-**Constructing a ct07**
-- A ct07 going to I will look like a #ii07, while a ct07 going to V will look like a #vi07. These two points of reference are helpful for knowing what notes you need, but be aware that writing these in "root position" will be incorrect
-  - Again: these chords exist for cool voice leading! If you just write it in root position, all of that cool voice leading goes away. One way to ensure the voice leading is correct is to write the following chord next to it in root position, then construct your ct07 from there by determining what all the notes should resolve to
-
-These are also used in enharmonic modulations and you just label them as ct07 like usual
+**Labeling:**
+- The leadsheet will be normal, identifying exactly what diminished chord it is.
+- Instead of a roman numeral, it will be labeled as ct<sup>o7</sup> below the staff. There are no inversion of this!
