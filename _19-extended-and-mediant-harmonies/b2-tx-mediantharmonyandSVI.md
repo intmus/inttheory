@@ -4,15 +4,14 @@ title: 19b Discussion - Mediant harmony and Simplified Voice-leading Intervals
 abc: true
 ---
 
-# Class discussion
+## Mediant Mania
 
+**"Why use mediant harmony?"**
+- It's a way to move to distant keys in very smooth ways
 
+Ex: *Festive Overture* opening
 
-
-
-## Mediant Harmony and Idealized Voice Leading Intervals
-
-
+### Mediant Harmony and Simplified Voice Leading Intervals
 
 How do we judge good voice leading?
 
@@ -20,7 +19,7 @@ How do we judge good voice leading?
 
 - The chordal thirds resolve how you expect
 
-
+You can use SVI as a way to explain motion between chords in a tonal analysis. However, this can only be used if the music is actually written in a way where the notes are moving smoothly to each other. The chords cannot merely have a *theoretically* smooth relationship.
 
 If you put chords in closed position voicing without the bass line there's not much movement.
 
@@ -28,7 +27,7 @@ If you count the half steps it takes to move between two chords and take the tot
 
 
 
-Which chords have the lowest IVI?
+Which chords have the lowest SVI?
 
 The ones that share two common tones.
 
@@ -149,10 +148,3 @@ Doubly chromatic mediants: the 2 mediants that are not in the key, but are the o
 
 
 You find the first 4 mediants by using the diatonic and chromatic mediants (the 2 from major and 2 from the parallel minor).
-
-
-
-
-
-
-

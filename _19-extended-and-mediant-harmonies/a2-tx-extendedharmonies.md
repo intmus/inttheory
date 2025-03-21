@@ -4,63 +4,45 @@ title: 19a Discussion - Extended Tertian Harmonies and Non-chord Tones
 abc: true
 ---
 
-# Class Discussion
+**"When do we know that something is extended harmony?"**
+- If a pitch can be explained away as a Non-Chord Tone, that is the best option.
+- If a pitch is crucial for the melody, heavily emphasized, or can't be explained any other way, then it must be functional.
+- Something is considered an extension when it can fit in to a stack of thirds beyond the seventh.
 
-Sometimes a tone that doesn’t fit within a standard triad or seventh chord is so present that it is functionally a chord tone. These intervals above the root of the chord are written as a superscript in the lead sheet chord symbol. These are chords such as 9 chords, 11 chords, and 13 chords. As we know, when a seventh chord is labeled with just a letter and a number (C7), it implies that the seventh is dominant. In the same way, if a chord has only a letter and a number that implies an interval above the seventh, the quality of the seventh is assumed dominant (C9).
+**Nomenclature:**
 
-# Class discussion 2021
+In tertian harmony (based on stacks of thirds), the extended tones are **9ths**, **11ths**, and **13ths**. 
 
-How do we know if a note is a non-chord tone?
+When labeling with lead-sheet, these numbers are assumed to represent diatonic intervals above the root.
 
-Rhythms and placement in the bar. If the notes are on the downbeat or repeated many times, it is likely a chord tone.
-
-Do the notes fit if we stack thirds?
-
-Function!
-
-Look for non-chord tone patterns and how they move. Think neighbor tones or suspensions etc. 
-
-## Extended Tertian Harmony and Non-chord tones
-Extended harmony is anything beyond the seventh in a triadic chord.
-This includes 9ths, 11ths, and 13ths. 
 Labeled G9, G11, and G13 (for dominant chords).
   - G9 is G,B,D,F,A
   - G11 is G,B,D,F,A,C
   - G13 is G,B,D,F,A,C,E
   
-If a non-chord tone doesn't fit within our given possibilities, it's most likely an extension.
-Your options for non-chord tones are:
-- passing tone
-- neighbor tone
-- escape tone
-- appogiatura
-- suspension
-- retardation
-- pedal tone (pedal point)
-- anticipation
 
 If you have what looks like a G7, and you see an A, but it doesn't fit into any of these non-chord tone motion options, you have a G9.
 
 ### Dominant Ninth Chords
 What are the differences between these chords?
-1. V9
+1. V<sup>9</sup>
   - when you have just a 9 next to the V, it includes all the triadic tones up to the ninth. 
   - in C, spelled G,B,D,F,A.
-2. Vadd9
+2. V<sup>add9</sup>
   - "add" means to add a note to the triadic harmony, in this case, you're adding the 9th.
   - in C, spelled G,B,D,A.
   - also often grouped like G,A,B,D.
     - this is not the same as sub. 
     - sub means to substitute a chord tone with the given note.
-3. V9 65
+3. V<sup>9 6/5</sup>
   - still spelled like a V9 but in first inversion (of seventh chord inversions).
     - if the ninth is on the bottom, it's probably not a ninth, but a pedal tone.
-4. Vsub13
+4. V<sup>sub13</sup>
   - sub effects a chord tone, while add doesn't.
   - though spelled the same as a iii6, it functions as the dominant so it is labelled Vsub13 (or Vsub6).
   - in C, spelled G,B,E.
   
-A V9 chord is the combination of a V7 and a G#%7. 
+A V<sup>9</sup> chord is the combination of a V7 and a G#%7. 
 In A, the lower 4 notes are E,G#,B,D (V7). 
 The upper 4 notes are G#,B,D,F#.
   - when spelling dominant extentions use the diatonic scale degrees in the key of the tonic. 
