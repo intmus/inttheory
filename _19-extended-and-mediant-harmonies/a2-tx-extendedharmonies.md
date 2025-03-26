@@ -3,6 +3,7 @@ layout: chapter
 title: 19a Discussion - Extended Tertian Harmonies and Non-chord Tones
 abc: true
 ---
+## Extension Convention
 
 **"When do we know that something is extended harmony?"**
 - If a pitch can be explained away as a Non-Chord Tone, that is the best option.
@@ -42,4 +43,16 @@ However, **the 7th requires special indications**.
 
 **Minor**:
 - The same rules for sevenths and extensions apply to minor chords. The only change is that the triads are minor.
-- Since leadsheet is not based of the key signature, all extensions are assumed to be major intervals above the root.
+- Since leadsheet is not based of the key signature, *all extensions are assumed to be major intervals* above the root.
+
+**Roman Numerals**:
+- these ***are*** based on the key signature
+- extensions are labeled differently because of this
+- they are labeled with "(add)"
+
+**Examples:**
+- **G<sup>9</sup>** in the key of C major is **V<sup>7(add9)</sup>**
+- **G<sup>7</sup><sup>(<sup>b</sup>9)</sup>** in the key of C major is **V<sup>7(add<sup>b</sup>9)</sup>**
+- **G<sup>9</sup>** in the key of C minor is **V<sup>7(add<sup>#</sup>9)</sup>**
+- **G<sup>7</sup><sup>(<sup>b</sup>9)</sup>** in the key of C minor is **V<sup>7(add9)</sup>**
+- Inversion: **G<sup>9</sup>/B** in the key of C major is **V<sup>6/5(add9)</sup>**

@@ -4,7 +4,7 @@ title: 20a Discussion - Advanced Modulatory Techniques
 abc: true
 ---
 
-# Class discussion
+## Modulatory Madness
 
 **What do we mean by "advanced modulatory techniques"?**
 - Things are going to get wayyy more flexible! And therefore they're gonna get really weird
@@ -28,3 +28,9 @@ abc: true
 - In example 5, the Ger+6 has a predominant function. It comes right before I6/4 - V, which are lumped together and have a dominant function
 - When writing out the pivot bracket where the Ger+6 is in the home key, like in example 6, we would label the chord Ger+6 in the top bracket *even though* it has been respelled. By putting Ger+6 in the top half of the bracket and V7 in the bottom half, we actually inform whoever is looking at our analysis that we understand it has been respelled
 - The progression must be functional on both sides for a pivot modulation, but that's especially true for these weird modulations that pivot on a chord with different functions in each key. For example, in example 6 the Ger+6 has a predominant function, but when it is respelled as a V7 it has a dominant function
+
+**Enharmonic Modulations:**
+- Using a diminished chord that functions in a different way in the old and new key.
+- It is like a pivot chord, except it requires being respelled in the new key in order to function.
+- Ex:
+- Labeled with a pivot bracket. In the top of the bracket, write the roman numeral for the diminished chord with
