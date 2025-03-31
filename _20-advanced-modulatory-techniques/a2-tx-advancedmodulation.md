@@ -6,10 +6,12 @@ abc: true
 
 ## Modulatory Madness
 
-**What do we mean by "advanced modulatory techniques"?**
-- Things are going to get wayyy more flexible! And therefore they're gonna get really weird
-  - Modulations to very distant keys are possible
-- Techniques like pivot chords are going to get bizarre in what chords are actually involved, but the baseline rules will stay the same: pivot chords happen in the middle of a phrase, direct/phrase modulations happen between phrases
+**Let's review the standard modualtory techniques:**
+- Pivot Chord
+- Common-tone
+- Phrase
+
+***Advanced Modulatory Techniques* are all about pivoting to far-off keys by using chords that exist in both keys in different strange ways.**
 
 ### Enharmonic Modulations:
 
@@ -24,6 +26,7 @@ abc: true
 - In Example #5, the G<sup>7</sup> is established as a dominant chord in the key of C. Then, the next time that it occurs, it is enharmonically respelled into a Ger<sup>+6</sup> which leads into the key of B.
 - In Example #6, a Ger<sup>+6</sup> is used in C as a predominant chord. Then, the next time that it occurs, it is respelled as an Ab<sup>7</sup> chord, resolving to D<sup>b</sup> major.
 
+### 2020 Notes:
 **Modulation #1**
 - This ex is weird because where we hear the modulation is really ambiguous, and you can make an argument for modulating on the bVI or the bII in the second phrase
 - This and #2 are examples of mode mixture pivot chords! In this technique, we pivot on a borrowed chord. Just like a regular pivot modulation, these generally happen in the middle of a phrase because you need a functional progression on both sides
