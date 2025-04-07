@@ -50,12 +50,13 @@ abc: true
 **Half-Whole Octatonic (a.k.a. Half-Whole Diminished):**
 - Created by alternating between a **half step** and a **whole step**
 - Ex: G, A<sup>b</sup>, B<sup>b</sup>, B, C<sup>#</sup>, D, E, F
-- 3 unique octatonic collections. Just like the hexatonic and whole tone scales, you can start on any pitch within the collections to get a different scale
-- Stravinsky likes these! They have the potential to sound really spooky and weird
+- 3 unique collections exist
+- Stravinsky liked these! They have the potential to sound really spooky and weird
 
 **Whole-Half Octatonic (a.k.a. Whole-Half Diminished):**
 - Created by alternating between a **whole step** and a **half step**
 - Ex: G, A, B<sup>b</sup>, C, C<sup>#</sup>, D<sup>#</sup>, E, F<sup>#</sup>
+- 3 unique collections exist
 
 # Further reading
 
