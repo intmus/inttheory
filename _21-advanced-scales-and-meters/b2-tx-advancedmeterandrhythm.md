@@ -4,7 +4,7 @@ title: 21b Discussion - Advanced rhythm and meters
 abc: true
 ---
 
-## Class Discussion
+## Metrical Mastery
 
 **Asymetric**
 - Asymmetric meter and irregular meter mean the same thing
@@ -22,7 +22,7 @@ abc: true
 - When the music is not notated with multiple meters happening at the same time, but it sounds like it is.
 
 **Polyrhythm:**
-- The simultaneous occurance of multiple rhythms
+- The simultaneous occurance of multiple rhythms over top of each other
 
 **Composite Meter:**
 - Irregular meters where the time signature notates the beat groupings within
@@ -32,4 +32,4 @@ abc: true
 - Music without a perceived meter
 
 **Metric Modulation:**
-- A change in tempo where 
+- A change in tempo where some division of the old time signature converts direlctly into some division of the new time signature.
