@@ -4,10 +4,11 @@ title: 22e Discussion - PC Set Prime Form
 abc: true
 ---
 
-# Class discussion
-
+## Optimus
 
 Prime form is useful for making pitch class sets easy to compare with other pitch class sets. 
+
+In simple terms, **prime form is just normal form transposed to 0.**
 
 Prime form is also another way we can say that pitch class sets are related. Now we can say they are related by transposition, inversion, and/or same prime form. 
 
