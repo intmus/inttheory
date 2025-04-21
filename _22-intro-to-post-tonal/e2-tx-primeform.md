@@ -6,48 +6,30 @@ abc: true
 
 ## Optimus
 
-Prime form is useful for making pitch class sets easy to compare with other pitch class sets. 
+### Prime Form
+- A zeroed-out representation of all the transpositions and inversions of a single PC set.
+- In simple terms, **prime form is just normal form transposed to 0.**
+- Prime form is useful for making PC sets easy to compare with other PC sets. 
+- Written with *curved parentheses* and *no commas*.
+- Ex: (036)
 
-In simple terms, **prime form is just normal form transposed to 0.**
+**"What is a Set Class?"**
+- Set Class is short for **Pitch Class Set Class**
+- It is a group of Pitch Class Sets that are *related by transposition or inversion*.
+- Prime Form is a way of representing a Set Class
 
-Prime form is also another way we can say that pitch class sets are related. Now we can say they are related by transposition, inversion, and/or same prime form. 
+### Practice Example
 
-## Prime Form
-Prime form is the way we classify types of PC sets.
-- commonly how we describe a PC set that creates a major triad, minor triad, etc...
+**Put (5,3,8,t) into prime form.**
 
-#### Ex: (2,6,9)
-Take (2,6,9) and align it to 0. (0,4,7) major triad.
-Invert (0,4,7) to (0,8,5) minor triad.
-Normal form for (0,8,5) is [5,8,0].
-Take the normal form and realign it back to 0 (037).
-- prime form is written in parenthesis without commas between the intergers
+**Step 1 - Ascending Forms:**
+- (5,3,8,t) becomes **(3,5,8,t)** or **(5,8,t,3)** or **(8,t,3,5)** or **(t,3,5,8)**
 
-#### Ex: (4,t,8,3)
-What are our order options?
-- (3,4,8,t) / 7
-- (4,8,t,3) / 11
-- (8,t,3,4) / 8
-- (t,3,4,8) / 10
+**Step 2 - Normal Form:**
+- the ascending form with the smallest outer interval is **[3,5,8,t]**
 
-So our normal form is [3,4,8,t].
-Take the normal form and set it on zero: [0,1,5,7].
-NOW invert the original normal form. 
-  - [3,4,8,t] to (9,8,4,2).
-  - find the inversion's normal form:
-    - (2,4,8,9) / 7
-    - (4,8,9,2) / 10
-    - (8,9,2,4) / 8
-    - (9,2,4,8) / 11
-   - our normal form for the inversion is [2,4,8,9].
-   
-And set the inversion's normal form on zero [0,2,6,7].
-NOW you compare the two normal forms on zero. 
-  - [0,1,5,7] and [0,2,6,7]
-  - first you find the smallest interval between the first and 4th intergers (in this case it is the same).
-  - then you check the interval between the first and 3rd intergers (in this case the first option has a smaller interval).
-
-**Our prime form is (0157).**
+**Step 3 - Prime Form:**
+- [3,5,8,t] becomes **(0257)**
 
 # Further reading
 
