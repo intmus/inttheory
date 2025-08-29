@@ -4,15 +4,21 @@ title: 22b Discussion - Labeling Pitch-class Sets and Basic Manipulation
 abc: true
 ---
 
-Post Tonal Music
+## Pitch-class Set Notation
 
-When descussing post tonal music, we can’t use our normal letter names to talk about pitches anymore, because we aren’t working in any specific key. We will now label each note with a number (zero through eleven) starting with C as 0. A pitch class is all of the possible enharmonic equivalents of a note, labeled with a number. The numbers that we label pitch classes with are 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, t, and e. We substitute t and e for 10 and 11 because when we put pitch classes together, we will need to be able to differentiate these numbers from 0 and 1.
+**Refresher: what is a Pitch-class Set (PCS)?**
+- A collection of pitch-classes. The *cardinality* of a PCS refers to the number of PC's within it. Ex: the PCS (5,0,6,7,9) has a cardinality of 5.
 
-Pitch Class Sets
+**How to write pitch-class sets:**
+- Use parenthesis
+- Use commas
+- Ex: (3,6,2,t)
+- It looks the same for both unordered and ascending forms
 
-If we were to label scales using pitch classes, they would look like a string of numbers. For example, a major scale would be “0 2 4 5 7 9 e”. Any group of pitches is called a pitch class set. If we label the major scale using four-note pitch class sets, it would look like this: “0 2 4 5 0 2 4 5”. This shows that the major scale is actually two groups of four notes (0 2 4 5) that are the same. 
-
-Ascending Form
+**Ascending Form:**
+- Any arrangement of a PC set where the numbers are in numerical order.
+- It doesn't have to start on the smallest number, it just has to follow the cycle of numbers from o to e.
+- Ex: (1,2,8,e) or (5,7,e,2) or (t,0,3,7)
 
 Let's put this pitch class set into ascending form: 4692. The most basic and easiest way to put this set into ascending form would be by putting each number into ascending order: 2469. This is one version of ascending form, but we can also put the pitch "2" at the end of the set, and it will still be in an ascending order: 4692. This is still in ascending form because we don’t skip any tones as we move up. This is a way to invert chords. The other two ascending forms are 6924, and 9246. 
 
@@ -32,8 +38,6 @@ Transposition in music is really just adding or subtracting the pitches by speci
 - A number to represent all enharmonic equivalents of a pitch. We use 0 to e
 - Remember 10 and 11 are represented as t and e
 
-**Refresher: what is a pitch class set (pcs)?**
-- A collection of pitch classes. Each group size has a different name (refer to the chart in 22b)
 
 **Notating pitch class sets**
 - Many of the examples on your homework will be *unordered* pitch class sets. Despite this name, we need a standard system for writing these so we can easily make them *ordered* later.

@@ -3,75 +3,56 @@ layout: chapter
 title: 19a Discussion - Extended Tertian Harmonies and Non-chord Tones
 abc: true
 ---
+## Extension Convention
 
-# Class Discussion
+**"When do we know that something is extended harmony?"**
+- If a pitch can be explained away as a Non-Chord Tone, that is the best option.
+- If a pitch is crucial for the melody, heavily emphasized, or can't be explained any other way, then it must be functional.
+- Something is considered an extension when it can fit in to a stack of thirds beyond the seventh.
 
-Sometimes a tone that doesn’t fit within a standard triad or seventh chord is so present that it is functionally a chord tone. These intervals above the root of the chord are written as a superscript in the lead sheet chord symbol. These are chords such as 9 chords, 11 chords, and 13 chords. As we know, when a seventh chord is labeled with just a letter and a number (C7), it implies that the seventh is dominant. In the same way, if a chord has only a letter and a number that implies an interval above the seventh, the quality of the seventh is assumed dominant (C9).
+### Nomenclature:
 
-# Class discussion 2021
+In tertian harmony (based on stacks of thirds), the extended tones are **9ths**, **11ths**, and **13ths**. 
 
-How do we know if a note is a non-chord tone?
+When labeling with lead-sheet, these numbers are assumed to represent diatonic intervals (in terms of major) above the root.
+However, **the 7th requires special indications**.
 
-Rhythms and placement in the bar. If the notes are on the downbeat or repeated many times, it is likely a chord tone.
+**G<sup>9</sup>**
+- A letter and number on its own implies a *dominant seventh*
+- This chord would be spelled: G, B, D, F, A
 
-Do the notes fit if we stack thirds?
+**Gmaj<sup>9</sup>** or **G∆<sup>9</sup>**
+- The maj/∆ is required to indicates a *major seventh*. This does not affect the quailty of the 9. The 9 is still assumed to be diatonic
+- This would be spelled: G, B, D, F<sup>#</sup>, A
 
-Function!
+**G<sup>11</sup>** or **G<sup>13</sup>**
+- Like with the 9, these chord will include a *dominant seventh*
+- Many players will also assume that the *9 is included*!
+- So, these would be spelled:
+- G<sup>11</sup>: G, B, D, F, A, C
+- G<sup>13</sup>: G, B, D, F, A, (C), E
 
-Look for non-chord tone patterns and how they move. Think neighbor tones or suspensions etc. 
+**Altered Extensions:**
+- To alter the quality of an extension, you separate it from the 7 like this: **G<sup>7</sup><sup>(<sup>b</sup>9)</sup>**
+- This would be spelled: G, B, D, F, A<sup>b</sup>
+- Other common altered extensions include: **G<sup>7</sup><sup>(<sup>#</sup>11)</sup>**, **G<sup>7</sup><sup>(<sup>b</sup>13)</sup>**, or **G<sup>7</sup><sup>(<sup>#</sup>13)</sup>**
 
-## Extended Tertian Harmony and Non-chord tones
-Extended harmony is anything beyond the seventh in a triadic chord.
-This includes 9ths, 11ths, and 13ths. 
-Labeled G9, G11, and G13 (for dominant chords).
-  - G9 is G,B,D,F,A
-  - G11 is G,B,D,F,A,C
-  - G13 is G,B,D,F,A,C,E
-  
-If a non-chord tone doesn't fit within our given possibilities, it's most likely an extension.
-Your options for non-chord tones are:
-- passing tone
-- neighbor tone
-- escape tone
-- appogiatura
-- suspension
-- retardation
-- pedal tone (pedal point)
-- anticipation
+**Isolated Extensions**:
+- If you don't have a seventh, but you do have higher extensions, you can leave the 7 out of you lead sheet like this:
+- **G <sup>add 9</sup>** or **G <sup>add <sup>#</sup>11</sup>**
 
-If you have what looks like a G7, and you see an A, but it doesn't fit into any of these non-chord tone motion options, you have a G9.
+**Minor**:
+- The same rules for sevenths and extensions apply to minor chords. The only change is that the triads are minor.
+- Since leadsheet is not based of the key signature, *all extensions are assumed to be major intervals* above the root.
 
-### Dominant Ninth Chords
-What are the differences between these chords?
-1. V9
-  - when you have just a 9 next to the V, it includes all the triadic tones up to the ninth. 
-  - in C, spelled G,B,D,F,A.
-2. Vadd9
-  - "add" means to add a note to the triadic harmony, in this case, you're adding the 9th.
-  - in C, spelled G,B,D,A.
-  - also often grouped like G,A,B,D.
-    - this is not the same as sub. 
-    - sub means to substitute a chord tone with the given note.
-3. V9 65
-  - still spelled like a V9 but in first inversion (of seventh chord inversions).
-    - if the ninth is on the bottom, it's probably not a ninth, but a pedal tone.
-4. Vsub13
-  - sub effects a chord tone, while add doesn't.
-  - though spelled the same as a iii6, it functions as the dominant so it is labelled Vsub13 (or Vsub6).
-  - in C, spelled G,B,E.
-  
-A V9 chord is the combination of a V7 and a G#%7. 
-In A, the lower 4 notes are E,G#,B,D (V7). 
-The upper 4 notes are G#,B,D,F#.
-  - when spelling dominant extentions use the diatonic scale degrees in the key of the tonic. 
+**Roman Numerals**:
+- these ***are*** based on the key signature
+- extensions are labeled differently because of this
+- they are labeled with "(add)"
 
-**ALL OF THIS BEING SAID,** the ninth chord is a last resort. 
-It is rare in the type of music that this system of tonal analysis was created to analyze.
-Extentions are used mainly for jazz, which is far out of our fixed system of analysis. 
-
-Whether you analyze a tone as an extention or non-chord tone is up to how you hear it. 
-Just make sure you label the tone to match what your analysis says. 
-
-In the case of a b9, (in A minor) the chord symbol would be a E7(b9).
-In the roman numeral analysis you would write V9, because the b9 is naturally occuring in the key.
-It is altered in the parallel major (how we label dominant extentions) so it is labelled as E7(b9) in chord symbols.
+**Examples:**
+- **G<sup>9</sup>** in the key of C major is **V<sup>7(add9)</sup>**
+- **G<sup>7</sup><sup>(<sup>b</sup>9)</sup>** in the key of C major is **V<sup>7(add<sup>b</sup>9)</sup>**
+- **G<sup>9</sup>** in the key of C minor is **V<sup>7(add<sup>#</sup>9)</sup>**
+- **G<sup>7</sup><sup>(<sup>b</sup>9)</sup>** in the key of C minor is **V<sup>7(add9)</sup>**
+- Inversion: **G<sup>9</sup>/B** in the key of C major is **V<sup>6/5(add9)</sup>**

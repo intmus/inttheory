@@ -4,35 +4,25 @@ title: 22a Discussion - Pitch-class integer notation
 abc: true
 ---
 
-# Class discussion
+## Death of Tonality
 
-Welcome to post-tonal analysis!
+**Why study post-tonal analysis?**
+- Music-generating AI relies on the numerical analysis of music, so understanding this system will help us understand how AI deals with music, in case we interact with it in our careers.
 
-**The importance of pitch notation in tonal harmony**
-- In this example, we talked about determining implied key and progression just from looking at the accidentals, harmonic intervals, and resolution.
-- Both measure contain a a tritone, and they each resolve in a different way: one outward, one inward. This results in resolutions to different keys from enharmonically equivalent chords.
+**Integer System:**
+- **Fixed 0** is useful for comparing tonal music to integer notation.
+- **Moveable 0** is useful for comparing groups of integers to each other.
 
-**Happy Birthday in G Major (a la R. Strauss)**
-- Welcome to pitch class integer notation!!
-  - Remember we only use 0-e in this form of notation. 0 is also 12 (and 1 is also 13, 2 is also 14, etc...)
-- In this system, there is no difference between C# and Db. Both are written as 1. While it's important to distinguish these notes in tonality, we're post-tonal! The notes don't matter.
-  - All enharmonic equivalents are called a pitch class. This also includes double sharps and double flats. For example, C#, Db#, and Bx are all in the same pitch, class, represented as 1.
-- What reasons are there to use this system?
-  - Quickly identifying pitches (or pitch classes)
-  - Identifying non-diatonic scales?
-- Is C always 0?
-  - In fixed zero notation, yes! There is also movable zero notation. Much like fixed and movable do, both of these notations have their uses.
 
-**Scales labeled using multiple zeros in pc integer notation**
-- Notice each scale is made up of a repeating 4-number pattern. In this example we can see a major scale is based around 0245, Dorian mode is based around 0235, and HW octatonic is based around 0134.
-- Movable zero is helpful for this kind of thing because we can quickly identify patterns in smaller things, like the scales here. It identifies the specific intervallic framework of a section, based around one note.
+**Pitch-Class:** a group of enharmonic equivalents for one pitch.
 
-A *pitch-class set* (pcs) is a collection of pitch classes. *Cardinality* is the number of pitch classes within a pcs. 0245 is a pcs, and since it has 4 pitch classes in it we call it a tetrachord. We run into problems with some of these cardinality terms because some of the words are the same as ones we associate with tonality.
+**Pitch-Class Set:** a group of Pitch Classes.
+
+
+Our "normal" scales and modes would be called septachords, because they contain seven pitch classes.
 
 **What is the application of an empty set?**
 - We need it for when we start inverting things later. An empty set is the inverse of an aggregate, containing all twelve pitch classes.
-
-Our "normal" scales and modes would be called septachords, because they contain seven pitch classes.
 
 **Can you apply this system of notation to tonal music?**
 - You *can*! The example Dr. Butterfield pulled up in class was Hindemith's Trumpet Sonata, which he called "a mess to play" but went through using pc integer notation to look at the piece intervallically and not have to transpose as much

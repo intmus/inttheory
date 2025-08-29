@@ -4,13 +4,29 @@ title: 20a Discussion - Advanced Modulatory Techniques
 abc: true
 ---
 
-# Class discussion
+## Modulatory Madness
 
-**What do we mean by "advanced modulatory techniques"?**
-- Things are going to get wayyy more flexible! And therefore they're gonna get really weird
-  - Modulations to very distant keys are possible
-- Techniques like pivot chords are going to get bizarre in what chords are actually involved, but the baseline rules will stay the same: pivot chords happen in the middle of a phrase, direct/phrase modulations happen between phrases
+**Let's review the standard modualtory techniques:**
+- Pivot Chord
+- Common-tone
+- Phrase
 
+***Advanced Modulatory Techniques* are all about pivoting to far-off keys by using chords that exist in both keys in different strange ways.**
+
+### Enharmonic Modulations:
+
+**Respelling Diminished Chords:**
+- Using a single diminished chord that functions in a different way in the old and new key.
+- It is like a pivot chord, except it requires being respelled in the new key in order to function.
+- Ex: An A<sup>o7</sup> in the key of B<sup>b</sup> minor could be respelled into an F<sup>#o7</sup>/A and move to the key of G major.
+- Labeled with a pivot bracket. In the top of the bracket, write the roman numeral for the diminished chord as it functions in the old key, with the inversion based on the proper spelling in the old key. In the bottom of the bracket, write the roman numeral for the diminished chord with the inversion based on how it should be spelled in the new key.
+- Ex: The A<sup>o7</sup> would be labeled as vii<sup>o7</sup> in the top of the bracket. In the bottom of the bracket, you would put vii<sup>o6/5</sup> to show that the chord was respelled into F<sup>#o7</sup>/A.
+
+**Respelling Dominant and German Augmented Sixth Chords:**
+- In Example #5, the G<sup>7</sup> is established as a dominant chord in the key of C. Then, the next time that it occurs, it is enharmonically respelled into a Ger<sup>+6</sup> which leads into the key of B.
+- In Example #6, a Ger<sup>+6</sup> is used in C as a predominant chord. Then, the next time that it occurs, it is respelled as an Ab<sup>7</sup> chord, resolving to D<sup>b</sup> major.
+
+### 2020 Notes:
 **Modulation #1**
 - This ex is weird because where we hear the modulation is really ambiguous, and you can make an argument for modulating on the bVI or the bII in the second phrase
 - This and #2 are examples of mode mixture pivot chords! In this technique, we pivot on a borrowed chord. Just like a regular pivot modulation, these generally happen in the middle of a phrase because you need a functional progression on both sides

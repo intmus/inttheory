@@ -4,85 +4,59 @@ title: 21a Discussion - Non-diatonic scales
 abc: true
 ---
 
-# Class Discussion 
+## Diatonic Departure
 
-Non Diatonic Scales
+**Scales/Collections:**
+- Both refer to any group of five or more notes, that can be ordered in a repeating ascending/descending pattern.
+- A *scale* is a collection that has a defined tonic
 
-Whole Tone Scale
-A whole tone “scale” is a collection of six tones that are built entirely using whole steps. 
-There are only two whole unique tones scales, because once you create one whole tone scale, and then move that shape up by half step, you have included all twelve tones. This is a symmetrical scale.
+### Five-note Collections
 
-Mediant Harmony 
-In western music, we are often looking at chord progressions in which the roots of the chords move down by fifths (ii, vi, ii, V, I). Mediant harmony is when chords have roots that move in thirds. In the past, we have talked about how some chords can replace other chords because the share one or more tones. For example, the IV chord can replace the II chord, the viio chord can replace the V chord, etc. This is similar to how mediant harmony works. Mediant harmony works because of smooth voice leading and resolution by step. Let's look at the chords C and Emin. These chords share two notes (E and G) and in order to move from C to Emin using smooth voice leading, you would only need to move one note one half step (C to B).
+**Major pentatonic:**
+- 1, 2, 3, 5, 6
+- Do Re Mi So La
 
-Any chord can now move to any other chord that has a root a M3 or m3 away. For example, Bb can move to D, Dmin, Db, Dbmin, G, Gmin, Gb, and Gbmin. These are the eight “mediants” of the chord Bb. There are two diatonic mediants, which don’t need any alteration to exist in the key (Dmin and Gmin). There are four chromatic mediants: two that are the other form of the diatonic mediants (major or minor), and two that are taken from the relative minor (Db and Gb). There are also two doubly chromatic mediants, which are altered from the relative minor (Dbmin and Gbmin).
+**Minor pentatonic:**
+- 1, <sup>b</sup>3, 4, 5, <sup>b</sup>7
+- Do Me Fa So Te
 
+**Hirajoshi pentatonic:**
+- 1, 2, <sup>b</sup>3, 5, <sup>b</sup>6
+- Do Re Me So Le
+- It's like the scale degrees of a major pentatonic scale, but with the note spellings of a minor scale
 
-Hexatonic Scales
-Hexatonic scales are scales built on alternating minor thirds and half steps. There are four unique hexatonic scales - two 3+1, and two 1+3. They are similar to the whole tone scale but shifted over by a half step. Also symmetrical.
+### Six-note Collections
 
+**Whole tone scale:**
+- It is a stack of major seconds
+- Due to a lack of half steps to create weight on certain notes, it has a very disorienting or ambiguous feeling
+- Some people like to think of it as the fist three notes of two major scales, added on top of each other. Ex: C, D, E, F<sup>#</sup>, G<sup>#</sup>, A<sup>#</sup> is the first notes of C major and F<sup>#</sup> major
+- Another way to think of these is as two *interlocking augmented triads*. For example, with the first whole tone collection (C D E F# G# A#), it is made up of the two augmented triads C E G# and D F# A#
+- *Only two* unique Whole Tone scales exist
+- Within the notes of a whole tone scale is a *French Augmented Sixth* chord. You can spell it with the first, third, fourth, and sixth scale degrees
 
-Octatonic Scales
-The octatonic scale is a scale built on alternating half steps and whole steps. There for there are “whole-half octatonic” scales and “half-whole octatonic” scales (often labeled WH, or HW octatonic). There are three unique octatonic scales. Because scales usually have seven unique pitches, and the octatonic scale has eight tones, it will include a diminished third.
+**3+1 and 1+3 Hexatonic:**
+- The names 3+1 and 1+3 indicate the pattern of stacked half-steps that make these scales
+- 3+1 alternates between a minor third and a minor second
+- 1+3 alternates between a minor second and a minor third
+- Ex: **G 3+1 hexatonic** = G, A<sup>#</sup>, B, D, E<sup>b</sup>, F<sup>#</sup>, G
+- Ex: **G 1+3 hexatonic** = G, A<sup>b</sup>, B, C, D<sup>#</sup>, E, G
+- Just like the whole tone scale, these can be created by *interlocking augmented triads*
+- These scales are *always labeled based on their ascending form!!* You might be asked to build a descending one of these, so make sure the interval pattern is correct
+- *Only four* unique hexatonic scales that exist: two 3+1's and two 1+3's
 
+### Eight-note Collections
 
-# Class discussion 2021
+**Half-Whole Octatonic (a.k.a. Half-Whole Diminished):**
+- Created by alternating between a **half step** and a **whole step**
+- Ex: G, A<sup>b</sup>, B<sup>b</sup>, B, C<sup>#</sup>, D, E, F
+- 3 unique collections exist
+- Stravinsky liked these! They have the potential to sound really spooky and weird
 
-**What is a collection?**
-- A collection is an organized group of pitches. It's kind of a squares and rectangles situation. All scales are collections, but not all collections are scales.
-
-**What is a mode?**
-- Related to major scales, modes are based around the various scales degrees of a major scale. For example, E Phrygian is the same key signature as C major but starts on the third scale degree
-  - If thinking in terms of what is altered from the original key is more helpful, you can instead think of E Phrygian as having a lowered 2, 3, 6, and 7. Each mode has its own lowered (or raised) scale degrees
-
-## Seven note collections
-
-**All our modes:**
-- Ionian (major)
-- Dorian: 2nd degree of major scale/lowered 3 and 7
-- Phrygian: 3rd degree of major scale/lowered 2, 3, 6, and 7
-- Lydian: 4th degree of major scale/raised 4
-- Mixolydian: 5th degree of major scale/lowered 7
-- Aeolian (natural minor)
-- Locrian: 7th degree of major scale/lowered 2, 3, 5, 6, and 7
-- Lydian Dominant: half Lydian, half Mixolydian/raised 4, lowered 7. You can remember this scale's relation to Mixolydian because of "dominant"/V because Mixolydian is based around the fifth scale degree
-
-## Five note collections
-
-**Major pentatonic**
-- 1, 2, 3, 5, 6/do re mi sol la
-
-**Minor pentatonic**
-- 1, b3, 4, 5, b7
-- Related to the major pentatonic scale in the same way that the regular major and minor scales are related: minor pentatonic is just major pentatonic starting on la
-
-**Hirajoshi pentatonic**
-- 1, 2, b3, 5, b6/do re me sol le
-- Major pentatonic using minor notes
-
-## Six note collections
-
-**Whole tone scale**
-- Every note is a whole step apart. There are only two unique whole tone collections: C D E F# G# A# and Db Eb F G A B. You can start on any of the notes within these collections, but the cycle of the two will be the same
-- There's no possible center to a whole tone scale because there are six notes in it and they are all a whole step apart. This gives it its characteristic off-kilter feeling
-- Whole tone scale don't have a standard mode of notation but will always have a diminished third somewhere
-- Another way to think of these is as two interlocking augmented triads. For example, with the first whole tone collection (C D E F# G# A#), it is made up of the two augmented triads C E G# and D F# A#
-- Pretty common in music because composers like to do cool and fancy stuff with them
-
-**3+1 and 1+3 Hexatonic**
-- Based on interval patterns. 3+1 trades off between a minor third and a half step between each note, and 1+3 trades off between a half step and a minor third between each note
-- The 3 actually means three half steps, but it may be easier to think of it as a minor third instead
-- These scales have 4 unique collections which you can look at in the textbook because I don't want to write them all out here sorry
-- As an example, though, each collection can be used for either scale. Starting on a note that is followed by a half step, you start a 1+3 hexatonic scale. Starting on one followed by a minor third, you start a 3+1 hexatonic scale
-- We always label these scales in ascending form!! You might be asked to build a descending one of these, so make sure the interval pattern is correct
-
-## Eight note collections
-
-**Ocatonic (also called a diminished scale)**
-- Happen either half-whole (HW) or whole-half (WH)
-- Start on one note and alternate between half and whole steps (for a HW octatonic) or between whole and half steps (for a WH octatonic)
-- 3 unique octatonic collections. Just like the hexatonic and whole tone scales, you can start on any pitch within the collections to get a different scale
-- Stravinsky likes these! They have the potential to sound really spooky and weird
+**Whole-Half Octatonic (a.k.a. Whole-Half Diminished):**
+- Created by alternating between a **whole step** and a **half step**
+- Ex: G, A, B<sup>b</sup>, C, C<sup>#</sup>, D<sup>#</sup>, E, F<sup>#</sup>
+- 3 unique collections exist
 
 # Further reading
 

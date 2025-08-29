@@ -4,62 +4,57 @@ title: 18a Discussion - Augmented sixth chords
 abc: true
 ---
 
-## Class Discussion
+## AAAAAAAUUUUUGGGGHHHmented Sixth Chords
 
-#### Augmented Sixth Chords
+**"What are they?"**
+- They are a collection tendency tones
+- Their main purpose is to lead into a V chord
+- They always contain an augmented sixth interval
 
-The augmented sixth chord is not actually a triad. Instead, it is a collection of tones that resolve very smoothly in a specific way. These chords include the scale degrees Fi and Le (sharp fourth and sharp sixth scale degrees of the key you are currently in) which both resolve by half step to Sol. Because of this, they almost always resolve to a root position five chord. The interval between low Le and Fi above it is an augmented sixth. 
+**"How are they made?"**
+- They all contain Do of their home key
+- They all contain Le and Fi
+- When spelled out, Le goes on the bottomm and Fi goes on the top. This is how you get an augmented sixth interval within the chord.
 
-These chords also all share another common tone: Do (the tonic). This tone often resolves down by step to Ti (seventh scale degree), becoming the third of the V chord. “Do” in an augmented sixth chord can also remain on Do and become the root of a I 6/4 chord.
+### Italian:
+- **It<sup>+6</sup>**
+- Solfege: Le, Do, Fi
+- Scale degrees: b6, 1, #4
+- Italian is the "base model" version, which includes only the three necessary chord tones to make an augmented sixth chord.
+- **Le** always resolves down to **So**, and **Fi** always resolves up to **So**. **Do** is the only chord tone that gets doubled, becuase it can resolve in different ways.
 
-#### Types of Augmented Sixth Chords
+### French:
+- **Fr<sup>+6</sup>**
+- Solfege: Le, Do, Re, Fi
+- Scale degrees: b6, 1, 2, #4
+- French adds "Re", which can carry through to the V chord, not needing to move.
+- **Le** always resolves down to **So**, and **Fi** always resolves up to **So**. **Do** will reslve to **Ti** if going to a V chord, and **Re** will remain as **Re** if going to a V chord.
+- If it is used to go to a cadential 6/4 in minor, **Re** will go to **Me**.
 
-***Italian Augmented Sixth Chords***
+### German:
+- **Ger<sup>+6</sup>**
+- Solfege: Le, Do, Me, Fi
+- Scale degrees: b6, 1, b3, #4
+- German adds "Me"
+- **Le** always resolves down to **So**, and **Fi** always resolves up to **So**. **Me** creates a voice leading issue because it resolves in parallel perfect fifths with **Le**. Because of this, German aug sixth chords often go to a I<sup>6/4</sup> and then to a V.
 
-In an Italian augmented sixth chord, the root of the key is always doubled. Therefore, there are only three unique notes in an italian augmented sixth chord: Le, Fi, and Do. These are also the only tones required for any type of augmented sixth chord.
+### Additional Notes:
+- The leadsheet notation for these chords are the **same as the roman numerals**.
+- An augmented sixth chord is almost always **predominant** function, because they almost always resolve to V, or I6/4.
+- There are **no inversions** of these chords, becuase they are not triads.
+- Watch out for enharmonic re-spellings! In a real score, the accidentals on an aug sixth chord will be based on how each voice resolves, and may not match the accidentals you are used to seeing.
 
-***French Augmented Sixth Chords***
+**Steps for Building an Augmented sixth chord in any key:**
+1. Write in "Do".
+2. Figure out what is "So".
+3. Underneath Do, write in the note that is a half-step above So.
+4. Above Do, write in the note that is a half-step below So.
+5. If it is French, add in "Re" above Do.
+6. If it is German, add in "Me" above Do.
 
-French augmented sixth chords include  Le, Fi, and Do, but they also include  Re, or the second scale degree. This tone often stays on Re to become the fifth of the V chord. If the french augmented sixth chord resolves to a I 6/4, the Re can resolve up to the third, or down to the root of the I 6/4 chord.
-
-***German Augmented Sixth Chords***
-
-German augmented sixth chords include Le, Fi, and Do, but they also include Me. German augmented sixth chords prefer to resolve to a I 6/4 chord. When they do this, Me often resolves up to the third of the I 6/4 chord. 
-
-The roman numeral notation is always either It+6, Fr+6, or Ger+6. There are no inversions to these chords, because they aren't actually triads. **The leadsheet notation for these chords are the same as the roman numerals.**
-
-The augmented sixth chord is almost always predominant, because they almost always resolve to V, or I6/4, both of which are always dominant.
-
-# Class discussion 2022
-
-**Augmented sixth chords**
-- Not based in tertian harmony, so their "Roman numerals" are written differently than normal
-- They're called augmented sixth chords because they contain an augmented sixth
-- The primary reason for these is voice leading--the raised tone moves up, the lowered tone moves down. Both tones will proceed to the root of the next chord
-  - a default +6 chord will proceed to V and has **predominant function**
-
-**Think of the components of these chords using scale degrees!**
-- Italian (It): b6, #4, 1 (x2)
-- German (Ger): b6, #4, 1, b3
-- French (Fr): b6, #4, 1, 2
-- Ger+6 and Fr+6 are just It+6s with extra stuff!
-
-Italian is the "basic" flavor: it just contains all the notes that all the +6 chords have. In my experience, I actually had more trouble IDing It+6 chords than the other two because I psyched myself out looking for a fourth tone that obviously was not there. So, be aware that It+6s are going ot have a different shape than Ger+6 and Fr+6.
-
-Speaking of shape, Ger+6s will usually appear in the same shape as a V6/5, while Fr+6 will usually appear in the same shape as a V4/3. The default shape for a It+6 is like a V6. (V(7) is used as a filler for simplicity: remember that these all have predominant function.ex: Ab C Eb F# can be renamed as Ab C Eb Gb to make a Ab7 chord instead of Aug6 chord)
-
-The "inversion" doesn't affect how we label these. No matter which note is in the bass, it's always written as the default (x)+6. This is because the chord is *not* made up of stacked thirds, so our inversion labeling system doesn't translate properly.
-
-Common fix for Ger+6 resolution: have it go to a I6/4! Also be aware that composers may enharmonically write any of the tones for voice leading purposes (again, the primary use of these chords is just cool-sounding voice leading)
-
-**Augmented sixth chords resolving to a non-dominant harmony**
-- By writing some notes enharmonically, we can basically sub in one dominant chord for another. In the example we did in class (in C), the respelled Ger+6 translated to a Db7, which still moved nicely over to V7.
-  - Process: writing out the full chord (Db F Ab B) and respelling the B as a Cb. Cb wants to resolve down to the B in the next chord, and the F carries through to be the seventh.
-- If you keep the chord as written, we have our normal +6 chord function: the actual +6 resolves outward to the root of the next chord. So our original +6 chord from the example resolves to a C major chord.
-  - Labeling: instead of using our "in the key of" secondary dominant labeling, the slash indicates "going to" and you write the scale degree below the slash. The Ger+6 in this example would be written as Ger+6/^1 (remember the caret should be written above the number)
-  - In this instance, Ger+6/^1 actually has *dominant* function, rather than predominant. It subs in for V7 and proceeds straight to I. Think of respelling the chord as a Db7! Ger+6s can have dominant function...but only sometimes
-
-**This was a lot of info, so here's the most important things to remember:**
-- Tones of each kind of +6 chord
-- How the different tones resolve
-- Function(s) of a +6 chord
+### Non-Standard Uses:
+**Ger<sup>+6</sup> resolving to a I chord:**
+- In this case, the Ger<sup>+6</sup> is acting with dominant function.
+- It is labeled with a slash: Ger<sup>+6</sup>/ 1<sup>^</sup>
+- The slash and scale degree indicates what scale degree of the home key the augmented sixth interval resolves to.
+- This is secretly a **Tritone substitution** (hip alert!)

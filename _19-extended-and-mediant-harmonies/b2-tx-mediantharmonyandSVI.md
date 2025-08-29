@@ -4,117 +4,63 @@ title: 19b Discussion - Mediant harmony and Simplified Voice-leading Intervals
 abc: true
 ---
 
-# Class discussion
+## Mediant Mania
 
+**"What is mediant harmony?"**
+- Chordal motion that involves root movement by thirds
 
+**"Why use mediant harmony?"**
+- It's a way to move to distant keys in very smooth ways
+- It allows composers to have smooth voice leading while using interesting harmony
 
 
+Ex: *Festive Overture* opening
 
-## Mediant Harmony and Idealized Voice Leading Intervals
+### Simplified Voice-leading Intervals (SVI)
+- This is a framework for measuring the amount of distance that voices move between chords
+- You measure this by counting how many half steps each voice moves from one chord to the next, then totaling it up
+- For example, a **G** major triad to a **C** major triad has an **SVI** value of **3**
 
+**"Which chords have the lowest SVI?"**
+- The ones that share two common tones.
+- With mediant harmony, there is always some sharing of common tones, which is why we say the voice-leading is so smooth - because there is very little motion.
 
 
-How do we judge good voice leading?
+**In a tonal analysis** you can use SVI as a way to explain motion between chords. However, this can only be used if the music is actually written in a way where the notes are moving smoothly to each other. The chords cannot merely have a *theoretically* smooth relationship.
+- You can label this in your analysis by writing "**SVI: _**" between the roman numerals
 
-- Stepwise and static motion
 
-- The chordal thirds resolve how you expect
 
 
+### SVI In C Major and Parallel Minor
 
-If you put chords in closed position voicing without the bass line there's not much movement.
 
-If you count the half steps it takes to move between two chords and take the total you have IVI, or Idealized Voice-Leading Intervals.
 
+1. C to Dm - SVI:5
 
+2. C to Do - SVI:4
 
-Which chords have the lowest IVI?
+3. C to Eb - SVI:3
 
-The ones that share two common tones.
+4. C to Em - SVI:1
 
-Anytime we have harmonies whose roots relate by a 3rd those chords have smooth voice leading because they share two tones. 
+5. C to Fm - SVI:2
 
-Mediant Harmony allows composers to have smooth voice leading while using interesting harmony.
+6. C to F - SVI:3
 
- 
+7. C to Gm - SVI:4
 
-Ex: G7 - D
+8. C to G - SVI:3
 
-- GBDF to DF#A
+9. C to Ab - SVI:2
 
-- G moves to F#, B moves to A, D stays the same, F moves to F#.
+10. C to Am - SVI:2
 
-- IVI:5
+11. C to Bb - SVI:5
 
+12. C to Bo - SVI:4
 
 
-Voice-leading for IVI is not the same as writing for a chorale. 
-
-Bass lines don't follow the rules of IVI for smooth voice-leading.
-
-
-
-Ex: Bbm - Co7
-
-- BbDbF to CEbGbBbb
-
-- Bb moves to Bbb, Db moves to Eb and C, F moves to Gb.
-
-- IVI:5
-
-
-
-Ex: G - Fmaj7
-
-- GBD to FACE
-
-- G moves to F and A, B moves to C, D moves to E.
-
-- IVI:7
-
-
-
-### IVI In C Major and Parallel Minor
-
-
-
-1. C to Dm - IVI:5
-
-2. C to Do - IVI:4
-
-3. C to Eb - IVI:3
-
-4. C to Em - IVI:1
-
-5. C to Fm - IVI:2
-
-6. C to F - IVI:3
-
-7. C to Gm - IVI:4
-
-8. C to G - IVI:3
-
-9. C to Ab - IVI:2
-
-10. C to Am - IVI:2
-
-11. C to Bb - IVI:5
-
-12. C to Bo - IVI:4
-
-
-
-Which chords have the smallest IVI?
-
-
-
-## Mediant Harmony
-
-
-
-The mediant harmony: or any harmony whose root starts a 3rd away.
-
-These chords are the mediant and borrowed mediant, and the submediant and borrowed submediant.
 
 We are left with (in C) Eb, Em, Ab, Am. 
 
@@ -126,7 +72,7 @@ In total we have 4 chromatic mediant chords (Ebm, Eb, Em, E) and 4 chromatic sub
 
 
 
-Diatonic mediants: the two mediants that are in the key.
+**Diatonic mediants: the two mediants that are in the key.**
 
 - In C major, Em and Am.
 
@@ -134,7 +80,7 @@ Diatonic mediants: the two mediants that are in the key.
 
 
 
-Chromatic mediants: the 4 mediants that are borrowed from the parallel minor and the opposite chord quality of the diatonic mediants.
+**Chromatic mediants: the 4 mediants that are borrowed from the parallel minor and the opposite chord quality of the diatonic mediants.**
 
 - In C major, Eb, Ab, E, and A.
 
@@ -142,17 +88,10 @@ Chromatic mediants: the 4 mediants that are borrowed from the parallel minor and
 
 
 
-Doubly chromatic mediants: the 2 mediants that are not in the key, but are the opposite chord qualities of the parallel minor mediants.
+**Doubly chromatic mediants: the 2 mediants that are not in the key, but are the opposite chord qualities of the parallel minor mediants.**
 
 - In C major, Ebm and Abm.
 
 
 
 You find the first 4 mediants by using the diatonic and chromatic mediants (the 2 from major and 2 from the parallel minor).
-
-
-
-
-
-
-

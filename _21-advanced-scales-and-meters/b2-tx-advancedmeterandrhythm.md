@@ -4,23 +4,32 @@ title: 21b Discussion - Advanced rhythm and meters
 abc: true
 ---
 
-# Class Discussion
+## Metrical Mastery
 
-Asymmetric and irregular meters mean the same thing, but calling them "irregular" might make them easier to understand from the drop. An asymmetric/irregular meter is any meter where the beats have varying lengths, seen clearly in the first example where we proceed through 5/8, 7/8, and 8/8.
+**Asymetric**
+- Asymmetric meter and irregular meter mean the same thing
+- **An asymmetric meter is one where the beats have varying lengths**
+- They can always be broken into groups of 2 and 3
 
-In ths first ex with the different x/8s, we can even do different groupings within these three time signatures.
+**Mixed meter:**
+- When the music alternates between two or more meters in a regular pattern
 
-**Do we still use notation from regular meters when we're in an irregular meter?** (simple meters tell length of beat, compound meters tell length of division)
-- Irregular meters use the same rules as compound meters. This is because the division is the same in meters like 5/8 but the beats, by definition, are not the same
+**Polymeter:**
+- More than one meter happening at the same time. 
+- This happens when different members in an ensemble are reading in defferent meters.
 
-**Mixed meter**
-- Mixing meters within the same piece!
+**Implied Polymeter:**
+- When the music is not notated with multiple meters happening at the same time, but it sounds like it is.
 
-**Polymeter**
-- More than one meter happening at the same time. While mixed meter has everybody switching b/w meters together, polymeter has two or more groups playing in different meters simultaneously.
+**Polyrhythm:**
+- The simultaneous occurance of multiple rhythms over top of each other
 
-**Implied polymeter**
-- What it says on the tin: the polymeter is not explicitly written in time signatures, but the way the music itself is written implies that it's happening anyway
+**Composite Meter:**
+- Irregular meters where the time signature notates the beat groupings within
+- Ex: 2+3/8 would be a composite meter version of 5/8
 
-**Polyrhythm**
-- Unlike polymeter, which happens at the bar level, polyrhythm is the same concept happening at the beat level
+**Ametric:**
+- Music without a perceived meter
+
+**Metric Modulation:**
+- A change in tempo where some division of the old time signature converts direlctly into some division of the new time signature.

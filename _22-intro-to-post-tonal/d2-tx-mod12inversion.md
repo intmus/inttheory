@@ -4,76 +4,49 @@ title: 22d Discussion - PC Set Inversion
 abc: true
 ---
 
-# Class discussion
+## Indomitable Inversions
 
-## PC Set Inversion
+**"How do you find the inversion of a number?"**
+- You "mirror" it over a given axis
+- You take the distance that it is from the axis number, then go that far in the opposite direction out from the axis number
+- Ex: if you invert the number 8 over 0, you get -8, which translates to 4.
+- Ex: if you invert the number 7 over the number 5, you get 3.
 
-How do you find the inversion of the number?
-- you take the number and go that many around the given pitch. 
-  - if we are inverting over 0, the inversion of 3 is -3. 
-- -14 -13 -12 -11 -10 -9 -8 -7 -6 -5 -4 -3 -2 -1 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
 
-What if we apply Mod 12 to this idea?
-- 1 2 3 4 5 6 7 8 9 t e 0 1 2 3 4 5 6  7 t e 
-  - we get the same idea by mirroring numbers over the clock, putting the mirror down the line between 0 and 6.
-- the inversions of each number are:
-  - 1 e, 2 t, 3 9, 4 8, 5 7, 6 6.
-- if you're using the clock for inversion, you can move the mirror axis to any number and treat it the same.
+**Inversion Pairs based around 0:**
+- 0 <-> 0
+- 1 <-> e
+- 2 <-> t
+- 3 <-> 9
+- 4 <-> 8
+- 5 <-> 7
+- 6 <-> 6
 
-#### Ex: C major triad
-What is the pitch class set for a C major triad?
-(0,4,7). 
-What is the inversion? 
-(0,8,5).
-  - the normal form of the inversion is [5,8,0].
+*Hint: you only need to memorize these pairs, then you can use this pattern over any inversion axis.*
+
+
+**Inverting a C Major Triad in C=0**
+- What is the PC set for a C major triad? (0,4,7). 
+- What is the inversion? (0,8,5).
+- (0,8,5) is an F minor triad
   
-The chord made is a F minor triad, because we directly flipped the intervals around C. 
-### Transposition and Inversion
-When you have to transpose and invert a PC set, the formula is TnI().
-#### Which is correct? 
-1. Transpose
-  - ex: T4I(1,5,6)
-    - (5,9,t)
-2. Invert
-    - (7,3,2)
-3. Find normal form
-    - [2,3,7]
-    
-**OR**
-1. Invert 
-- ex: T4I(1,5,6)
-    - (e,7,6)
-2. Find normal form
-    - [6,7,e]
-3. Transpose
-  - next we transpose by adding n (4) to each interger. 
-   - [t,e,3]
+### Practice Example
+**T<sub>4</sub>I(1,5,6)**
+- The "T" tells you to transpose it by "4". The "I" tells you to invert it.
+- If you transpose this set before inverting it, you will have to invert it over the axis of 4.
+- Conversely, if you invert this set first, you can invert it over the axis of 0, then transpose it by 4.
 
-The SECOND OPTION is correct. 
-By transposing first, it changes the axis you invert over.
-You have to invert first, THEN transpose. 
-You have to wait to find normal form until AFTER you invert the PC set. 
+**Step 1 - Inversion:**
+- (1,5,6) becomes **(e,7,6)**
 
-Shortcut:
-- subtract n by each interger, then set it in normal form.
-    - ex: T9I(4,3,1)
-      - 9-4=5
-      - 9-3=6
-      - 9-1=8
-    - so our PC set is (5,6,8), and normal form is [5,6,8]
-    
- ### Set Class 
- Think of pitch class, it is a combination of pitches, thus a PC set.
- So set class, is a collection of pitch class sets.
- 
- Heirarchy:
- - pitch class (1)
- - pitch class set (1,4,7)
- - set class (1,4,7);(2,5,8);(3,6,9);(4,7,t);(5,8,e);(6,9,0); etc...
+**Step 2 - Transposition:**
+- (e,7,6) transposed by 4 becomes **(3,e,t)**
 
-A set class for (0,4,7), a major triad, all of its transpositions and inversions create 24 PC sets, making one large set class. 
-This includes all major and minor triads in interger notation. 
-- a way to decrease a set class is using a symmetrical chord
+**Step 3 - Ascending Forms:**
+- (3,e,t) becomes **(3,t,e)** or **(t,e,3)** or **(e,3,t)**
+
+**Step 4 - Normal Form:**
+- the ascending form with the smallest outer interval is **[t,e,3]**
 
 # Further reading
 
