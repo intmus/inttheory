@@ -57,29 +57,23 @@ It should be noted that many composers rely on using meters to evoke particular 
 
 Listen to the first 20 seconds of the following clip of *Sintra* from Snarky Puppy's incredible collaboration with the Metropole Orkest. How would you classify the meter? What can you tell about the performers' sense of the meter from their body language, particularly the conductor? Does it match yours?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MBAJP-3ebDA?start=138" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3Gptfqd1Dz4?si=-hGICSKNl9Izuqt3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 The next clip starts slightly before the previous clip. How would you classify this meter? Does it affect how you perceive the material from the previous clip? What can you tell about the performers' sense of the meter from their body language, particularly the conductor? Does it match yours?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MBAJP-3ebDA?start=126" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3Gptfqd1Dz4?si=4KUtumS1GANBMtgN&amp;start=127" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 The final clip starts in the introduction of this piece. This is clearly in a different meter than the previous two clips but it segues smoothly into the new section. How does this affect your perception of the material from the previous two clips? What can you tell about the performers' sense of the meter from their body language, particularly the conductor? Does it match yours?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MBAJP-3ebDA?start=47" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3Gptfqd1Dz4?si=c2CRyIdV96Oiq7ew&amp;start=127" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Conclusions
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MBAJP-3ebDA?start=138" frameborder="0" allowfullscreen></iframe>
+When listening to the first clip, most listeners will hear this section in a slow, simple triple meter. But an observant person may notice the conductor in the background (around the 2:29 mark) conducting in a double-time three, which means that the conductor is placing an *off-beat* where the listener is likely hearing beat 2 of their slow simple triple meter. If we move our starting point backward by only a few seconds to the second clip, we hear the original groove of this section, which is the origin of the double-time simple triple meter that we saw the conductor using.
 
-By starting at this particular point in the piece, most listeners will hear this section in a slow, simple triple meter. But an observant person may notice the conductor in the background (around the 2:29 mark) conducting in a double-time three, which means that the conductor is placing an *off-beat* where the listener is likely hearing beat 2 of their slow simple triple meter. If we move our starting point backward by only ten seconds, we hear the original groove of this section of the tune, which is the origin of the double-time simple triple meter that we saw the conductor using.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MBAJP-3ebDA?start=126" frameborder="0" allowfullscreen></iframe>
-
-By starting at this new point, many listeners will switch to a faster (double-time) simple triple meter. The listener may or may not carry this feel through the half-time section from the first clip, but given the conductor's beat pattern, we can be fairly certain that the orchestra is counting this section as if there is no change in meter. 
+Each new starting point provides more data and changes perception. Some listeners will switch to new feels every time, whereas others may or may not carry the original feel through the half-time section from the first clip. Given the conductor's beat pattern, we can be fairly certain that the orchestra is counting this section as if there is no change in meter. 
 
 Perhaps even more interesting is the effect on the listener when we move our starting point back into the the intro of the piece. 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MBAJP-3ebDA?start=47" frameborder="0" allowfullscreen></iframe>
 
 The introduction is clearly in a slow compound quadruple meter. The melody happens mostly at the beat level, and the cellos have a constant arpeggio at the subdivision level. At the 1:20 mark, there is a slightly disconcerting two-beat transition, and then a new section starts that most listeners will hear as a continuation of the slow compound quadruple meter of the intro. This is reinforced by an ostinato in a contra-bass clarinet as well as the body language of the performers. When the trumpet and saxophone enter with a new melody at 1:32, we realize that this slow compound quadruple meter is the exact same feel and melody that we heard as a fast simple triple melody in the second clip.
 
