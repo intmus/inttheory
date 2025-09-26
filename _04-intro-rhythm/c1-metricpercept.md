@@ -57,7 +57,7 @@ It should be noted that many composers rely on using meters to evoke particular 
 
 Listen to the first 20 seconds of the following clip of *Sintra* from Snarky Puppy's incredible collaboration with the Metropole Orkest. How would you classify the meter? What can you tell about the performers' sense of the meter from their body language, particularly the conductor? Does it match yours?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3Gptfqd1Dz4?si=-hGICSKNl9Izuqt3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3Gptfqd1Dz4?si=6jk7wM3Mv6X3kwtz&amp;start=140" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 The next clip starts slightly before the previous clip. How would you classify this meter? Does it affect how you perceive the material from the previous clip? What can you tell about the performers' sense of the meter from their body language, particularly the conductor? Does it match yours?
 
@@ -65,7 +65,7 @@ The next clip starts slightly before the previous clip. How would you classify t
 
 The final clip starts in the introduction of this piece. This is clearly in a different meter than the previous two clips but it segues smoothly into the new section. How does this affect your perception of the material from the previous two clips? What can you tell about the performers' sense of the meter from their body language, particularly the conductor? Does it match yours?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3Gptfqd1Dz4?si=c2CRyIdV96Oiq7ew&amp;start=127" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3Gptfqd1Dz4?si=MfQ7l-ZRPPQT9FAu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Conclusions
 
