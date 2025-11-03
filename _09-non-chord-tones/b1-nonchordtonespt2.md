@@ -176,11 +176,19 @@ w:F:I ii6/5 V7 I IV6 ii6/5 V I IV6/4 I{% endcapture %}
 
 Pedals are *approached by static motion and left by static motion*; essentially, this is a note that refuses to leave regardless of whether it belongs to the chord. Pedals are one of the most interesting non-chord tones because they have a dual nature--they create some of the strongest dissonances in tonal harmony, but their repetitive nature provides an unusual stability. As a pedal continues, it will often alternate between acting as a chord tone and non-chord tone, so it can be helpful to label the chord tones as "pedal figures" to show the continuation of the pedal as demonstrated in the first measure above.
 
-### Incomplete Neighbor Tone (INT) and Incomplete Neighbor Group (ING)
+### Incomplete Neighbors
 
-While less common than those above, you will occasionally encounter non-chord tones that are approached by leap and left by step in the *same* direction; resembling an appoggiatura but not resolving in the opposite direction. For our analyses, we will label these as *incomplete neighbor tones*, although some theorists use this term to refer to appoggiaturas and escape tones as well. Broadly speaking, you should not resort to an incomplete neighbor tone NCT unless you have exhausted all other options, because it is far more likely that this melodic shape is part of a chordal skip rather than an actual NCT. You should always check for other harmonic possibilities before committing to an INT.
+These final two types of NCTs we'll discuss are less common and not considered as traditional NCT shapes, but they occur often enough--particularly in modern music--that it is important that we have these descriptions. 
 
-There is also an additional variation of incomplete neighbor tones called *incomplete neighbor groups (ING)*. An incomplete neighbor group occurs when a chord tone is approached by two pitches as if they were a part of a neighbor group--meaning one NCT a step above and one NCT a step below--but unlike a neighbor group, the first instance of the chord tone is not present. Like incomplete neighbor tones, these should be a last resort in your analyses, but they occur often enough that we need this label.
+#### Incomplete Neighbor Tone (INT)
+
+You will occasionally encounter non-chord tones that are approached by leap and left by step in the *same* direction; resembling an appoggiatura but not resolving in the opposite direction. For our analyses, we will label these as *incomplete neighbor tones*, because of their similarity to a neighbor tone missing the first chord tone. Broadly speaking, you should not employ an incomplete neighbor tone in your first attempts at part-writing, because it is easy to misue this melodic shape to imply an incorrect harmony such as an incorrectly resolved chordal seventh or as part of a chordal skip. **You should always check for other harmonic possibilities before analyzing an INT.**
+
+Please note that some theorists use the term *incomplete neighbor tones* to refer to the entire class of NCTs that have both a leap and stepwise motion such as appoggiaturas, escape tones, and the shapes below.
+
+#### Incomplete Neighbor Group (ING) or Enclosure (ENC)
+
+There is also an additional variation of incomplete neighbor tones called *incomplete neighbor groups (ING)* or *enclosures (ENC)*. An incomplete neighbor group occurs when a chord tone is approached by two pitches as if they were a part of a neighbor group--meaning one NCT a step above and one NCT a step below--but unlike a neighbor group, the first instance of the chord tone is not present. Like incomplete neighbor tones, these should be a last resort in your analyses and part-writing, but they occur often enough that we need this label.
 
 {% capture ex9 %}X:9
 T:Incomplete neighbor tones and groups
