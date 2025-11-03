@@ -131,7 +131,7 @@ V:1
 V:2
 [C]| [D/2]"ant"[E/2] [E]| [C2]| [D] [D]| [C] H[C]|]
 V:3 clef=bass
-[A,]| [G,] [G,]| [F,2]| [B,/2]"ant fig"[G,/2] [G,]| [G,] H[A,]|]
+[A,]| [G,] [G,]| [F,2]| [B,/2]"ant"[G,/2] [G,]| [G,] H[A,]|]
 V:4 clef=bass
 [F,]| [B,,] [C,]| [F,2]| [D,] [B,,]| [C,] H[F,,]|]
 w:F:I ii6 V7 I IV6 ii6/5 V I{% endcapture %}
