@@ -57,13 +57,13 @@ When voicing triads **in four-part harmony**, at least one note must be doubled.
 1. Doubling the root is usually the ideal choice on root position chords and is almost always a reasonable option, regardless of inversion.
 2. Doubling the fifth is generally the second best option for triads, and it is often the best option for second inversion triads.
 3. Doubling the third is generally *unacceptable*, although there are certain cases in which this can be necessary, such as *some* first inversion chords. As a rule of thumb, do not double the third unless you are voicing a chord and/or inversion in which you've already been told that doubling the third is the best option.
-4. If you need to omit a voice, the fifth is the only option, because the root and third are required to define the chord. Diminished triads are the only diatonic harmony in which the chordal fifth is a critical chord tone, but even in these situations, the fifth might be the best omission if necessary (albeit unlikely).
+4. If you need to omit a voice in a 3- or 4-part harmony, the fifth is the only option, because the root and third are required to define the quality of the chord. Diminished triads are the only diatonic harmony in which the chordal fifth is a critical chord tone, but even in these situations, the fifth might be the best omission if necessary (albeit unlikely).
 4. You can triple the root if necessary, but this voicing lacks the depth of a chord with a fifth and can create a difficult voicing to continue writing afterwards. This is most commonly used as an ending chord of the piece (often after a V7).
 
 Doubling in a seventh chord is similar, but because you have four notes for four voices, there is less freedom.
 1. There must always be a root, third, and seventh in the chord, because without any of them, the chord is no longer a functional seventh chord.
 2. If necessary, you can omit the fifth.
-3. If the fifth is ommitted, the root is the only chord tone that can be doubled. Do not double the third or the seventh.
+3. If the fifth is ommitted, you should double the root. The third or the seventh are tendency tones that will likely create unacceptable resolutions.
 
 #### Spacing
 

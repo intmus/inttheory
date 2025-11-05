@@ -61,7 +61,7 @@ Once you are comfortable with the descriptions of each of the errors below, try 
 
 ## Parallel perfect fifths and perfect octaves (PP5, PP8)
 
-Study the progression below and try to find our first major error: *parallel perfect octaves* (PP8). The name of the error should be enough of a clue as to what you are searching for, and once you have found it, look to see if a voicing rule (e.g. spacing, doubling, etc.) has been broken. If the voicing error is not fixed, is there any way to avoid the parallel octaves without incorrectly resolving a tendency tone?
+Study the progression below and try to find our first major error: *parallel perfect octaves* (PP8). The name of the error should be enough of a clue as to what you are searching for, and once you have found it, look to see if a voicing rule (e.g. spacing, doubling, etc.) has been broken. Is there any way to avoid the parallel octaves without incorrectly resolving a tendency tone?
 
 {% capture ex1 %}X:1
 T:Parallel perfect octaves (PP8)
