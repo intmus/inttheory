@@ -19,13 +19,13 @@ We will be referring to this handout, [Part-Writing Error Checklist and Guide](h
 
 ## Why part-writing?
 
-Before we begin, I would like to elaborate on the eternal question regarding part-writing: Why do we study part-writing rather than just analysis, particularly in a strict style that is not fully applicable to modern styles of composition?
+Before we begin, I should address the eternal question of the modern music student: Why do we study part-writing rather than just analysis? Particularly in a strict style that is not fully applicable to modern styles of composition?
 
-For our purposes, the study of basic part-writing is the simplest way to learn *how* combining voices leads to functional harmony. Even though most of its rules are archaic--and perhaps more damning, not particularly offensive to a modern student's ear--four-voice chorales are a straightforward method to study every aspect of musical function: voice-leading, harmonic progressions, voicings, chordal structure, tendency tones, melodic construction, and so on.
+For our purposes, the study of basic part-writing is the simplest way to learn *how* combining voices leads to functional harmony. Even though most of its rules are archaic--and perhaps more damning, not especially jarring to a modern musician's ear--four-voice chorales are a straightforward method to study every aspect of musical function: voice-leading, harmonic progressions, voicings, chordal structure, tendency tones, melodic construction, and so on.
 
 We could attempt to focus on only one style of modern music--whether pop, jazz, classical, or otherwise--but because each is a fully developed, complex language, you would still need to learn basic harmonic movement before beginning to write in that style. And because each of these musics has its roots in diatonic harmony, an understanding of basic chorale style part-writing will allow you to study and develop a process to analyze *all* of these styles, rather than focusing your studies into only one area and being ignorant of the others.
 
-In short, focus on the *process* of the part-writing rather than trying to memorize every rule as if it is unbreakable. Even within a style, rules are guidelines, so an inflexible mindset will lead to nothing but frustration. Once you have grasped the basics of part-writing, you will have advanced another step toward the goal of improving your musicianship.
+In short, focus on the *process* of the part-writing rather than trying to memorize every rule as if it is unbreakable. Even within a style, rules are better thought of as a rules-of-thumb; something that holds true most of the time and can be bent or broken when the situation calls for it. An inflexible mindset will lead to nothing but frustration. Once you have grasped the basics of part-writing, you will have expanded the foundation of your musicianship.
 
 ## Traditional errors
 
@@ -135,7 +135,7 @@ In summary, you may never have parallel perfect octaves or parallel perfect fift
 
 ## Contrary perfect fifths and octaves (CP5, CP8)
 
-Our next part-writing error, *contrary perfect fifths* and *contrary perfect octaves* (CP5 or CP8) typically occur as an attempt to obscure parallel perfect fifths and parallel perfect octaves by displacing one voice by an octave. The next two examples attempt to hide the errors from the first two examples on this page by displacing one voice of the parallel perfect intervals. Identify these by comparing them to the previous example (i.e. P) Notice that it creates multiple voicing and spacing errors as well as nearly unsingable parts.
+Our next part-writing error, *contrary perfect fifths* and *contrary perfect octaves* (CP5 or CP8) typically occur as an attempt to obscure parallel perfect fifths and parallel perfect octaves by displacing one voice by an octave. The next two examples attempt to hide the errors from the first two examples on this page by displacing one voice of the parallel perfect intervals. Identify these by comparing them to the previous example (i.e. PP5 and PP8). Notice that it creates multiple voicing and spacing errors as well as unnecessarily difficult parts to sing.
 
 {% capture ex3 %}X:3
 T:Contrary perfect octaves (CP8)
