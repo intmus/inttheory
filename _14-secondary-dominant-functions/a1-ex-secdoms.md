@@ -10,9 +10,9 @@ Having fully established the foundations of tonal harmony, we are now ready to e
 
 ## Introducing secondary dominant chords
 
-To this point in our curriculum, we have spent the majority of our time studying the **primary functions** in tonal harmony--tonic, dominant, and pre-dominant chords--as well as the ways in which we can extend primary functions through the **tertiary functions** of cadential, passing, pedal, and arpeggiated chords. The observant among you will notice that we have skipped secondary function, but we are now ready to study chromatic harmony and therefore introduce this missing concept. Secondary dominant chords, a small set of chords with secondary function, will be our starting point because they are a logical extension of circle-of-fifths progressions. 
+To this point in our curriculum, we have spent the majority of our time studying the **primary functions** in tonal harmony--tonic, dominant, and pre-dominant chords--as well as the ways in which we can *extend* primary functions through the **tertiary functions** of cadential, passing, pedal, and arpeggiated chords. Even the not-so-observant will notice that we have skipped secondary function, but now that we have built the foundations to study chromatic harmony, we are ready to introduce this missing concept using *secondary dominant chords*, a small subset of chords with secondary function. 
 
-Before we add chromaticism, let's establish a voice-leading standard by harmonizing the following progression in four-part harmony. Because it is full of root position triads, you may need to use incomplete chords to create smooth voice-leading while avoiding errors.
+Before we add chromaticism, let's refresh our voice-leading standards by harmonizing the following progression in four-part harmony. Because it is full of root position triads, you may need to use incomplete chords to create smooth voice-leading while avoiding errors.
 
 {% capture ex1 %}X:1
 T:A standard progression
@@ -27,7 +27,9 @@ V:2 clef=bass
 w:C:I vi ii V I{% endcapture %}
 {% include abc-example.html number="1" abc=ex1 %}
 
-In Unit 7, we discussed the evolution of the circle-of-fifths progression, and in that process, we saw that the circle-of-fifths progressions are strong because the voice-leading closely mirrors a series of V-I progressions. With that in mind, let's zoom in on the middle measure of the ii-V-I progression that you completed above. (This will work for any voicing that you chose, but I have inserted the voicing that I used in the next example.) On the staff below, I have isolated the ii and V chords in the first two measures. In the second measure, I have copied all of the voices exactly from the first measure, but I have altered only the *key signature* to match the tonic of the second chord--in this case, our second chord was the V chord, a G major triad, so I used the key signature for G major without altering any of the voices. Analyze the second measure in G major while taking into account the new key signature. What progression have we created? 
+In Unit 7, we discussed the evolution of the circle-of-fifths progression, and in that process, we saw that progressions with root movement by P5 are strong because the chord-to-chord voice-leading is derived from the V-I progression. This includes concepts such as "chordal thirds that resolve up by step to the root of the following chord" and "chordal sevenths resolve down by step to the third of the following chord."
+
+With that in mind, let's zoom in on the ii-V-I progression that you completed above. (This will work for any voicing that you chose, but I have inserted the voicing that I used in the next example.) On the staff below, I have isolated the ii and V chords in the first two measures. In the second measure, I have copied all of the voices exactly from the first measure, but I have altered the *key signature* to match the tonic of the second chord--in this case, our second chord was the V chord, a G major triad, so I used the key signature for G major without altering any of the voices. Analyze the second measure in G major while taking into account the new key signature. What progression have we created? 
 
 {% capture ex2 %}X:2
 T:Altering ii-V
@@ -42,7 +44,7 @@ V:2 clef=bass
 w:C:ii V G:? ?{% endcapture %}
 {% include abc-example.html number="2" abc=ex2 %}
 
-As you can see, these two progressions are identical with the exception of one accidental. The ii-V progression in C major has a weaker pull than the V-I progression in G major, but they are functionally similar. Therefore, we could strengthen the ii-V progression in C major by adding one accidental to the ii chord to have it mimic the dominant chord in a secondary key. To try this, take your completed progression from the first example above and alter the one pitch necessary in the ii chord to "steal" the dominant chord from G major. (I have provided you with my voicing if you deleted yours, but feel free to copy your voices into the appropriate lines of the ABC notation.)
+As you can see, these two progressions are identical with the exception of the new accidental created from the key signature. The ii-V progression in C major has a weaker pull than the V-I progression in G major, but they are functionally similar. Therefore, we could strengthen the ii-V progression in C major by adding one accidental to the ii chord to have it mimic the dominant chord in a secondary key. To try this, take your completed progression from the first example above and alter the one pitch necessary in the ii chord to "steal" the dominant chord from G major. (I have provided you with my voicing if you deleted yours, but feel free to copy your voices into the appropriate lines of the ABC notation.)
 
 {% capture ex3 %}X:3
 T:Changing ii into a secondary function chord
@@ -59,7 +61,7 @@ w:C:I vi ii V I{% endcapture %}
 
 ### Conclusion
 
-To steal the chord from G major, you only need to raise the third of the ii chord to create a D major triad--the V chord in the key of G major. This creates a temporary V chord instead of a ii chord. You can hear the finished product in the following example.
+To steal the chord from G major, you only need to raise the third of the ii chord to create a D major triad--the V chord in the key of G major. This creates a temporary V chord in place of our ii chord. You can hear the finished product in the following example.
 
 {% capture ex6 %}X:6
 T:Changing ii into a secondary dominant chord
@@ -82,9 +84,9 @@ Primary function stems from the voice-leading in our standard circle-of-fifths p
 
 ## Labeling secondary dominant chords
 
-Remember that when using Roman numerals analysis, it is best practice to explain any chords that do not have their "standard" function. If a I chord has a dominant function, such as a cadential I 6/4 chord, you should denote in some way that this particular chord is tertiary function rather than the I chord's standard tonic function. If a vii<sup>o6</sup> is not acting with its standard dominant function and instead acting as a passing chord, that should be noted in your Roman numerals. Secondary function chords are no different. 
+Remember that when using Roman numerals analysis, it is best practice to explain any chords that do not have their "standard" function. If a I chord has a dominant function, such as a cadential I 6/4 chord, your analysis should show that this particular chord is tertiary function rather than the I chord's standard tonic function. If a vii<sup>o6</sup> is not acting with its standard dominant function and instead acting as a passing chord, that should be reflected in your Roman numeral analysis. Secondary function chords are no different. 
 
-In the example above, the ii chord transforms into a major chord once the sharp is added, so it is no longer a "standard" ii chord. To denote this in our Roman numerals, we use two Roman numerals separated by a slash: V/V. We read this as "five of five". In this labeling, the Roman numeral before the backslash is the chord's function as if it were *in the key of* the Roman numeral after the slash. In our example above, the D minor chord becomes a D major chord, so it now acts as the V chord in the key of G major: a "five of five".
+In the example above, the ii chord transforms into a major chord once the sharp is added, so it is no longer a "standard" ii chord. To denote this in our Roman numerals, we use two Roman numerals separated by a slash: V/V. When speaking, we'll say "five of five". In this labeling, the Roman numeral before the backslash is the chord's function as if it were *in the key of* the Roman numeral after the slash. In our example above, the D minor chord becomes a D major chord, so it now acts as the V chord in the key of G major: a "five of five".
 
 One important note, standard practice for secondary function chords allows you to tonicize any chord that is *not* a diminished triad. This means that vii<sup>o</sup> in major and minor as well as ii<sup>o</sup> in minor should not be tonicized.
 
