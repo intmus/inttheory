@@ -74,7 +74,7 @@ The augmented sixth chords are collections of pitches that create smooth voice-l
 
 +6 variant | Chordal member | Chordal member | Chordal member | Chordal member | 
  --- | --- | --- | --- | ---
-Italian | ^b6 | ^#4 | ^1 | ^1 (doubled)
+Italian | ^b6 | ^#4 | ^1 | ^1 (if needed)
 German | ^b6 | ^#4 | ^1 | ^b3
 French | ^b6 | ^#4 | ^1 | ^2
 
@@ -119,7 +119,7 @@ w:C:Ger+6 I6/4 V I Fr+6 V7 I{% endcapture %}
 
 ### Conclusions
 
-Passing through another chord can hide the objectionable parallels created by the tendency tones of the Ger<sup>+6</sup>. In particular, a cadential 6/4 chord can still provide the standard resolutions for the tendency tone (to the dominant scale degree) but also provides an outlet for the ^b3 to resolve by half-step to the third of the I<sup>6/4</sup> as you can see in the first example. In this case, the ^b3 will often be re-spelled to a ^#2, but this does not change the function or labeling of the chord.
+Passing through another chord can hide the objectionable parallels created by the tendency tones of the Ger<sup>+6</sup>. In particular, a cadential 6/4 chord can still provide the standard resolutions for the tendency tone (to the dominant scale degree) but also provides an outlet for the ^b3 to resolve by half-step to the third of the I<sup>6/4</sup> as you can see in the first example. In this case, the ^b3 will often be re-spelled to a ^#2 when resolving to a major I chord, but if resolving to a minor i chord, the pitch will be left as a ^b3. Even when respelled as a ^#2, it does not change the function or labeling of the chord. If it is resolving
 
 The other option that is commonly used is resolving any augmented sixth chord to a V<sup>7</sup> chord rather than a triad. In this case though, the smoothest resolution to the seventh of the V<sup>7</sup> is to alter the resolution of one of the tones that create the augmented sixth interval--particularly, the ^#4. Instead of resolving upward by half-step to `sol`, you can resolve the ^#4 *downward by half-step* to the seventh of the V<sup>7</sup> as demonstrated in the second example above.
 
