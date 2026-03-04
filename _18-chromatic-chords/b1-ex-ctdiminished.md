@@ -4,9 +4,11 @@ title: 18b Lesson - Common-tone diminished chords
 abc: true
 ---
 
-Augmented sixth chords act as functional substitutions for pre-dominant and occasionally dominant chords, so in both of these cases, you can assign those chords a primary function of dominant or pre-dominant. The chord that you will study below does not fulfill one of the three primary functions; instead, it embellishes and elongates a different chord, similar to a tertiary function chord such as a passing or pedal chord. 
+Augmented sixth chords act as functional substitutions for pre-dominant and occasionally dominant chords, so in both of these cases, you can assign those chords a primary function in your functional analysis (P or D, respectively). Below, the new chord that you will study does *not* fulfill one of the three primary functions; instead, it embellishes and elongates a different chord, similar to a tertiary function chord such as a passing or pedal chord. 
 
-It is possible to think of this chord using tertian harmony, but its voice-leading determines its construction. 
+You may think of this chord using tertian harmony, but its voice-leading determines its construction.
+
+## Common-tone diminished chords
 
 Listen to and then analyze the following three progressions. The first is the most straightforward example of this chord, and each example gets progressively more complicated. As always, start your analysis with leadsheet symbols and then provide Roman numerals when possible. In each progression, study the chromatic chord to answer the following questions:
 - How would you describe its construction?
