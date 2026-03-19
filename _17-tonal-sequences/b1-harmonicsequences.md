@@ -6,7 +6,7 @@ abc: true
 
 ## Harmonic sequences
 
-When two or more melodic sequences are combined, they create a harmonic sequence that can supplant standard harmonic function and conventions. As mentioned in the introduction, sequences work because they establish a pattern for the listener and then fulfill this new goal. Look at the following example of a two voice pattern. The first bar establishes tonic, and then a sequence begins in the second measure. After listening to it, discuss with your classmates whether it *sounds* functional. If you were going to describe this to another person, how would you describe it? Once you finish your discussion, propose a harmonic progression that fits the melody.
+When two or more melodic sequences are combined, the resulting chords creates an implied harmonic sequence that can supplant standard harmonic function and conventions. As mentioned in the introduction, sequences work because they establish a pattern for the listener and then fulfill their expectations. Look at the following example of a two voice pattern. The first bar establishes tonic, and then a sequence begins in the second measure. After listening to it, discuss with your classmates whether it *sounds* functional. If you were going to describe this to another person, how would you describe it? Once you finish your discussion, propose a harmonic progression that fits the melody.
 
 {% capture ex2 %}X:2
 T:A two voice sequence
