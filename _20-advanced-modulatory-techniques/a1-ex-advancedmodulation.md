@@ -56,6 +56,10 @@ The Group A examples modulate by pivoting on a borrowed chord (mode mixture). Th
 
 As with all pivot chord modulations, these will typically occur in the middle of the phrase because a pivot chord modulation relies on having a functional chord progression on both sides of the pivot. The smoother the chord progression on both sides, the smoother the modulation will sound.
 
+### Labeling mode mixture pivots
+
+Modulations that rely on mode mixture do not require us to alter our notation for labeling pivot modulations. As we discussed in Unit 15b, a pivot modulation *functions as tonal harmonic progression* on both sides of the modulation. Mode mixture still meets all of this criteria, so we can use the standard pivot notation--a bracket showing the chord in the old and new keys--without further alteration.
+
 ## Group B
 
 {% capture ex3 %}X:3
@@ -101,6 +105,12 @@ In Modulation 3 above, the first phrase uses a vii<sup>o4/2</sup> chord as a pas
 Modulation 4 begins identically to Modulation 3, but when we reach the vii<sup>o4/2</sup> in the second phrase, it is respelled as a vii<sup>o4/3</sup> which acts as the pivot into the new key of F-sharp minor.
 
 Note that there are even further possibilities for modulations if the fully diminished chord is used a secondary leading-tone chord (vii<sup>o7</sup>/x) in one or both of the keys.
+
+### Labeling enharmonic modulations
+
+These modulations still fulfill the basic criteria of a pivot modulation by having tonal function on both the old and new keys, however there is a nuance here that differs structurally from a standard pivot chord. In a standard pivot, it is two *different* chords when viewed through the lens of the both keys. For example, a D minor triad is a ii chord in C major and vi chord F major. The pivot bracket shows this dual nature in a logical, visual representation.
+
+Enharmonic respellings of a chord allow the chord to function as the *same* chord in both the old and new keys. In modulation #3 above, the diminished seventh chord in measure seven is the vii<sup>o7</sup> chord in *both* keys. Therefore, to differentiate this in your pivot bracket, we use the *inversion figure* to show that respelling is required to understand this. For modulation #3, you would place vii<sup>o4/2</sup> on top of the bracket and vii<sup>o7</sup> on the bottom of the bracket. The bottom chord looks correct based on what is written in the staff, but the top inversion requires you--and therefore any reader of you analysis to slow down and consider why you've written an "incorrect" inversion.
 
 ## Group C
 
