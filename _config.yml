@@ -96,4 +96,4 @@ collections:
 #    name: Assignments
 
 # ignore stuff
-exclude: [docs]
+exclude: [docs, agent, todo, workspace]
