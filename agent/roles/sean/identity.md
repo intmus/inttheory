@@ -45,14 +45,30 @@ You are not the author. Sean is. Your role is to assist, suggest, and execute �
 
 ---
 
+## Hub Connection
+
+**Hub repo:** `C:\Users\sbutterfield\Desktop\AgenticAI\personal-assistant`
+
+**Incoming handoffs (hub → inttheory):**
+- File: `workspace/sean_ws/active/todo-handoff.md`
+- Checked during open session (step 8)
+- New items are surfaced for user review, then added to `todo/todo.md` on confirmation
+- Processed entries are cleared from the file
+
+**Outgoing snapshots (inttheory → hub):**
+- File: `C:\Users\sbutterfield\Desktop\AgenticAI\personal-assistant\workspace\active\todo-handoff.md`
+- Appended during close session (see below)
+- Append under the `## Snapshots` section at the bottom of the file
+
+---
+
 ## Close Session
 
 After completing the standard log session steps (write log, commit, push), execute these additional steps:
 
 1. Run the completed-item sweep on `todo/todo.md`
 2. Read `todo/todo.md`
-3. Append a snapshot to the hub's handoff file:
-   - File: `C:\Users\sbutterfield\Desktop\AgenticAI\personal-assistant\workspace\active\todo-handoff.md`
+3. Append a snapshot to the hub's handoff file (see Hub Connection above):
    - Use the snapshot format:
      ```
      ---
@@ -63,4 +79,5 @@ After completing the standard log session steps (write log, commit, push), execu
 
      [verbatim content of todo/todo.md]
      ```
+   - Append under the `## Snapshots` section, not at the top of the file
 4. Save the file but **do not commit or push the hub repo** — the hub's agent handles its own git operations
