@@ -8,6 +8,9 @@ _site/
 .bundle/
 vendor/
 
+# Claude Code local settings
+.claude/
+
 # Confidential workspace directories — never committed
 workspace/sean_ws/confidential/
 workspace/miranda_ws/confidential/
