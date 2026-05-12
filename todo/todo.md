@@ -15,8 +15,9 @@ Priority scale:
 ### Agent Infrastructure
 
 - [ ] **Register inttheory in hub registry** — add this repo to personal-assistant's `agent/toshare/registry.md` with User Heading column [P4]
-- [ ] **Test `/logsession` with post-logsession hook** — verify todo snapshot appends to hub's `todo-handoff.md` [P4]
-- [ ] **Test `/remember`** — verify it reads from new `agent/roles/sean/short-term/daily/` paths [P4]
+- [ ] **Test close session with hub snapshot** — verify todo snapshot appends to hub's `todo-handoff.md` [P4]
+- [ ] **Test new/open session** — verify it reads from new paths and runs full ACP open session protocol [P4]
+- [ ] **Port relation-scan.py** — copy script from personal-assistant hub to `agent/extractors/`. Config is ready. [P4]
 
 ### Content QA
 
@@ -36,6 +37,8 @@ Priority scale:
 
 ### Site and Infrastructure
 
+- [ ] **Frontmatter enrichment** — add `track`, `file_type`, and `keywords` to all 130+ chapter files. Batched by chapter group. [P4]
+- [ ] **Verify site after collections_dir move** — spot-check intmus.github.io/inttheory after push: home, TOC, chapters, ABC, images, search [P3]
 - [ ] **Website modernization** — update Jekyll site theme, support three-track architecture. See `workspace/sean_ws/active/website-modernization/project.md` [P4]
 - [ ] **Assignment distribution system** — replace Discord with integrated assignment/discussion layer. See `workspace/sean_ws/active/assignment-distribution/project.md` [P4]
 - [ ] **Flexible curriculum reordering** — config-driven topic ordering for 2/3-semester layouts. See `workspace/sean_ws/active/curriculum-reordering/project.md` [P5]
@@ -46,18 +49,37 @@ Priority scale:
 - [ ] **Migrate Google Drive assignments** — move assignments and answer keys into structured repo format. See `workspace/sean_ws/active/assignment-migration/project.md` [P4]
 - [ ] **Build assignment rotation system** — tagged pool shuffled year-to-year. Depends on assignment migration and distribution system. See `workspace/sean_ws/active/assignment-rotation/project.md` [P5]
 
+### Agentic Part Writing
+
+- [ ] **Agentic part-writing model** — build an agentic system for musical part writing. Details forthcoming from personal-assistant hub. [P4]
+  - [ ] **OMR software evaluation** — test five OMR tools against a homegrown agent + LilyPond approach:
+    1. [Soundslice](https://www.soundslice.com/sheet-music-scanner/)
+    2. [Audiveris](https://en.wikipedia.org/wiki/Audiveris)
+    3. [SmartScore Music-to-XML](https://www.musitek.com/music-to-xml.html)
+    4. [capella-scan](https://www.capella-software.com/us/index.cfm/products/capella-scan/info-capella-scan/)
+    5. [homr](https://github.com/liebharc/homr)
+
 ### Integrated Piano
 
 - [ ] **Draft piano curriculum** — future Class Piano track. Infrastructure only for now. See `workspace/sean_ws/active/piano-curriculum/project.md` [P6]
+
+### Maintenance
+
+- [ ] **Completed todo cleanup** — Review the Completed section. Keep anything still useful; move the rest to archive/todo-completed.md. After cleanup, set the next due date 3 months out. [by 2026-08-12] [P5]
 
 ---
 
 ## Completed
 
-- [x] **Internal content audit** — scanned all 22 chapters, created `docs/topic-index.md` [started 2026-03-27, completed 2026-03-28]
-- [x] **Style and voice analysis** — compared early vs. late chapters, documented findings [started 2026-03-27, completed 2026-03-27]
-- [x] **Discussion vs. Lesson file authority assessment** — established file hierarchy [started 2026-03-28, completed 2026-03-28]
-- [x] **Project CLAUDE.md** — created comprehensive project instructions [started 2026-03-28, completed 2026-03-28]
-- [x] **Writing and style guide** — created `docs/style-guide.md` [started 2026-03-27, completed 2026-03-27]
-- [x] **Four-layer memory framework** — initial system, now superseded by agent harness [started 2026-04-04, completed 2026-04-04]
-- [x] **Agent harness migration** — adopted LHSOM/personal-assistant framework, migrated all infrastructure [started 2026-04-27, completed 2026-04-27]
+<!--
+Title-only archive. Details in session logs and git history.
+Cleanup: every 3 months, review this list. Keep anything still useful; move the rest to archive/todo-completed.md.
+-->
+
+- [x] Internal content audit [completed 2026-03-28]
+- [x] Style and voice analysis [completed 2026-03-27]
+- [x] Discussion vs. Lesson file authority assessment [completed 2026-03-28]
+- [x] Project CLAUDE.md [completed 2026-03-28]
+- [x] Writing and style guide [completed 2026-03-27]
+- [x] Four-layer memory framework [completed 2026-04-04]
+- [x] Agent harness migration [completed 2026-04-27]

@@ -39,17 +39,19 @@ You are not the author. Sean is. Your role is to assist, suggest, and execute �
 
 *Updated per session. See `todo/todo.md` for the full task list.*
 
-- Agent harness migration (M1) — in progress this session
+- ACP upgrade — adapting full ACP spec to this repo
 - Summer 2026 content projects queued but not started
+- Agentic part-writing model project — OMR evaluation phase upcoming
 
 ---
 
-## Post-logsession
+## Close Session
 
-After completing the standard `/logsession` steps (write log, commit, push), execute these additional steps:
+After completing the standard log session steps (write log, commit, push), execute these additional steps:
 
-1. Read `todo/todo.md`
-2. Append a snapshot to the hub's handoff file:
+1. Run the completed-item sweep on `todo/todo.md`
+2. Read `todo/todo.md`
+3. Append a snapshot to the hub's handoff file:
    - File: `C:\Users\sbutterfield\Desktop\AgenticAI\personal-assistant\workspace\active\todo-handoff.md`
    - Use the snapshot format:
      ```
@@ -61,4 +63,4 @@ After completing the standard `/logsession` steps (write log, commit, push), exe
 
      [verbatim content of todo/todo.md]
      ```
-3. Save the file but **do not commit or push the hub repo** — the hub's agent handles its own git operations
+4. Save the file but **do not commit or push the hub repo** — the hub's agent handles its own git operations

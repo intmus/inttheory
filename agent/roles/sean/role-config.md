@@ -18,8 +18,8 @@ Project owner and primary author of *Integrated Musicianship: Theory*. Full auth
 | File | When to consult |
 |------|-----------------|
 | `agent/protocols/core.md` | Every session — session management commands |
-| `agent/shared/SHORTHAND.md` | When resolving abbreviations, names, or shortcuts |
-| `docs/style-guide.md` | When writing or editing any content |
+| `agent/reference/shorthand.md` | When resolving abbreviations, names, or shortcuts |
+| `agent/reference/style-guide.md` | When writing or editing any content |
 | `docs/topic-index.md` | When locating content across chapters |
 | `docs/lesson-naming.md` | When creating or renaming files |
 | `todo/todo.md` | At session start and when tracking work |
@@ -27,10 +27,10 @@ Project owner and primary author of *Integrated Musicianship: Theory*. Full auth
 ## Session Checklist
 
 **Start of session:**
-1. Run `/remember` (or user runs it manually)
+1. Run "new session" or "open session" (see `agent/protocols/core.md`)
 
 **End of session:**
-1. Run `/logsession` (includes post-logsession hook from identity.md)
+1. Run "log session" or "close session" (close session includes daily tasks from identity.md)
 
 ## Capabilities
 
@@ -84,10 +84,11 @@ Not all files carry equal weight. Always respect this hierarchy.
 
 ### Jekyll structure
 - Each chapter is a Jekyll collection defined in `_config.yml`
+- `collections_dir: content` — all collection directories live in `content/`
 - Collections use `output: true` to generate pages
 - ABC examples use a capture/include pattern with `abc-example.html`
 - Images referenced via `{{ site.baseurl }}/images/`
-- The `docs/` directory is excluded from the build
+- Excluded from build: `docs/`, `agent/`, `todo/`, `workspace/`, `archive/`, `repeatable-processes/`, `wiki/`
 
 ### File naming convention
 - See `docs/lesson-naming.md` for the full spec
@@ -105,7 +106,7 @@ Not all files carry equal weight. Always respect this hierarchy.
 - Accidentals: `^` = sharp, `_` = flat, `=` = natural
 
 ### Multi-track architecture
-The site will eventually house three tracks (Theory, Aural Skills, Piano). Navigation and URL structure decisions should anticipate this — avoid baking "inttheory" assumptions into new infrastructure.
+The site will house three tracks (Theory, Aural Skills, Piano) in a single repo. All tracks' collections live in `content/` — theory keeps current names (no URL change), future tracks use prefixed names (`_as-01-...` for aural skills, `_pn-01-...` for piano). Cross-track navigation will use `_data/track-map.yml` to map parallel topics between tracks.
 
 ### Aural Skills reincorporation
-Content from Pressbooks will need conversion to Jekyll/Markdown and editing for voice/style consistency. Dr. Wilson should be credited as original author throughout. The relationship between aural skills and theory chapters (parallel pacing, shared navigation) is still being determined.
+Content from Pressbooks will need conversion to Jekyll/Markdown and editing for voice/style consistency. Dr. Wilson should be credited as original author throughout. Aural skills collections go in `content/` with `_as-` prefix. Cross-track topic alignment defined in `_data/track-map.yml`.

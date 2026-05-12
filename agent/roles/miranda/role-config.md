@@ -18,8 +18,8 @@ Collaborator and author of *Integrated Aural Skills*. Primary responsibility: im
 | File | When to consult |
 |------|-----------------|
 | `agent/protocols/core.md` | Every session — session management commands |
-| `agent/shared/SHORTHAND.md` | When resolving abbreviations, names, or shortcuts |
-| `docs/style-guide.md` | When writing or editing any content |
+| `agent/reference/shorthand.md` | When resolving abbreviations, names, or shortcuts |
+| `agent/reference/style-guide.md` | When writing or editing any content |
 | `docs/topic-index.md` | When locating content across chapters |
 | `docs/lesson-naming.md` | When creating or renaming files |
 | `todo/todo.md` | At session start and when tracking work |
@@ -27,10 +27,10 @@ Collaborator and author of *Integrated Aural Skills*. Primary responsibility: im
 ## Session Checklist
 
 **Start of session:**
-1. Run `/remember`
+1. Run "new session" or "open session" (see `agent/protocols/core.md`)
 
 **End of session:**
-1. Run `/logsession`
+1. Run "log session" or "close session"
 
 ## Capabilities
 

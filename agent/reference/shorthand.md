@@ -15,14 +15,16 @@ In framework documentation and handoff files, "user" refers to any human and "ag
 
 ---
 
-## Custom Shortcuts
+## Session Commands
 
-Slash commands recognized by the agent. Defined in `agent/protocols/core.md`.
+Natural-language commands recognized by the agent. Defined in `agent/protocols/core.md`.
 
-| Shortcut | What it does |
+| Command | What it does |
 |---|---|
-| `/logsession` | Summarize conversation, write to today's session log, commit, push, run post-logsession hook |
-| `/remember` | Pull latest, read recent session logs, report what's pending |
+| new session | Lightweight start — pull, read recent logs, report what's pending |
+| open session | Full daily start — new session + priority escalation, compaction check, handoff review |
+| log session | Lightweight save — write session log, commit, push |
+| close session | Full daily end — log session + completed-item sweep, close-session hook (todo snapshot to hub) |
 
 ---
 
@@ -48,11 +50,13 @@ Commands Sean embeds in notes. The agent scans for these after note submission b
 
 | Abbreviation | Meaning | Context |
 |---|---|---|
+| ACP | Agentic Collaborative Platform | The agent harness framework |
 | LHSOM | Lionel Hampton School of Music | Sean's unit at U of I |
 | U of I | University of Idaho | Institution |
 | OER | Open Educational Resource | Project type |
 | TA | Teaching Assistant | Graduate position |
 | NCT | Non-Chord Tone | Music theory term |
+| OMR | Optical Musical Recognition | Score-to-digital conversion |
 | pc / pcs | Pitch class / pitch-class set | Post-tonal analysis |
 
 ---
@@ -87,7 +91,7 @@ If the agent can't resolve a natural name to a single file, ask for clarificatio
 - **New shorthand:** Add to Note-Taking Shorthand table and update `agent/protocols/core.md`
 - **New abbreviation:** Add to Abbreviations table
 - **New person:** Add to Key People table
-- **New shortcut:** Add to Custom Shortcuts table and update `agent/protocols/core.md`
+- **New command:** Add to Session Commands table and update `agent/protocols/core.md`
 - **New quick-access name:** Add to Workspace Quick-Access Names table
 
 All changes to this file should be logged in `agent/roles/sean/system/CHANGELOG.md`.

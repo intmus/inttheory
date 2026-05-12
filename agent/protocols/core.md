@@ -6,31 +6,80 @@ This agent assists in editing, developing, and managing the Integrated Musicians
 
 ---
 
-## Command Shortcuts
+## Processing New Information
 
-### Session Management
+When the user gives a task or instruction:
 
-| Shortcut | Action |
-|---|---|
-| `/logsession` | Session memory save — write log, commit, push, run post-logsession hook |
-| `/remember` | Start-of-session context reload — pull, read recent logs, surface pending work |
+1. **Skill-first check.** Before starting any multi-step task, check `agent/skills/skill-index.md` for an existing skill. If one exists, follow it. If none exists and the task will recur, propose creating one alongside the work.
+2. **Route the request.** Determine whether it's content editing, infrastructure work, task management, or something else. Consult the appropriate reference files.
+3. **Confirm before acting** on anything that changes authoritative content (Lesson files), modifies agent infrastructure, or affects another role's workspace.
 
 ---
 
-### /logsession
+## Session Commands
 
-**Purpose:** Session memory save. Use for both mid-session checkpoints and end-of-session logging.
+Four natural-language commands on a 2×2 grid. The agent recognizes these from any reasonable phrasing that includes the key words. If the user says something adjacent (e.g., "catch me up") without using the command words, briefly offer the relevant command and explain the difference.
 
-**Steps:**
+|  | **Lightweight** | **Full (once per day)** |
+|---|---|---|
+| **Starting** | new session | open session |
+| **Ending** | log session | close session |
 
-1. Summarize the current conversation — what was done, decided, and what's pending
-2. Construct a session log entry with three sections: **Summary**, **Handoff Context**, **References**
-3. Read `agent/roles/[role]/short-term/daily/YYYY-MM-DD.md` (today's date). Append if it exists; create with frontmatter if not.
-4. Write/append the entry
-5. Stage the daily log file and any other files modified during the session
-6. Commit: `git commit -m "Log session YYYY-MM-DD — [brief description]"`
-7. Push: `git push`
-8. **Post-logsession hook:** Check the role's `identity.md` for a **Post-logsession** section. If one exists, execute those steps.
+Each "full" version includes everything in its lightweight counterpart, plus daily-only tasks.
+
+---
+
+### New Session
+
+Get back to work after a terminal switch, break, or context loss.
+
+1. `git pull`
+2. Read recent daily logs for the resolved role (most recent first)
+3. Read the role's section of `todo/todo.md`
+4. **Highlight new items** (multi-user). Compare the role's current todo section against the most recent daily log. Any item not referenced in that log was likely added by another role or from another terminal — flag it to the user.
+5. Synthesize and report — what's pending, what needs attention
+
+**Key behavior:** Don't recite logs. Identify what needs to be picked up and ask the user what they want to work on.
+
+### Open Session
+
+Start the day. Run once per day, first session only. Includes everything in New Session, plus:
+
+6. Run any project-specific health checks. Surface BLOCK or WARN items immediately.
+7. If more than 7 daily logs exist, offer compaction of the oldest entries.
+8. Check for incoming handoff items — read `workspace/sean_ws/active/todo-handoff.md` for new items and surface them for user review.
+9. Read `agent/reference/session-log.md` for cross-role notifications (multi-user).
+10. **Auto-escalate priorities.** For every open item with a `[by YYYY-MM-DD]` date, calculate the date-derived priority:
+
+    | Days until due | Minimum priority |
+    |---|---|
+    | Overdue or due today | P1 |
+    | 1–3 days | P2 |
+    | 4–7 days | P3 |
+    | 8–30 days | P4 |
+    | 31+ days | P5 |
+    | No `[by ...]` date | Untouched |
+
+    If the date-derived priority is more urgent than the current tag, update in place. Never downgrade. Report all changes.
+
+11. Proactively surface overdue tasks, dependency-flagged items, and pending handoffs.
+
+Steps 4, 6, 7, 8, and 9 are conditional — they apply when the project has the relevant infrastructure or is in multi-user mode. The core New Session sequence (1–3, 5) is universal.
+
+### Log Session
+
+Save context and keep working, or save before closing a quick terminal.
+
+1. Summarize the session — what was done, decided, and what's pending
+2. Construct a session log entry with three sections:
+   - **Summary** — bullet points of completed work and decisions
+   - **Handoff Context** — specific enough for a cold-start agent to pick up where this session left off
+   - **References** — files created or modified with brief descriptions
+3. Write/append to the daily log file (`agent/roles/[role]/short-term/daily/YYYY-MM-DD.md`)
+4. **Cross-role task handoff** (multi-user). If this session completed a step in a multi-role process, mark the step done in the todo file and add the next step to the appropriate role's section. Confirm with the user before adding items to another role's section.
+5. **Shared notification** (multi-user). If any items are non-sensitive and relevant to other roles, append a brief entry to `agent/reference/session-log.md` under today's date, prefixed with the role.
+6. Stage and commit all changed files
+7. `git push`
 
 **The cold-start test:** If a fresh agent reads only this log entry, can it continue the work? If not, the handoff context isn't specific enough. "Continue the migration" fails. "3 of 8 files migrated; remaining: X, Y, Z at path/" passes.
 
@@ -40,19 +89,12 @@ This agent assists in editing, developing, and managing the Integrated Musicians
 - Before a large or token-intensive operation
 - After 30+ minutes of substantial new content
 
-### /remember
+### Close Session
 
-**Purpose:** Start-of-session context reload.
+End the day. Run once per day, last session only. Includes everything in Log Session, plus:
 
-**Steps:**
-
-1. Run `git pull`
-2. Read daily log files for the active role (most recent first)
-3. Read the role's section of `todo/todo.md`
-4. Synthesize and report — what's pending, what needs attention
-5. Proactively surface handoff items
-
-**Key behavior:** Don't recite logs. Identify what needs to be picked up and ask the user what they want to work on.
+8. **Completed-item sweep.** Scan the todo file for `- [x]` items outside the Completed section. For each: extract the title and completion date, append to Completed as a single line, delete the original from its inline location. Remove any content-area sections left empty.
+9. Check `identity.md` for a **Close Session** section — if one exists, execute those steps.
 
 ---
 
@@ -102,6 +144,13 @@ Daily logs older than **7 days** compact into monthly files in `agent/roles/[rol
 
 **Format:** One paragraph per day summarizing key decisions and outcomes.
 
+**Process:**
+1. Read the daily file
+2. For each session entry, extract decisions, outcomes, and unresolved items
+3. Write a one-paragraph summary per day to the monthly file (append if exists)
+4. Delete the original daily file
+5. Commit the changes
+
 ---
 
 ## Project-Specific Protocols
@@ -112,17 +161,13 @@ Daily logs older than **7 days** compact into monthly files in `agent/roles/[rol
 - Lesson files are authoritative — do not change content without confirmation from Sean
 - Discussion files may contain errors — flag rather than silently fix
 - Preserve the discovery-based pedagogical structure (examples before rules, `### Conclusion` sections)
-- Match the voice and style of chapters 14-22 (see `docs/style-guide.md`)
+- Match the voice and style of chapters 14-22 (see `agent/reference/style-guide.md`)
 
 ### Music Notation
 
 - Use HTML `<sup>` tags for all chord symbols in text
 - Use the ABC notation capture/include pattern for musical examples
-- See `docs/style-guide.md` for full notation conventions
-
-### Skill-First Check
-
-Before starting any multi-step task, check `agent/skills/skill-index.md` for an existing skill. If one exists, follow it. If none exists and the task will recur, propose creating one alongside the work.
+- See `agent/reference/style-guide.md` for full notation conventions
 
 ### Review Workflow
 
