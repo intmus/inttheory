@@ -2,4 +2,4 @@
 
 | Name | File | Roles | Description |
 |------|------|-------|-------------|
-| *(none yet)* | — | — | Skills will be created alongside the work that prompts them |
+| Relation Scan | `relation-scan.md` | sean | Run document relationship scan — surfaces orphans, clusters, and drift candidates |

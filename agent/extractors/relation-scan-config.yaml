@@ -1,0 +1,29 @@
+# Configuration for the relation scan script
+# See agent/skills/relation-scan.md for usage
+
+targets:
+  - content/
+  - workspace/sean_ws/active/
+  - wiki/
+  - docs/
+
+exclude:
+  - workspace/*/confidential/
+  - "*.pdf"
+
+indexes:
+  - docs/topic-index.md
+  - wiki/README.md
+
+shorthand_path: agent/reference/shorthand.md
+
+tags: [VERIFY, DRAFT]
+
+freshness_threshold: 365
+min_shared_entities: 2
+
+stop_topics:
+  - action-items
+  - notes
+  - summary
+  - placeholder

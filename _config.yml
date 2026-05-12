@@ -18,6 +18,9 @@ github-repo: https://github.com/intmus/inttheory
 url: https://intmus.github.io
 baseurl: /inttheory
 
+# collections directory — all _collection/ dirs live inside content/
+collections_dir: content
+
 # collections
 # each unit of the book is a collection
 # each unit collection should be given a name value
@@ -96,4 +99,4 @@ collections:
 #    name: Assignments
 
 # ignore stuff
-exclude: [docs, agent, todo, workspace]
+exclude: [docs, agent, todo, workspace, archive, repeatable-processes, wiki]

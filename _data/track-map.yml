@@ -1,0 +1,20 @@
+# Cross-track topic alignment for sidebar navigation
+# Accessible in Liquid templates as site.data["track-map"]
+
+tracks:
+  theory:
+    label: "Theory"
+    prefix: ""
+  aural-skills:
+    label: "Aural Skills"
+    prefix: "as-"
+  piano:
+    label: "Piano"
+    prefix: "pn-"
+
+# Populated as aural skills content is imported
+# Format:
+#   14-secondary-dominant-functions:
+#     aural-skills: as-14-sec-dom-ear-training
+#     piano: null
+alignment: {}
