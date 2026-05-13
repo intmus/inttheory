@@ -14,10 +14,9 @@ Priority scale:
 
 ### Agent Infrastructure
 
-- [ ] **Register inttheory in hub registry** — add this repo to personal-assistant's `agent/toshare/registry.md` with User Heading column [P4]
 - [ ] **Test close session with hub snapshot** — verify todo snapshot appends to hub's `todo-handoff.md` [P4]
-- [ ] **Test new/open session** — verify it reads from new paths and runs full ACP open session protocol [P4]
 - [ ] **Port relation-scan.py** — copy script from personal-assistant hub to `agent/extractors/`. Config is ready. [P4]
+- [ ] **Frontmatter backfill** — add frontmatter (title, type, date, keywords) to all non-Jekyll markdown documents per `agent/skills/document-frontmatter.md`. Batch by directory: agent/ files first, then workspace/, wiki/. Jekyll chapter files are handled separately by Frontmatter enrichment. [P3]
 
 ### Content QA
 
@@ -83,3 +82,5 @@ Cleanup: every 3 months, review this list. Keep anything still useful; move the 
 - [x] Writing and style guide [completed 2026-03-27]
 - [x] Four-layer memory framework [completed 2026-04-04]
 - [x] Agent harness migration [completed 2026-04-27]
+- [x] Register inttheory in hub registry [completed 2026-05-13]
+- [x] Test new/open session [completed 2026-05-13]

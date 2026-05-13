@@ -10,9 +10,12 @@ This agent assists in editing, developing, and managing the Integrated Musicians
 
 When the user gives a task or instruction:
 
-1. **Skill-first check.** Before starting any multi-step task, check `agent/skills/skill-index.md` for an existing skill. If one exists, follow it. If none exists and the task will recur, propose creating one alongside the work.
-2. **Route the request.** Determine whether it's content editing, infrastructure work, task management, or something else. Consult the appropriate reference files.
-3. **Confirm before acting** on anything that changes authoritative content (Lesson files), modifies agent infrastructure, or affects another role's workspace.
+1. **Parse intent.** Identify what the user is asking for and what kind of work it involves.
+2. **Skill-first check.** Before starting any multi-step task, check `agent/skills/skill-index.md` for an existing skill. If one exists, follow it. If none exists and the task will recur, propose creating one alongside the work.
+3. **Route the request.** Determine the target files based on content type. Consult the appropriate reference files. **Confirm before acting** on anything that changes authoritative content (Lesson files), modifies agent infrastructure, or affects another role's workspace.
+4. **Make the change.**
+5. **Frontmatter check.** If the change created or substantively edited a markdown document, maintain frontmatter per `agent/skills/document-frontmatter.md`. Skip for trivial edits, session logs, index files, and todo files.
+6. **Confirm briefly** — one line unless there's something to flag.
 
 ---
 
@@ -34,10 +37,14 @@ Each "full" version includes everything in its lightweight counterpart, plus dai
 Get back to work after a terminal switch, break, or context loss.
 
 1. `git pull`
-2. Read recent daily logs for the resolved role (most recent first)
-3. Read the role's section of `todo/todo.md`
-4. **Highlight new items** (multi-user). Compare the role's current todo section against the most recent daily log. Any item not referenced in that log was likely added by another role or from another terminal — flag it to the user.
-5. Synthesize and report — what's pending, what needs attention
+2. Run a Python one-liner to determine today's date and day of week. Use this output for all date references during the session.
+   ```bash
+   python -c "from datetime import date; d = date.today(); print(f'{d.strftime(\"%A, %B\")} {d.day}, {d.year}')"
+   ```
+3. Read recent daily logs for the resolved role (most recent first)
+4. Read the role's section of `todo/todo.md`
+5. **Highlight new items** (multi-user). Compare the role's current todo section against the most recent daily log. Any item not referenced in that log was likely added by another role or from another terminal — flag it to the user.
+6. Synthesize and report — what's pending, what needs attention
 
 **Key behavior:** Don't recite logs. Identify what needs to be picked up and ask the user what they want to work on.
 
@@ -45,11 +52,11 @@ Get back to work after a terminal switch, break, or context loss.
 
 Start the day. Run once per day, first session only. Includes everything in New Session, plus:
 
-6. Run any project-specific health checks. Surface BLOCK or WARN items immediately.
-7. If more than 7 daily logs exist, offer compaction of the oldest entries.
-8. Check for incoming handoff items — read `workspace/sean_ws/active/todo-handoff.md` for new items and surface them for user review.
-9. Read `agent/reference/session-log.md` for cross-role notifications (multi-user).
-10. **Auto-escalate priorities.** For every open item with a `[by YYYY-MM-DD]` date, calculate the date-derived priority:
+7. Run any project-specific health checks. Surface BLOCK or WARN items immediately.
+8. If more than 7 daily logs exist, offer compaction of the oldest entries.
+9. Check for incoming handoff items — read `workspace/sean_ws/active/todo-handoff.md` for new items and surface them for user review.
+10. Read `agent/reference/session-log.md` for cross-role notifications (multi-user).
+11. **Auto-escalate priorities.** For every open item with a `[by YYYY-MM-DD]` date, calculate the date-derived priority:
 
     | Days until due | Minimum priority |
     |---|---|
@@ -62,9 +69,9 @@ Start the day. Run once per day, first session only. Includes everything in New 
 
     If the date-derived priority is more urgent than the current tag, update in place. Never downgrade. Report all changes.
 
-11. Proactively surface overdue tasks, dependency-flagged items, and pending handoffs.
+12. Proactively surface overdue tasks, dependency-flagged items, and pending handoffs.
 
-Steps 4, 6, 7, 8, and 9 are conditional — they apply when the project has the relevant infrastructure or is in multi-user mode. The core New Session sequence (1–3, 5) is universal.
+Steps 5, 7, 8, 9, and 10 are conditional — they apply when the project has the relevant infrastructure or is in multi-user mode. The core New Session sequence (1–4, 6) is universal.
 
 ### Log Session
 
@@ -93,8 +100,7 @@ Save context and keep working, or save before closing a quick terminal.
 
 End the day. Run once per day, last session only. Includes everything in Log Session, plus:
 
-8. **Completed-item sweep.** Scan the todo file for `- [x]` items outside the Completed section. For each: extract the title and completion date, append to Completed as a single line, delete the original from its inline location. Remove any content-area sections left empty.
-9. Check `identity.md` for a **Close Session** section — if one exists, execute those steps.
+8. Check `identity.md` for a **Close Session** section — if one exists, execute those steps.
 
 ---
 

@@ -89,6 +89,22 @@ inttheory/
 
 ---
 
+## Common Commands
+
+```bash
+# Determine today's date (run at session start)
+python -c "from datetime import date; d = date.today(); print(f'{d.strftime(\"%A, %B\")} {d.day}, {d.year}')"
+
+# Relation scan (after porting script from hub)
+python agent/extractors/relation-scan.py                     # Default scan
+python agent/extractors/relation-scan.py --viz               # With HTML visualization
+
+# Jekyll local dev server
+bundle exec jekyll serve
+```
+
+---
+
 ## Key Files
 
 | File | Purpose |
@@ -99,6 +115,7 @@ inttheory/
 | `agent/reference/shorthand.md` | Abbreviations, note-taking shorthand, key people, workspace quick-access |
 | `agent/reference/style-guide.md` | Voice, tone, formatting, pedagogy, analytical framework — the editorial bible |
 | `agent/skills/skill-index.md` | Index of reusable workflows (check before starting multi-step tasks) |
+| `agent/skills/document-frontmatter.md` | **Mandatory.** Frontmatter spec for all markdown documents — maintained automatically during processing |
 | `docs/topic-index.md` | Complete index of all files across all 22 chapters |
 | `docs/lesson-naming.md` | File naming conventions by chapter range |
 | `todo/todo.md` | All tasks, P1-P6 priority, links to project specs in workspace |
