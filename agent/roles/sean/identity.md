@@ -68,7 +68,13 @@ After completing the standard log session steps (write log, commit, push), execu
 
 1. Run the completed-item sweep on `todo/todo.md`
 2. Read `todo/todo.md`
-3. Append a snapshot to the hub's handoff file (see Hub Connection above):
+3. Build the "Completed Since Last Snapshot" section:
+   - Check the `## Completed` section of `todo/todo.md` for items with a completion date **at or after the previous snapshot's timestamp** (check the most recent inttheory snapshot in the hub's handoff file for the timestamp; if no prior snapshot, include all items completed today)
+   - For each, add: `- [x] Item title [completed YYYY-MM-DD]`
+   - If a completion spawned a follow-up task, add: `- [x] Old item [completed YYYY-MM-DD] → Successor: "New item title" [P#]`
+   - If an item was **removed, restructured, or deprioritized** without formal completion, add: `- [removed] Item title — reason`
+   - If nothing was completed since the last snapshot, omit the section entirely
+4. Append a snapshot to the hub's handoff file (see Hub Connection above):
    - Use the snapshot format:
      ```
      ---
@@ -78,6 +84,10 @@ After completing the standard log session steps (write log, commit, push), execu
      ---
 
      [verbatim content of todo/todo.md]
+
+     ## Completed Since Last Snapshot
+
+     [completed/removed items from step 3, or omit if none]
      ```
    - Append under the `## Snapshots` section, not at the top of the file
-4. Save the file but **do not commit or push the hub repo** — the hub's agent handles its own git operations
+5. Save the file but **do not commit or push the hub repo** — the hub's agent handles its own git operations
