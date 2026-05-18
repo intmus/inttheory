@@ -15,7 +15,7 @@ Priority scale:
 ### Agent Infrastructure
 
 - [ ] **Test close session with hub snapshot** — verify todo snapshot appends to hub's `todo-handoff.md` [P4]
-- [ ] **Port relation-scan.py** — copy script from personal-assistant hub to `agent/extractors/`. Config is ready. [P4]
+- [x] **Port relation-scan.py** — copy script from personal-assistant hub to `agent/extractors/`. Config is ready. [P4]
 - [ ] **Frontmatter backfill** — add frontmatter (title, type, date, keywords) to all non-Jekyll markdown documents per `agent/skills/document-frontmatter.md`. Batch by directory: agent/ files first, then workspace/, wiki/. Jekyll chapter files are handled separately by Frontmatter enrichment. [P3]
 
 ### Content QA
@@ -65,6 +65,14 @@ Priority scale:
 ### Maintenance
 
 - [ ] **Completed todo cleanup** — Review the Completed section. Keep anything still useful; move the rest to archive/todo-completed.md. After cleanup, set the next due date 3 months out. [by 2026-08-12] [P5]
+
+---
+
+## Miranda Wilson
+
+### Aural Skills Import
+
+*To be populated when Miranda begins working in this repo.*
 
 ---
 

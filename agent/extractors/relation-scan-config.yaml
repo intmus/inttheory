@@ -4,8 +4,13 @@
 targets:
   - content/
   - workspace/sean_ws/active/
+  - workspace/miranda_ws/active/
+  - workspace/shared/
   - wiki/
   - docs/
+  - agent/
+
+report_dir: agent/extractors/relation-reports/
 
 exclude:
   - workspace/*/confidential/

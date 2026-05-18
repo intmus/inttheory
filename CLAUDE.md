@@ -71,6 +71,7 @@ inttheory/
 │       ├── approved/
 │       └── revisions/
 ├── workspace/
+│   ├── shared/                        ← cross-role shared workspace
 │   ├── sean_ws/
 │   │   ├── active/                    ← project folders with detailed specs
 │   │   ├── uploads/
@@ -95,7 +96,7 @@ inttheory/
 # Determine today's date (run at session start)
 python -c "from datetime import date; d = date.today(); print(f'{d.strftime(\"%A, %B\")} {d.day}, {d.year}')"
 
-# Relation scan (after porting script from hub)
+# Relation scan
 python agent/extractors/relation-scan.py                     # Default scan
 python agent/extractors/relation-scan.py --viz               # With HTML visualization
 

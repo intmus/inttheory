@@ -14,3 +14,6 @@ vendor/
 # Confidential workspace directories — never committed
 workspace/sean_ws/confidential/
 workspace/miranda_ws/confidential/
+
+# Generated relation scan reports
+agent/extractors/relation-reports/

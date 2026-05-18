@@ -45,3 +45,16 @@ Collaborator and author of *Integrated Aural Skills*. Primary responsibility: im
 - Cannot approve review items — only Sean can
 - Cannot modify agent infrastructure (protocols, skills, templates) without Sean's approval
 - Content edits to chapter files should go through the review pipeline
+
+## Hub Expansion
+
+Miranda does not currently have a hub repo. The infrastructure is ready to activate if she decides to connect one:
+
+| Component | Status | Location |
+|-----------|--------|----------|
+| Todo-handoff file | Dormant | `workspace/miranda_ws/active/todo-handoff.md` |
+| Registry entry | Not yet added | `agent/toshare/registry.md` |
+| Close Session hook | Placeholder | `agent/roles/miranda/identity.md` |
+| Todo section heading | Ready | `## Miranda Wilson` in `todo/todo.md` |
+
+**To activate:** Follow the steps in `identity.md` → Hub Connection section.

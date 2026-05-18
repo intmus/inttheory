@@ -54,7 +54,7 @@ Start the day. Run once per day, first session only. Includes everything in New 
 
 7. Run any project-specific health checks. Surface BLOCK or WARN items immediately.
 8. If more than 7 daily logs exist, offer compaction of the oldest entries.
-9. Check for incoming handoff items — read `workspace/sean_ws/active/todo-handoff.md` for new items and surface them for user review.
+9. Check for incoming handoff items — read the role's `todo-handoff.md` (e.g., `workspace/[role]_ws/active/todo-handoff.md`) for new items and surface them for user review.
 10. Read `agent/reference/session-log.md` for cross-role notifications (multi-user).
 11. **Auto-escalate priorities.** For every open item with a `[by YYYY-MM-DD]` date, calculate the date-derived priority:
 
@@ -101,6 +101,10 @@ Save context and keep working, or save before closing a quick terminal.
 End the day. Run once per day, last session only. Includes everything in Log Session, plus:
 
 8. Check `identity.md` for a **Close Session** section — if one exists, execute those steps.
+
+**Common close-session hooks** (defined per-role in identity.md, not here):
+- Completed-item sweep on `todo/todo.md` — move `- [x]` items to the Completed section
+- Hub snapshot export — append todo snapshot to the hub's handoff file (if connected)
 
 ---
 
@@ -174,6 +178,36 @@ Daily logs older than **7 days** compact into monthly files in `agent/roles/[rol
 - Use HTML `<sup>` tags for all chord symbols in text
 - Use the ABC notation capture/include pattern for musical examples
 - See `agent/reference/style-guide.md` for full notation conventions
+
+### Multi-Step Process Tracking
+
+**Single-role processes** use `#### Phase` subheaders within that role's todo section:
+
+```markdown
+### Content Projects
+
+#### Phase 1 — Research
+- [ ] Gather source material [P3]
+
+#### Phase 2 — Drafting
+- [ ] Write first draft [P4]
+```
+
+**Multi-role processes** use `{process-tag}` tags to link related steps across role sections. Each step lives in the section of whoever owns it; the tag connects them into a visible pipeline:
+
+```markdown
+## Sean Butterfield
+- [ ] Review imported chapter {as-import} [P3]
+
+## Miranda Wilson
+- [ ] Convert next Pressbooks chapter {as-import} [P2]
+```
+
+**Process tag rules:**
+- Format: `{lowercase-hyphenated}` anywhere in the task line
+- The agent can filter by tag to show the full pipeline on demand
+- Cross-role handoffs inherit the process tag automatically
+- Completed items keep the tag so the pipeline history is visible
 
 ### Review Workflow
 

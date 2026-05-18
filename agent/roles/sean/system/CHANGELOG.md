@@ -1,5 +1,20 @@
 # System Changelog — Sean
 
+## 2026-05-18
+
+- **Full ACP implementation** — closed all remaining gaps against the authoritative spec (`agent-harness-impl.md`)
+- **Ported** `agent/extractors/relation-scan.py` from personal-assistant hub
+- **Updated** `relation-scan-config.yaml` — added Miranda's workspace, shared workspace, agent/ to targets; added report_dir
+- **Created** `workspace/shared/` — cross-role shared workspace per ACP spec §11
+- **Added** `## Miranda Wilson` section to `todo/todo.md`
+- **Created** `workspace/miranda_ws/active/todo-handoff.md` — dormant handoff file with hub activation instructions
+- **Updated** `agent/roles/miranda/identity.md` — added Communication Preferences, Hub Connection, Close Session sections
+- **Updated** `agent/roles/miranda/role-config.md` — added Hub Expansion section
+- **Updated** `agent/protocols/core.md` — added process tag documentation, generalized handoff path, added close-session hook reference
+- **Updated** `CLAUDE.md` — added shared workspace to directory tree, removed "after porting" note from relation scan command
+- **Updated** `.gitignore` — added `agent/extractors/relation-reports/`
+- **Updated** `agent/extractors/index.md` — removed "not yet ported" note
+
 ## 2026-04-27
 
 - **Migration:** Adopted agent harness from LHSOM/personal-assistant frameworks
