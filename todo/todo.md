@@ -15,7 +15,6 @@ Priority scale:
 ### Agent Infrastructure
 
 - [ ] **Frontmatter backfill** — add frontmatter (title, type, date, keywords) to all non-Jekyll markdown documents per `agent/skills/document-frontmatter.md`. Batch by directory: agent/ files first, then workspace/, wiki/, docs/, repeatable-processes/. Jekyll chapter files are handled separately by Frontmatter enrichment. [P3]
-- [ ] **Test close session with hub snapshot** — verify todo snapshot appends to hub's `todo-handoff.md`. Run next time "close session" is used. [P4]
 
 ### Content QA
 
@@ -95,3 +94,4 @@ Cleanup: every 3 months, review this list. Keep anything still useful; move the 
 - [x] Test new/open session [completed 2026-05-13]
 - [x] Port relation-scan.py [completed 2026-05-18]
 - [x] Full ACP implementation [completed 2026-05-18]
+- [x] Test close session with hub snapshot [completed 2026-05-18]
