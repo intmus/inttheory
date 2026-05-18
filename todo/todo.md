@@ -14,9 +14,8 @@ Priority scale:
 
 ### Agent Infrastructure
 
-- [ ] **Test close session with hub snapshot** — verify todo snapshot appends to hub's `todo-handoff.md` [P4]
-- [x] **Port relation-scan.py** — copy script from personal-assistant hub to `agent/extractors/`. Config is ready. [P4]
-- [ ] **Frontmatter backfill** — add frontmatter (title, type, date, keywords) to all non-Jekyll markdown documents per `agent/skills/document-frontmatter.md`. Batch by directory: agent/ files first, then workspace/, wiki/. Jekyll chapter files are handled separately by Frontmatter enrichment. [P3]
+- [ ] **Frontmatter backfill** — add frontmatter (title, type, date, keywords) to all non-Jekyll markdown documents per `agent/skills/document-frontmatter.md`. Batch by directory: agent/ files first, then workspace/, wiki/, docs/, repeatable-processes/. Jekyll chapter files are handled separately by Frontmatter enrichment. [P3]
+- [ ] **Test close session with hub snapshot** — verify todo snapshot appends to hub's `todo-handoff.md`. Run next time "close session" is used. [P4]
 
 ### Content QA
 
@@ -65,6 +64,8 @@ Priority scale:
 ### Maintenance
 
 - [ ] **Completed todo cleanup** — Review the Completed section. Keep anything still useful; move the rest to archive/todo-completed.md. After cleanup, set the next due date 3 months out. [by 2026-08-12] [P5]
+- [ ] **Periodic relation scan** — run `python agent/extractors/relation-scan.py` biweekly to surface orphans, clusters, and drift candidates. Most useful after frontmatter backfill is complete. [P6]
+- [ ] **Extend relation-scan BACKTICK_PATH_PATTERN** — the script's backtick-path regex only matches paths starting with `agent|workspace|todo|notes|archive|references`. Add `content|docs|wiki|repeatable-processes` so cross-references to those directories are detected. [P6]
 
 ---
 
@@ -92,3 +93,5 @@ Cleanup: every 3 months, review this list. Keep anything still useful; move the 
 - [x] Agent harness migration [completed 2026-04-27]
 - [x] Register inttheory in hub registry [completed 2026-05-13]
 - [x] Test new/open session [completed 2026-05-13]
+- [x] Port relation-scan.py [completed 2026-05-18]
+- [x] Full ACP implementation [completed 2026-05-18]

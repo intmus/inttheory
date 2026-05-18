@@ -165,6 +165,14 @@ Daily logs older than **7 days** compact into monthly files in `agent/roles/[rol
 
 ## Project-Specific Protocols
 
+### Constitution-Level Files
+
+Changes to `CLAUDE.md` and any `role-config.md` require confirmation from Sean before editing. These files define how the system operates and affect all roles.
+
+### Role Isolation
+
+An agent operating as one role should not read from or write to another role's folder (`agent/roles/[other-role]/`, `workspace/[other-role]_ws/`). Cross-role awareness flows through the shared notification layer (`agent/reference/session-log.md`) and the todo file — not by accessing another role's private files. The user can override this when needed.
+
 ### Editing Content
 
 - Always read a file before editing it
