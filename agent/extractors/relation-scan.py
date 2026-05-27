@@ -37,7 +37,8 @@ DEFAULT_CONFIG = REPO_ROOT / "agent" / "extractors" / "relation-scan-config.yaml
 
 MD_LINK_PATTERN = re.compile(r"\[[^\]]+\]\(([^):]+\.md)(?:#[^)]+)?\)")
 BACKTICK_PATH_PATTERN = re.compile(
-    r"`((?:agent|workspace|todo|notes|archive|references)/[^\s`]+\.(?:md|py|bat|sh|json|docx|xlsx))`"
+    r"`((?:agent|workspace|todo|archive|wiki|docs|content|repeatable-processes)"
+    r"/[^\s`]+\.(?:md|py|bat|sh|json|yaml|docx|xlsx))`"
 )
 HEADER_PATTERN = re.compile(r"^#{1,3}\s+(.+)$", re.MULTILINE)
 DATE_PATTERN = re.compile(r"\d{4}-\d{2}-\d{2}")
