@@ -52,7 +52,7 @@ Get back to work after a terminal switch, break, or context loss.
 
 Start the day. Run once per day, first session only. Includes everything in New Session, plus:
 
-7. Run any project-specific health checks. Surface BLOCK or WARN items immediately.
+7. Run the integrity scan: `python agent/system/integrity-scan.py`. Surface BLOCK and WARN items immediately. For INFO items, report the count only.
 8. If more than 7 daily logs exist, offer compaction of the oldest entries.
 9. Check for incoming handoff items — read the role's `todo-handoff.md` (e.g., `workspace/[role]_ws/active/todo-handoff.md`) for new items and surface them for user review.
 10. Read `agent/reference/session-log.md` for cross-role notifications (multi-user).

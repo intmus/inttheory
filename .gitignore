@@ -15,5 +15,6 @@ vendor/
 workspace/sean_ws/confidential/
 workspace/miranda_ws/confidential/
 
-# Generated relation scan reports
+# Generated scan reports
 agent/extractors/relation-reports/
+agent/system/integrity-reports/

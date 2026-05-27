@@ -66,6 +66,10 @@ inttheory/
 │   │   └── session-log.md             ← cross-role notification layer
 │   ├── toshare/
 │   │   └── registry.md               ← cross-project hub connection
+│   ├── system/
+│   │   ├── integrity-scan.py          ← structural health check (open session)
+│   │   ├── integrity-reports/         ← gitignored scan output
+│   │   └── CHANGELOG.md
 │   └── review/
 │       ├── pending/                   ← work awaiting approval
 │       ├── approved/
@@ -96,8 +100,11 @@ inttheory/
 # Determine today's date (run at session start)
 python -c "from datetime import date; d = date.today(); print(f'{d.strftime(\"%A, %B\")} {d.day}, {d.year}')"
 
-# Relation scan
-python agent/extractors/relation-scan.py                     # Default scan
+# Integrity scan (every open session — fast, stdlib only)
+python agent/system/integrity-scan.py                        # Structural health check
+
+# Relation scan (biweekly / on demand — requires networkx, pyyaml)
+python agent/extractors/relation-scan.py                     # Document relationship graph
 python agent/extractors/relation-scan.py --viz               # With HTML visualization
 
 # Jekyll local dev server
@@ -121,3 +128,5 @@ bundle exec jekyll serve
 | `docs/lesson-naming.md` | File naming conventions by chapter range |
 | `todo/todo.md` | All tasks, P1-P6 priority, links to project specs in workspace |
 | `agent/toshare/registry.md` | Cross-project connection to personal-assistant hub |
+| `agent/system/integrity-scan.py` | Structural health check — runs every open session, stdlib only |
+| `agent/system/CHANGELOG.md` | Log for agent/system tooling changes |
