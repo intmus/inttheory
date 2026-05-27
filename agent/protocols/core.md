@@ -53,7 +53,7 @@ Get back to work after a terminal switch, break, or context loss.
 Start the day. Run once per day, first session only. Includes everything in New Session, plus:
 
 7. Run the integrity scan: `python agent/system/integrity-scan.py`. Surface BLOCK and WARN items immediately. For INFO items, report the count only.
-8. If more than 7 daily logs exist, offer compaction of the oldest entries.
+8. **Auto-compact daily logs.** Keep only the 7 most recent daily logs per role. Compact all older logs into the monthly file per the Compaction process below. Report what was compacted.
 9. Check for incoming handoff items — read the role's `todo-handoff.md` (e.g., `workspace/[role]_ws/active/todo-handoff.md`) for new items and surface them for user review.
 10. Read `agent/reference/session-log.md` for cross-role notifications (multi-user).
 11. **Auto-escalate priorities.** For every open item with a `[by YYYY-MM-DD]` date, calculate the date-derived priority:
@@ -71,7 +71,7 @@ Start the day. Run once per day, first session only. Includes everything in New 
 
 12. Proactively surface overdue tasks, dependency-flagged items, and pending handoffs.
 
-Steps 5, 8, 9, and 10 are conditional — they apply when the project has the relevant infrastructure or is in multi-user mode. The core New Session sequence (1–4, 6) is universal.
+Steps 5, 9, and 10 are conditional — they apply when the project has the relevant infrastructure or is in multi-user mode. The core New Session sequence (1–4, 6) is universal.
 
 ### Log Session
 

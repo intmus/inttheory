@@ -64,8 +64,6 @@ Priority scale:
 
 - [ ] **Completed todo cleanup** — Review the Completed section. Keep anything still useful; move the rest to archive/todo-completed.md. After cleanup, set the next due date 3 months out. [by 2026-08-12] [P5]
 - [ ] **Periodic relation scan** — run `python agent/extractors/relation-scan.py` biweekly to surface orphans, clusters, and drift candidates. Most useful after frontmatter backfill is complete. [P6]
-- [x] **Extend relation-scan BACKTICK_PATH_PATTERN** — the script's backtick-path regex only matches paths starting with `agent|workspace|todo|notes|archive|references`. Add `content|docs|wiki|repeatable-processes` so cross-references to those directories are detected. [P6]
-
 ---
 
 ## Miranda Wilson
@@ -95,3 +93,4 @@ Cleanup: every 3 months, review this list. Keep anything still useful; move the 
 - [x] Port relation-scan.py [completed 2026-05-18]
 - [x] Full ACP implementation [completed 2026-05-18]
 - [x] Test close session with hub snapshot [completed 2026-05-18]
+- [x] Extend relation-scan BACKTICK_PATH_PATTERN [completed 2026-05-27]
