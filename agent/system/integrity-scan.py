@@ -39,6 +39,7 @@ EXPECTED_STRUCTURE = [
     ("agent/templates/index.md", WARN),
     ("agent/extractors/index.md", WARN),
     ("agent/toshare/registry.md", WARN),
+    ("agent/system/CHANGELOG.md", WARN),
     # Sean's role
     ("agent/roles/sean/identity.md", BLOCK),
     ("agent/roles/sean/role-config.md", BLOCK),

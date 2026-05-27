@@ -71,7 +71,7 @@ Start the day. Run once per day, first session only. Includes everything in New 
 
 12. Proactively surface overdue tasks, dependency-flagged items, and pending handoffs.
 
-Steps 5, 7, 8, 9, and 10 are conditional — they apply when the project has the relevant infrastructure or is in multi-user mode. The core New Session sequence (1–4, 6) is universal.
+Steps 5, 8, 9, and 10 are conditional — they apply when the project has the relevant infrastructure or is in multi-user mode. The core New Session sequence (1–4, 6) is universal.
 
 ### Log Session
 
